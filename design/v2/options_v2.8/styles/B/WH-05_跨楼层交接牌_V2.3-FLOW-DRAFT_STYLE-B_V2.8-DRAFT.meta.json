@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "B",
+  "style_label": "白底信息优先",
+  "code": "WH-05",
+  "template_code": "WH-05",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT.svg",
+  "source_sha256": "3b6fe38cb56b63a6f24ae6dda45e34ce3be72042e53003fd55dcf8a4f9d80d78",
+  "nominal_size_mm": [
+    900,
+    600
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"WH-05\", \"revision\": \"V2.3-FLOW-DRAFT\", \"status\": \"template_proposal_pending_review\", \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-05_跨楼层交接牌.svg\", \"sha256\": \"814c90f3fbfb9be053e00af25ca0a750b3f67bb83a81d49dc980b690add5b68d\"}, \"original_text_preserved\": [\"跨楼层物流交接\", \"INTER-FLOOR TRANSFER\", \"5F\", \"目的楼层 / 区域\", \"________________\", \"搬运任务ID\", \"________________\", \"物料 / 批次\", \"________________\", \"当前车数 / 上限\", \"________________\", \"发出 / 接收确认\", \"________________\", \"待运位必须在批准物流区；不得占用电梯门前、前室和疏散通道\"], \"change_reasons\": [\"删除未经确认的5F实例\", \"发出准备与接收准备独立记录，按任务核窗口、批次及接手\", \"满位或未就绪暂停发出，在核准源端等待；不在门前或前室设溢出\"], \"nominal_dimensions_mm\": [900, 600], \"viewbox_contract\": \"1 SVG user unit = 1 nominal mm\", \"nominal_font_size_note\": \"font-size is nominal em in template units; not measured printed glyph height or site installation/readability approval\", \"actual_point_id\": null, \"actual_floor_id\": null, \"actual_area_id\": null, \"actual_direction_degrees\": null, \"actual_installation_height_mm\": null, \"actual_installed_quantity\": null, \"approved_capacity\": null, \"production_release\": false, \"approvals\": {\"content\": null, \"location\": null, \"operation\": null, \"installation\": null, \"safety_when_applicable\": null}, \"orange_floor_markings\": false, \"safety_graphics_changed\": false, \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"template_slots_are_not_site_counts\": true, \"read_update_hierarchy\": [\"准备核对面\", \"当前任务与批次可换\", \"源端等待与满位控制\"], \"visitor_node_id\": null, \"visitor_id_example\": null, \"render_review\": {\"status\": \"digital_render_bounds_and_pixels_checked\", \"png\": \"reports/flow_template_render/WH-05.png\", \"qa_record\": \"reports/flow_template_render/render_qa.json\", \"text_inside_artboard\": true, \"text_overlap_candidates\": 0, \"pixels_viewed_individually\": true, \"chinese_display_checked\": true, \"font_used\": \"Installed PingFang SC fallback\", \"physical_1_to_1_sample_tested\": false, \"site_reading_distance_approved\": false, \"installation_approved\": false}, \"path\": \"design/v2/flow_v2.3/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT.svg\", \"sidecar_path\": \"design/v2/flow_v2.3/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT.sidecar.json\"}"
+  ]
+}

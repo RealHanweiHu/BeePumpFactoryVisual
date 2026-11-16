@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "A",
+  "style_label": "原版黑橙",
+  "code": "SW-01",
+  "template_code": "SW-01",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "abdf0d0528b96f12091f8486f0ee9bbee210cf1c64fb91e7a0953ef90df14484",
+  "nominal_size_mm": [
+    420,
+    297
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"SW-01\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"SW-01\", \"floor_proposal\": null, \"nominal_dimensions_mm\": [420, 297], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-01_SOP作业框架.svg\", \"sha256\": \"23d0dea4b09176c028d083d38cf840f621a4ae0c8e4fd4736d85fb453ea47722\"}}"
+  ]
+}

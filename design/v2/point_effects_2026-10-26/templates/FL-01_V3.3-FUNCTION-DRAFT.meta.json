@@ -1,0 +1,48 @@
+{
+  "code": "FL-01",
+  "revision": "V3.3-FUNCTION-DRAFT",
+  "status": "proposal_pending_review",
+  "production_release": false,
+  "physical_size_mm": [
+    600,
+    450
+  ],
+  "dimension_scope": "Existing nominal template size retained; site/installation dimensions unknown.",
+  "source_path": "交付_8楼/design/v2/split_v2.4/8F/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT.svg",
+  "source_sha256": "51dd19de8fd65fa6bbd14c43fb2a3b3a95b85c85ad2470389dfa642c04cf6004",
+  "original_text_preserved_in_metadata": [
+    "在制品限量",
+    "WIP LIMIT / FIFO",
+    "8F / 工序待核",
+    "工序关系待核",
+    "当前占用",
+    "批准上限",
+    "待填",
+    "待批准",
+    "计量单位：待核（车 / 箱 / 件分开记录）",
+    "每容器标准数量：待填",
+    "批准依据 / 版次：待填",
+    "允许物料 / 版本：待填",
+    "更新人 / 时间：待填",
+    "满位：停止继续投放，通知班组长",
+    "取料：按已放行批次与先后顺序执行",
+    "冻结品退出正常FIFO；未批准上限不作为增加暂存许可。",
+    "FL-01 / 上限、容器与现场容量共同复核"
+  ],
+  "decision": "Refine",
+  "changes": [
+    "保留批准上限、容器、单位、允许版本、依据、更新与满位动作。",
+    "两个大数据框与黑底动作区分开，状态控制不靠橙色或假容量。"
+  ],
+  "external_reference_status": "Initial layouts preceded Xiaohongshu login; subsequently reviewed against 3 observed Xiaohongshu posts and 4 supplementary primary sources. See reference ledger.",
+  "reference_ledger": "reports/point_effects_2026-10-26/reference_records.json",
+  "quantity_installed": null,
+  "installation_height_mm": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "font_files_distributed": false,
+  "path": "design/v2/point_effects_2026-10-26/templates/FL-01_V3.3-FUNCTION-DRAFT.svg"
+}

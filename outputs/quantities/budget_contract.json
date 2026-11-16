@@ -1,0 +1,13 @@
+{
+  "currency_assumption": "CNY",
+  "actual_supplier_quote": false,
+  "site_quantity_status": "unknown_not_zero",
+  "draft_sign_locations": null,
+  "approved_sign_quantity": null,
+  "formula": "subtotal = SUM(physical_qty * (piece_price_including_faces + install_price)); extras, loss and tax are separate reviewed inputs",
+  "production_approval": false,
+  "proofing_proposal": "首批六款可分别做1:1纸样；种类数不是现场安装数量。单双面方向及安装材料不由纸样批准。",
+  "floor_marking_length_m": null,
+  "floor_coating_area_m2": null,
+  "safety_facilities": "专项项目另表，不计入VI板面报价"
+}

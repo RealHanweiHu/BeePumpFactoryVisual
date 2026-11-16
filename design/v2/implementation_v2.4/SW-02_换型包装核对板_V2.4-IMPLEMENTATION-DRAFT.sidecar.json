@@ -1,0 +1,82 @@
+{
+  "template_code": "SW-02",
+  "template_name": "换型包装核对板",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "variant_id": "SW-02",
+  "content_variant": "换型/包规/首件/许可闭环",
+  "floor_proposal": null,
+  "status": "implementation_review_proposal",
+  "source_template": {
+    "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-02_换型包装核对板.svg",
+    "sha256": "d6c31b99ad14ae252b61b0a715e49a7b7f2be8dd608e426069d908f473b97408"
+  },
+  "original_text_preserved": [
+    "换型与包装核对",
+    "CHANGEOVER & PACK VERIFICATION",
+    "4F / 8F",
+    "01 清线",
+    "旧料 / 标签 / 程序 / 样品撤离",
+    "02 换版",
+    "新物料 / SOP / 治具 / 测试版本",
+    "03 首件",
+    "授权判定 / 结果记录 / 批量许可",
+    "包装组合核对：彩盒 / 说明书 / 配件 / 标签 / 目的市场",
+    "批准样例编号：__________   双人核对：__________   时间：__________",
+    "客户专用内容在访客视图脱敏；未批准组合不得进入批量包装"
+  ],
+  "change_reasons": [
+    "保留清线、换版、首件与五类包装组合核对",
+    "产品、工单、生效批次、批准样例ID及记录字段待填",
+    "现场核对权限不伪签，不默认所有产品均有测试程序或特定包规"
+  ],
+  "nominal_dimensions_mm": [
+    420,
+    297
+  ],
+  "viewbox_contract": "1 SVG user unit = 1 nominal mm",
+  "nominal_font_size_note": "font-size is nominal em in template units, not printed glyph height or site readability approval",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "actual_area_id": null,
+  "actual_direction_degrees": null,
+  "actual_installation_height_mm": null,
+  "actual_installed_quantity": null,
+  "actual_face_count": null,
+  "approved_capacity": null,
+  "production_release": false,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "operation": null,
+    "installation": null,
+    "safety_when_applicable": null
+  },
+  "orange_floor_markings": false,
+  "safety_graphics_changed": false,
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "template_slots_are_not_site_counts": true,
+  "read_update_hierarchy": [
+    "换型执行与当前版",
+    "首件与批量许可",
+    "组合一致/保密边界"
+  ],
+  "render_review": {
+    "status": "digital_render_bounds_and_pixels_checked",
+    "png": "reports/implementation_template_render/SW-02.png",
+    "qa_record": "reports/implementation_template_render/render_qa.json",
+    "text_inside_artboard": true,
+    "text_overlap_candidates": 0,
+    "pixels_viewed_individually": true,
+    "chinese_display_checked": true,
+    "source_png_viewed_before_edit": true,
+    "font_used": "Installed PingFang SC fallback",
+    "physical_1_to_1_sample_tested": false,
+    "site_reading_distance_approved": false,
+    "installation_approved": false,
+    "thumbnail_note": "WF-01-8F header and WF-02-8F lower text were additionally checked by native-size PNG detail; their corresponding unchanged pixels equal 1F variants"
+  },
+  "path": "design/v2/implementation_v2.4/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "sidecar_path": "design/v2/implementation_v2.4/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT.sidecar.json",
+  "svg_sha256": "ea7f90f10b37eb3cea999a156b453647c7067f50da563ff8812367dd0ed4c5ed"
+}

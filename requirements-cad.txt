@@ -1,0 +1,2 @@
+# Optional local CAD parsing only. Does NOT include or install ODA File Converter.
+ezdxf>=1.4,<2

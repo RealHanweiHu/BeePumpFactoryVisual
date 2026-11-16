@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="841mm" viewBox="0 0 594 841" role="img" aria-labelledby="title desc">
+<title id="title">ES-01 电子装配进入确认 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;ES-01&quot;, &quot;name&quot;: &quot;电子装配进入确认&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/ES-01_电子装配进入确认.svg&quot;, &quot;source_sha256&quot;: &quot;c5da3167605890bfdbf05e57511164489e297c3d94b1f077a372ed097a869a72&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;电子装配区进入确认&quot;, &quot;EPA ENTRY CHECK&quot;, &quot;8F / SMT&quot;, &quot;01&quot;, &quot;人员&quot;, &quot;按现场ESD方案完成适用测试&quot;, &quot;02&quot;, &quot;物料&quot;, &quot;确认防静电包装与敏感器件标识&quot;, &quot;03&quot;, &quot;工位&quot;, &quot;确认接地、工具与日常点检状态&quot;, &quot;04&quot;, &quot;异常&quot;, &quot;未通过检查：暂停进入并联系责任人&quot;, &quot;安全指令图形另用批准标准标志&quot;, &quot;这是管理信息板，不代替ESD工程设计、检测或标准安全标志&quot;], &quot;physical_size_mm&quot;: [594, 841], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;移除8F/SMT实例和假定两条线&quot;, &quot;先有真实EPA适用授权，再列人员/物料/工位进入确认&quot;, &quot;不证明EPA设施合格，不默认要求所有员工或访客风淋&quot;, &quot;仅管理信息，安全图形与设施测试依据由专业方案确定&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/ES-01.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/ES-01.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="594" height="841" fill="#FFFFFF"/>
+<rect x="0" y="0" width="594" height="126.15" fill="#000000"/>
+<rect x="0" y="0" width="6.534" height="126.15" fill="#FF6600"/>
+<text x="26.73" y="59.29" font-size="34.06" fill="#FFFFFF" font-weight="700" text-anchor="start">电子装配区进入确认</text>
+<text x="26.73" y="100.92" font-size="15.138" fill="#FFFFFF" font-weight="500" text-anchor="start">EPA ENTRY INFORMATION</text>
+<text x="567.27" y="59.29" font-size="20.184" fill="#FF6600" font-weight="700" text-anchor="end">ES-01</text>
+<text x="26.73" y="169.15" font-size="23" fill="#000000" font-weight="700" text-anchor="start">仅适用经企业确认的 EPA 受控区域</text>
+<text x="26.73" y="231" font-size="24" fill="#FF6600" font-weight="700" text-anchor="start">适用依据</text>
+<text x="26.73" y="265" font-size="16" fill="#000000" font-weight="400" text-anchor="start">EPA边界 / 敏感器件 / 方案版本待批准</text>
+<line x1="26.73" y1="280" x2="567.27" y2="280" stroke="#C9C9C9" stroke-width="0.8"/>
+<text x="26.73" y="321" font-size="24" fill="#FF6600" font-weight="700" text-anchor="start">人员确认</text>
+<text x="26.73" y="355" font-size="16" fill="#000000" font-weight="400" text-anchor="start">按适用方案核验真实人员测试与授权</text>
+<line x1="26.73" y1="370" x2="567.27" y2="370" stroke="#C9C9C9" stroke-width="0.8"/>
+<text x="26.73" y="411" font-size="24" fill="#FF6600" font-weight="700" text-anchor="start">物料确认</text>
+<text x="26.73" y="445" font-size="16" fill="#000000" font-weight="400" text-anchor="start">按适用方案核验包装与器件状态</text>
+<line x1="26.73" y1="460" x2="567.27" y2="460" stroke="#C9C9C9" stroke-width="0.8"/>
+<text x="26.73" y="501" font-size="24" fill="#FF6600" font-weight="700" text-anchor="start">工位确认</text>
+<text x="26.73" y="535" font-size="16" fill="#000000" font-weight="400" text-anchor="start">按适用方案核验设施、工具和点检记录</text>
+<line x1="26.73" y1="550" x2="567.27" y2="550" stroke="#C9C9C9" stroke-width="0.8"/>
+<text x="26.73" y="591" font-size="24" fill="#FF6600" font-weight="700" text-anchor="start">异常接手</text>
+<text x="26.73" y="625" font-size="16" fill="#000000" font-weight="400" text-anchor="start">确认失败暂停受控作业，联系责任人</text>
+<line x1="26.73" y1="640" x2="567.27" y2="640" stroke="#C9C9C9" stroke-width="0.8"/>
+<text x="26.73" y="707" font-size="17" fill="#3E3A39" font-weight="400" text-anchor="start">负责人 / 联系方式</text>
+<text x="318" y="707" font-size="17" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="26.73" y1="716.24" x2="567.27" y2="716.24" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="749" font-size="17" fill="#3E3A39" font-weight="400" text-anchor="start">确认记录 / 文件</text>
+<text x="318" y="749" font-size="17" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="26.73" y1="758.24" x2="567.27" y2="758.24" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="836.842" font-size="8.316" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 不证明 EPA 已建成，不要求所有人风淋，不代替 ESD 工程设计</text>
+</g>
+</svg>

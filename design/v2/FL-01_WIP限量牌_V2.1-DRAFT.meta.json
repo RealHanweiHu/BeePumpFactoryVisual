@@ -1,0 +1,56 @@
+{
+  "code": "FL-01",
+  "revision": "V2.1-DRAFT",
+  "status": "proposal_pending_review",
+  "physical_size_mm": [
+    600,
+    450
+  ],
+  "viewbox_units": "1 SVG user unit = 1 mm",
+  "source_path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FL-01_WIP限量牌.svg",
+  "source_sha256": "07ab9a5f926b1012c6c45f1d45a858ce00d81d2d9f66d03012d26c0d7430b69c",
+  "original_text_preserved_in_metadata": [
+    "在制品限量",
+    "WIP LIMIT / FIFO",
+    "8F-A→8F-C",
+    "上限",
+    "3 车",
+    "示例",
+    "每车标准数量：20台（示例）",
+    "允许物料 / 版本：________________",
+    "满位：停止继续投入，通知班组长",
+    "取料：按已放行批次与先后顺序执行",
+    "3车 / 20台仅演示；现场容量须由节拍、周转与安全约束批准"
+  ],
+  "changes": [
+    "删除示例3车/20台",
+    "并列当前与批准上限；保留满位停投和放行FIFO动作"
+  ],
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "nominal_font_sizes_are_em_mm": true,
+  "printed_ink_height_and_reading_distance": "Verify at 1:1 under real lighting; not approved by web preview",
+  "area_ids": "8F-A and 8F-C are baseline mappings, not confirmed DWG placements",
+  "installation_height_mm": null,
+  "quantity_installed": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "qr_status": "not_applicable",
+  "path": "design/v2/FL-01_WIP限量牌_V2.1-DRAFT.svg",
+  "template_code": "FL-01",
+  "source_v1_sha256": "07ab9a5f926b1012c6c45f1d45a858ce00d81d2d9f66d03012d26c0d7430b69c",
+  "physical_width_mm": 600,
+  "physical_height_mm": 450,
+  "authoring_notes": [
+    "删除示例3车/20台",
+    "并列当前与批准上限；保留满位停投和放行FIFO动作"
+  ],
+  "content_review": "pending_owner_and_department_review",
+  "render_evidence": [
+    "reports/v2_render/FL-01.png",
+    "reports/v2_render_qa.json"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "C",
+  "style_label": "固定标签分区",
+  "code": "EQ-03",
+  "template_code": "EQ-03",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "9fb5303d64fff26e52e25f80aafc44cb71053c3880b5f6eb2cc26852f909b55c",
+  "nominal_size_mm": [
+    100,
+    70
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"EQ-03\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"EQ-03\", \"floor_proposal\": null, \"nominal_dimensions_mm\": [100, 70], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-03_设备状态卡.svg\", \"sha256\": \"e8bcea088498d7df693c3287901b07d0a2463af3c1dfe2622d0c51348fd08c0a\"}}"
+  ]
+}

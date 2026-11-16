@@ -1,0 +1,21 @@
+﻿intent_id,floor_id,area_id,template_code,name,context_to_survey,owner_role,status,quantity,faces,position_world,installation_height_mm,material_spec,note
+I-8F-01,8F,,BE-02,楼层入口形象,楼层入口附近可见墙面,行政 / 销售,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-02,8F,,WF-01,楼层导览,入口决策点,行政 / 生产,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-03,8F,,WF-02,区域吊牌,8F-A入口视线,生产 / 工程,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-04,8F,,WF-04,柱牌,8F-A区域定位锚点,生产 / 工程,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-05,8F,,PM-01,生产运行,班组当班更新点,生产 / PMC / 品质,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-06,8F,,PM-02,SQDCP,班组日会点,生产 / 品质 / 工程,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-07,8F,,WH-01,库位,批准的线边物料位,仓库 / 系统管理员,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-08,8F,,WH-05,跨层交接,批准的物流待运区,物流 / 安全,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-09,8F,,EQ-01,设备身份,设备操作可见面,工程,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-10,8F,,EQ-03,设备状态,设备身份牌附近独立卡槽,生产 / 工程,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-11,8F,,QC-01~04,质量状态卡,容器与批次对象,品质,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-12,8F,,SW-01,SOP,对应受控工位,技术 / 品质 / 生产,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-13,8F,,SW-02,换型包装,首件与包装核对点,技术 / 品质 / 销售,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-14,8F,,FL-01,WIP限量,批准的段间缓冲点,生产 / 物流 / 安全,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-15,8F,,FL-02,FIFO逻辑,缓冲区可读说明面,生产 / 物流,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-16,8F,,VS-01,6S责任,责任区入口,区域负责人,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-17,8F,,VT-01,参观节点,批准的客户停留点,销售 / 品质 / 安全,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-18,8F,,BT-01,电池暂存,经专项批准的暂存区,安全 / 工程,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-19,8F,,BT-02,测试周期,实际测试格位外侧,品质 / 工程,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌
+I-8F-20,8F,,ES-01,电子装配进入确认,已确认的EPA入口,工程 / 品质,unlocated_requirement,,,,,,需求条目不是安装点位；20条不代表20块标牌

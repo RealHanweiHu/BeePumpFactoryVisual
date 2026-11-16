@@ -1,0 +1,37 @@
+{
+  "revision": "V2.9.1-GROUND-LOGISTICS-DRAFT",
+  "recorded_on": "2026-10-18",
+  "source": "Direct human user reply in current chat",
+  "current_transport": {
+    "value": "人工周转车",
+    "status": "user_confirmed",
+    "dimensions_mm": null
+  },
+  "future_transport": {
+    "value": "电动搬运车",
+    "status": "under_consideration_allow_for_future",
+    "selected_type": null,
+    "selected_model": null,
+    "procurement_approval": null,
+    "dimensions_mm": null
+  },
+  "process": {
+    "value": [
+      "来料交接",
+      "装配",
+      "测试／老化",
+      "包装",
+      "成品交接"
+    ],
+    "status": "user_confirmed_for_planning",
+    "aging_applicability": "per_actual_work_order_not_all_models_confirmed"
+  },
+  "verbatim_replies": [
+    "目前是人工周转车，但之后考虑切换为电动搬运车，需要考虑预留",
+    "可以"
+  ],
+  "confirmation_scope": "运输现状、未来预留意向与主流程；不是位置、尺寸、安全或制作安装批准",
+  "freight_lift_identified": false,
+  "physical_dimensions_mm": null,
+  "production_release": false
+}

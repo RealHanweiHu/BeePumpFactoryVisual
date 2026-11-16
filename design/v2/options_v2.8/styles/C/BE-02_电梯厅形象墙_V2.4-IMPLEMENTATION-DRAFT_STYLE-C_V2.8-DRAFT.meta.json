@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "C",
+  "style_label": "固定标签分区",
+  "code": "BE-02",
+  "template_code": "BE-02",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "046ece8f365b87460deff23e54db0735bdf20c439aa2a8f4c7974fd315f5d1fc",
+  "nominal_size_mm": [
+    3600,
+    2200
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"BE-02\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"BE-02\", \"floor_proposal\": \"8F\", \"nominal_dimensions_mm\": [3600, 2200], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-02_电梯厅形象墙.svg\", \"sha256\": \"a7455723605e2ae79abf2824b88ac30c265fb8cc75ff5b7e6ebdf76f76c5a978\"}}"
+  ]
+}

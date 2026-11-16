@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594mm" height="841mm" viewBox="0 0 594 841" role="img" aria-labelledby="title desc">
+<title id="title">BT-01 电池暂存信息牌 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;BT-01&quot;, &quot;name&quot;: &quot;电池暂存信息牌&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/BT-01_电池暂存信息牌.svg&quot;, &quot;source_sha256&quot;: &quot;46a31e6f7e8963277a9aad083040793e32a4927c1bf11627c1a0d271246dfd1a&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;电池暂存管理信息&quot;, &quot;BATTERY STAGING INFORMATION&quot;, &quot;8F-B&quot;, &quot;责任人 / 联系方式&quot;, &quot;________________&quot;, &quot;电池类型 / 规格&quot;, &quot;________________&quot;, &quot;允许状态 / 用途&quot;, &quot;________________&quot;, &quot;批准数量上限&quot;, &quot;________________&quot;, &quot;批准能量上限&quot;, &quot;________________&quot;, &quot;实际数量 / 能量&quot;, &quot;________________&quot;, &quot;批准文件 / 版本&quot;, &quot;________________&quot;, &quot;发现异常：停止作业、警戒并报告&quot;, &quot;具体处置仅执行现场批准预案，非本牌自由填写&quot;, &quot;本牌不确定储存地点、数量、消防配置或异常电池搬运方法&quot;], &quot;physical_size_mm&quot;: [594, 841], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;明确完整外采电池包，不假设电芯制造或电池上楼获批&quot;, &quot;不填虚构数量、能量、温度、SOC、时长或存运许可&quot;, &quot;专项文件与负责人为独立审批接口&quot;, &quot;不提供水桶、浸泡、异常搬运或灭火步骤；仅引用现场批准预案&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/BT-01.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/BT-01.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="594" height="841" fill="#FFFFFF"/>
+<rect x="0" y="0" width="594" height="126.15" fill="#000000"/>
+<rect x="0" y="0" width="6.534" height="126.15" fill="#FF6600"/>
+<text x="26.73" y="59.29" font-size="34.06" fill="#FFFFFF" font-weight="700" text-anchor="start">电池暂存管理信息</text>
+<text x="26.73" y="100.92" font-size="15.138" fill="#FFFFFF" font-weight="500" text-anchor="start">BATTERY PACK STAGING INFORMATION</text>
+<text x="567.27" y="59.29" font-size="20.184" fill="#FF6600" font-weight="700" text-anchor="end">BT-01</text>
+<text x="26.73" y="169.15" font-size="21" fill="#000000" font-weight="700" text-anchor="start">完整外采电池包 · 专项适用范围待批准</text>
+<text x="26.73" y="219.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">型号 / 规格 / 来源</text>
+<text x="298" y="219.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="26.73" y1="229.93" x2="567.27" y2="229.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="268.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">允许状态 / 用途</text>
+<text x="298" y="268.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待专项批准</text>
+<line x1="26.73" y1="278.93" x2="567.27" y2="278.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="317.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">实际区域 / 边界</text>
+<text x="298" y="317.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待专项核定</text>
+<line x1="26.73" y1="327.93" x2="567.27" y2="327.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="366.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">批准数量 / 能量上限</text>
+<text x="298" y="366.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待批准，未填不构成许可</text>
+<line x1="26.73" y1="376.93" x2="567.27" y2="376.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="415.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">实际数量 / 能量 / 时间</text>
+<text x="298" y="415.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待现场记录</text>
+<line x1="26.73" y1="425.93" x2="567.27" y2="425.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="464.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">适用存运条件 / 文件</text>
+<text x="298" y="464.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待填批准文件编号</text>
+<line x1="26.73" y1="474.93" x2="567.27" y2="474.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="513.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">专项批准文件 / 版本</text>
+<text x="298" y="513.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="26.73" y1="523.93" x2="567.27" y2="523.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<text x="26.73" y="562.15" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="start">负责人 / 联系 / 代理</text>
+<text x="298" y="562.15" font-size="16" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="26.73" y1="572.93" x2="567.27" y2="572.93" stroke="#C9C9C9" stroke-width="0.594"/>
+<rect x="26.73" y="645" width="540.54" height="103" fill="#F2F2F2"/>
+<text x="37.422" y="672.2" font-size="17" fill="#000000" font-weight="700" text-anchor="start">本牌仅展示已批准的存运条件。</text>
+<text x="37.422" y="698.55" font-size="17" fill="#000000" font-weight="400" text-anchor="start">型号、状态、设施或数量条件改变须复审。</text>
+<text x="37.422" y="724.9" font-size="17" fill="#000000" font-weight="400" text-anchor="start">未知状态停止投入，联系专项责任人。</text>
+<text x="26.73" y="787" font-size="17" fill="#000000" font-weight="700" text-anchor="start">异常仅按现场批准预案及责任体系处理。</text>
+<text x="26.73" y="836.842" font-size="8.316" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 不确定储存地点、容量、消防配置或异常电池搬运方法</text>
+</g>
+</svg>

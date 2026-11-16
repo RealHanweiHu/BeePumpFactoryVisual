@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400mm" height="180mm" viewBox="0 0 400 180" role="img" aria-labelledby="title desc">
+<title id="title">WF-05 门牌 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;WF-05&quot;, &quot;name&quot;: &quot;门牌&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-05_门牌.svg&quot;, &quot;source_sha256&quot;: &quot;5c56a54ee0ff3ac0ca01d46cb711c8c874fb4209b4f56cc0fae9cc8849da1f7a&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;治具室&quot;, &quot;FIXTURE ROOM&quot;, &quot;8F&quot;, &quot;区域编号&quot;, &quot;8F-___&quot;, &quot;区域负责人&quot;, &quot;____________&quot;], &quot;physical_size_mm&quot;: [400, 180], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;保留支持房间身份、区域与责任功能&quot;, &quot;移除未经确认的治具室、8F及示例区域码&quot;, &quot;房名、准入与联系方式按真实台账填写，无方向箭头&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/WF-05.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/WF-05.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="400" height="180" fill="#FFFFFF"/>
+<rect x="0" y="0" width="400" height="27" fill="#000000"/>
+<rect x="0" y="0" width="4.4" height="27" fill="#FF6600"/>
+<text x="18" y="12.69" font-size="7.29" fill="#FFFFFF" font-weight="700" text-anchor="start">支持房间门牌</text>
+<text x="18" y="21.6" font-size="3.24" fill="#FFFFFF" font-weight="500" text-anchor="start">ROOM IDENTITY</text>
+<text x="382" y="12.69" font-size="4.32" fill="#FF6600" font-weight="700" text-anchor="end">WF-05</text>
+<text x="18" y="74" font-size="26" fill="#000000" font-weight="700" text-anchor="start">房间名称待填</text>
+<text x="18" y="104" font-size="9" fill="#3E3A39" font-weight="400" text-anchor="start">楼层 / 区域</text>
+<text x="188" y="104" font-size="9" fill="#000000" font-weight="400" text-anchor="start">待核</text>
+<line x1="18" y1="108.84" x2="382" y2="108.84" stroke="#C9C9C9" stroke-width="0.4"/>
+<text x="18" y="126" font-size="9" fill="#3E3A39" font-weight="400" text-anchor="start">责任人 / 联系</text>
+<text x="188" y="126" font-size="9" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="18" y1="130.84" x2="382" y2="130.84" stroke="#C9C9C9" stroke-width="0.4"/>
+<text x="18" y="148" font-size="9" fill="#3E3A39" font-weight="400" text-anchor="start">使用 / 准入要求</text>
+<text x="188" y="148" font-size="9" fill="#000000" font-weight="400" text-anchor="start">按批准文件填写</text>
+<line x1="18" y1="152.84" x2="382" y2="152.84" stroke="#C9C9C9" stroke-width="0.4"/>
+<text x="18" y="178.02" font-size="3.96" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 内容、适用范围与安装待批准</text>
+</g>
+</svg>

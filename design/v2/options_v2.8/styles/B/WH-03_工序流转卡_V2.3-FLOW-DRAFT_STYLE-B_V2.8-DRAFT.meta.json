@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "B",
+  "style_label": "白底信息优先",
+  "code": "WH-03",
+  "template_code": "WH-03",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-03_工序流转卡_V2.3-FLOW-DRAFT.svg",
+  "source_sha256": "4d50bdd3773c28a7db3d8583d2a4ecf9bc52624a89eed7867e7291839d49320b",
+  "nominal_size_mm": [
+    210,
+    148
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"WH-03\", \"revision\": \"V2.3-FLOW-DRAFT\", \"status\": \"template_proposal_pending_review\", \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-03_工序流转卡.svg\", \"sha256\": \"03e688b55d130b171c64a6729affc5dbc758100ab767041b7e1593f448b811b0\"}, \"original_text_preserved\": [\"工序流转卡\", \"PROCESS TRAVELER\", \"TR-____\", \"料号 / 版本：________  工单 / 批次：________\", \"来源：____   目的：____   容器ID：____   数量：____\", \"工序\", \"完成数量\", \"不良数量\", \"时间\", \"签名\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"____\", \"质量状态 / 放行记录：________________________________\", \"流转卡记录工序；有效状态卡控制放行；二者不互相替代\"], \"change_reasons\": [\"保留A5随容器追溯和独立品质状态\", \"增列母批/子批及容器ID；拆分时关联并核数量守恒\", \"工序、数量、发收确认及时间留真实待填字段，不合成签名\"], \"nominal_dimensions_mm\": [210, 148], \"viewbox_contract\": \"1 SVG user unit = 1 nominal mm\", \"nominal_font_size_note\": \"font-size is nominal em in template units; not measured printed glyph height or site installation/readability approval\", \"actual_point_id\": null, \"actual_floor_id\": null, \"actual_area_id\": null, \"actual_direction_degrees\": null, \"actual_installation_height_mm\": null, \"actual_installed_quantity\": null, \"approved_capacity\": null, \"production_release\": false, \"approvals\": {\"content\": null, \"location\": null, \"operation\": null, \"installation\": null, \"safety_when_applicable\": null}, \"orange_floor_markings\": false, \"safety_graphics_changed\": false, \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"template_slots_are_not_site_counts\": true, \"read_update_hierarchy\": [\"稳定流转与批次身份\", \"工序交接记录\", \"品质状态卡独立\"], \"visitor_node_id\": null, \"visitor_id_example\": null, \"render_review\": {\"status\": \"digital_render_bounds_and_pixels_checked\", \"png\": \"reports/flow_template_render/WH-03.png\", \"qa_record\": \"reports/flow_template_render/render_qa.json\", \"text_inside_artboard\": true, \"text_overlap_candidates\": 0, \"pixels_viewed_individually\": true, \"chinese_display_checked\": true, \"font_used\": \"Installed PingFang SC fallback\", \"physical_1_to_1_sample_tested\": false, \"site_reading_distance_approved\": false, \"installation_approved\": false}, \"path\": \"design/v2/flow_v2.3/WH-03_工序流转卡_V2.3-FLOW-DRAFT.svg\", \"sidecar_path\": \"design/v2/flow_v2.3/WH-03_工序流转卡_V2.3-FLOW-DRAFT.sidecar.json\"}"
+  ]
+}

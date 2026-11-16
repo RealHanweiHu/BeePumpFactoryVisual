@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "A",
+  "style_label": "原版黑橙",
+  "code": "WF-01",
+  "template_code": "WF-01",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-01-8F_楼层导览_V2.4-8F-DRAFT.svg",
+  "source_sha256": "e2e6efdf5e9cb6fbfecbdd05d07dbfb5272b179bb5d71f2ad74058ec5a460a8a",
+  "nominal_size_mm": [
+    900,
+    1500
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"WF-01\", \"revision\": \"V2.4-8F-DRAFT\", \"variant_id\": \"WF-01-8F\", \"floor_proposal\": \"8F\", \"nominal_dimensions_mm\": [900, 1500], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-01_楼层导览.svg\", \"sha256\": \"bd67ca9c1a66b32e0230280539e98f3cb189d66c28da37082dea94c7f7d5ae81\"}}"
+  ]
+}

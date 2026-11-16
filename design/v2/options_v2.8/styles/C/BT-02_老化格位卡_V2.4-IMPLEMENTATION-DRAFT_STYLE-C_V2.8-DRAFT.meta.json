@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "C",
+  "style_label": "固定标签分区",
+  "code": "BT-02",
+  "template_code": "BT-02",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "eccb076bc5475946be21a9f6497703436c4abf129d7602ab4833c2eacf85bfe0",
+  "nominal_size_mm": [
+    210,
+    148
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"schema_version\": \"1.0\", \"code\": \"BT-02\", \"name\": \"老化格位卡\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"created_date\": \"2026-10-07\", \"drawing_status\": \"template_only\", \"approval_status\": \"not_for_production\", \"production_release\": false, \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/BT-02_老化格位卡.svg\", \"source_sha256\": \"ec3a6a67362f47fa59f5c88af00fb255e5209da3161680a70752a8d953a30da1\", \"original_text_preserved_in_metadata\": [\"老化格位卡\", \"AGING SLOT RECORD\", \"8F-C-R01-01\", \"产品 / 批次\", \"________________\", \"测试程序 / 版本\", \"________________\", \"开始 / 预计完成\", \"________________\", \"周期状态\", \"________________\", \"质量状态 / 放行\", \"________________\", \"周期完成≠质量合格 / 异常必须保留记录并转入批准处置流程\"], \"physical_size_mm\": [210, 148], \"physical_size_source\": \"V1 nominal suggested template size; not an installation measurement\", \"font_sizes_are_nominal_em_mm\": true, \"printed_font_and_installation_height\": \"not verified; 1:1 print sample and site approval required\", \"decision\": \"Refine\", \"change_reasons\": [\"移除8F-C-R01-01假格位及假测试时间\", \"适用工艺、设备与程序须先批准；格位为真实身份\", \"周期状态与质量结论分开，异常和复测保留完整记录\"], \"scope\": \"applicability subject to approved actual operational workflow\", \"actual_point_id\": null, \"actual_floor_id\": null, \"area_id\": null, \"world_position\": null, \"actual_coordinates\": null, \"facing\": null, \"installation_height_mm\": null, \"installed_quantity\": null, \"approved_quantity\": null, \"content_approval\": null, \"installation_approval\": null, \"specialist_approval\": null, \"source_render_png\": \"reports/implementation_operations_render/v1/BT-02.png\", \"render_png\": \"reports/implementation_operations_render/BT-02.png\"}"
+  ]
+}

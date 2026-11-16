@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3600mm" height="2200mm" viewBox="0 0 3600 2200" role="img" aria-label="电梯厅形象墙 / 楼层到达识别及入场/6S文字区 / 草案">
+<metadata id="beepump-v28-style-draft">{"schema_version": "1.0", "revision": "V2.8-CHOICE-DRAFT", "style_id": "A", "style_label": "原版黑橙", "code": "BE-02", "template_code": "BE-02", "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.svg", "source_sha256": "046ece8f365b87460deff23e54db0735bdf20c439aa2a8f4c7974fd315f5d1fc", "nominal_size_mm": [3600, 2200], "status": "style_option_pending_review", "production_release": false, "actual_point_id": null, "actual_dimensions_mm": null, "installation_height_mm": null, "world_coordinates": null, "quantity": null, "text_preserved": true, "text_geometry_preserved": true, "quality_header_preserved": true, "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.", "source_metadata": ["{\"template_code\": \"BE-02\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"BE-02\", \"floor_proposal\": \"8F\", \"nominal_dimensions_mm\": [3600, 2200], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-02_电梯厅形象墙.svg\", \"sha256\": \"a7455723605e2ae79abf2824b88ac30c265fb8cc75ff5b7e6ebdf76f76c5a978\"}}"]}</metadata><title>电梯厅形象墙 / V2.4-IMPLEMENTATION-DRAFT</title>
+<desc>可编辑实施评审草案。名义模板尺寸，不构成现场施工放行。源文件和原始文字在侧车保存；实际位置、数量、方向、安装及批准均未取得。</desc>
+<g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="0" y="0" width="3600" height="2200" fill="#FFFFFF" />
+<rect x="0" y="0" width="3600" height="850" fill="#000000" />
+<rect x="0" y="0" width="36" height="850" fill="#FF6600" />
+<text x="150" y="490" font-size="340" fill="#FF6600" font-weight="600" text-anchor="start">8F</text>
+<text x="950" y="330" font-size="155" fill="#FFFFFF" font-weight="600" text-anchor="start">锂电充气泵装配</text>
+<text x="960" y="485" font-size="62" fill="#FFFFFF" font-weight="400" text-anchor="start">ELECTRIC PUMP ASSEMBLY</text>
+<line x1="960" y1="585" x2="3420" y2="585" stroke="#FF6600" stroke-width="8" />
+<text x="960" y="725" font-size="50" fill="#FFFFFF" font-weight="400" text-anchor="start">楼层到达识别 / 用途为V1基线提案，图纸与现场待核</text>
+<rect x="90" y="970" width="1020" height="740" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2" />
+<rect x="90" y="970" width="12" height="740" fill="#FF6600" />
+<text x="140" y="1085" font-size="72" fill="#000000" font-weight="600" text-anchor="start">先确认入场</text>
+<text x="140" y="1200" font-size="50" fill="#000000" font-weight="400" text-anchor="start">员工按本岗要求入场</text>
+<text x="140" y="1300" font-size="50" fill="#000000" font-weight="400" text-anchor="start">访客须由授权人员陪同</text>
+<text x="140" y="1400" font-size="50" fill="#000000" font-weight="400" text-anchor="start">PPE与权限按现场批准要求</text>
+<rect x="1200" y="970" width="1020" height="740" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2" />
+<rect x="1200" y="970" width="12" height="740" fill="#FF6600" />
+<text x="1250" y="1085" font-size="72" fill="#000000" font-weight="600" text-anchor="start">进入指定区域</text>
+<text x="1250" y="1200" font-size="50" fill="#000000" font-weight="400" text-anchor="start">先辨认楼层与目标区域</text>
+<text x="1250" y="1300" font-size="50" fill="#000000" font-weight="400" text-anchor="start">在导览牌核对获准路线</text>
+<text x="1250" y="1400" font-size="50" fill="#000000" font-weight="400" text-anchor="start">区域ID及方向待现场定稿</text>
+<rect x="2310" y="970" width="1020" height="740" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2" />
+<rect x="2310" y="970" width="12" height="740" fill="#FF6600" />
+<text x="2360" y="1085" font-size="72" fill="#000000" font-weight="600" text-anchor="start">保持现场有序</text>
+<text x="2360" y="1200" font-size="50" fill="#000000" font-weight="400" text-anchor="start">物品放回批准位置</text>
+<text x="2360" y="1300" font-size="50" fill="#000000" font-weight="400" text-anchor="start">不占门前、前室与通道</text>
+<text x="2360" y="1400" font-size="50" fill="#000000" font-weight="400" text-anchor="start">异常报告指定责任角色</text>
+<text x="150" y="1890" font-size="50" fill="#000000" font-weight="400" text-anchor="start">物流到达、员工入场与访客停留须分别复核，不能仅凭墙面文字放行</text>
+<text x="150" y="2000" font-size="42" fill="#000000" font-weight="400" text-anchor="start">电梯厅墙面模块 / 不改现有门、梯与专项设施 / 配套WF-01、WF-03按实际进路定向</text>
+<text x="150" y="2130" font-size="33" fill="#3E3A39" font-weight="400" text-anchor="start">BE-02 / V2.4-IMPLEMENTATION-DRAFT / 楼层、内容、墙面与安装均待签核</text>
+</g>
+</svg>

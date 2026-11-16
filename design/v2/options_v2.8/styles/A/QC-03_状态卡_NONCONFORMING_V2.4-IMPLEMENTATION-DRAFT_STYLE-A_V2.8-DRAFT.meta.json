@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "A",
+  "style_label": "原版黑橙",
+  "code": "QC-03",
+  "template_code": "QC-03",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "2b25fd0b9e6c3ce279d3732ca00398898e41fb159e192f722f613e236ed608d8",
+  "nominal_size_mm": [
+    100,
+    70
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"schema_version\": \"1.0\", \"code\": \"QC-03\", \"name\": \"状态卡_NONCONFORMING\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"created_date\": \"2026-10-07\", \"drawing_status\": \"template_only\", \"approval_status\": \"not_for_production\", \"production_release\": false, \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-03_状态卡_NONCONFORMING.svg\", \"source_sha256\": \"575d37b7c820d6f67c9388ef5cd74a604083180f896c69eb59f5ad7b763a2d66\", \"original_text_preserved_in_metadata\": [\"不合格\", \"NONCONFORMING\", \"容器 / 批次\", \"________________\", \"数量 / 工序\", \"________________\", \"责任人 / 时间\", \"________________\", \"可否流转：____  /  放行记录：____\"], \"physical_size_mm\": [100, 70], \"physical_size_source\": \"V1 nominal suggested template size; not an installation measurement\", \"font_sizes_are_nominal_em_mm\": true, \"printed_font_and_installation_height\": \"not verified; 1:1 print sample and site approval required\", \"decision\": \"Refine\", \"change_reasons\": [\"保持原蓝/绿/红/黄质量语义及中文/英文识别\", \"用明确动作和放行适用范围替代可否流转自由填空\", \"卡物一致；批次、数量、授权及记录留真实待填，不合成批准\", \"状态不等于车辆或人员通行优先\"], \"scope\": \"applicability subject to approved actual operational workflow\", \"actual_point_id\": null, \"actual_floor_id\": null, \"area_id\": null, \"world_position\": null, \"actual_coordinates\": null, \"facing\": null, \"installation_height_mm\": null, \"installed_quantity\": null, \"approved_quantity\": null, \"content_approval\": null, \"installation_approval\": null, \"specialist_approval\": null, \"source_render_png\": \"reports/implementation_operations_render/v1/QC-03.png\", \"render_png\": \"reports/implementation_operations_render/QC-03.png\"}"
+  ]
+}

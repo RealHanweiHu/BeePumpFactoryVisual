@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900mm" height="1500mm" viewBox="0 0 900 1500" role="img" aria-label="楼层导览 / 8F本层高亮导览 / 草案">
+<metadata id="beepump-v28-style-draft">{"schema_version": "1.0", "revision": "V2.8-CHOICE-DRAFT", "style_id": "C", "style_label": "固定标签分区", "code": "WF-01", "template_code": "WF-01", "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-01-8F_楼层导览_V2.4-8F-DRAFT.svg", "source_sha256": "e2e6efdf5e9cb6fbfecbdd05d07dbfb5272b179bb5d71f2ad74058ec5a460a8a", "nominal_size_mm": [900, 1500], "status": "style_option_pending_review", "production_release": false, "actual_point_id": null, "actual_dimensions_mm": null, "installation_height_mm": null, "world_coordinates": null, "quantity": null, "text_preserved": true, "text_geometry_preserved": true, "quality_header_preserved": true, "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.", "source_metadata": ["{\"template_code\": \"WF-01\", \"revision\": \"V2.4-8F-DRAFT\", \"variant_id\": \"WF-01-8F\", \"floor_proposal\": \"8F\", \"nominal_dimensions_mm\": [900, 1500], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-01_楼层导览.svg\", \"sha256\": \"bd67ca9c1a66b32e0230280539e98f3cb189d66c28da37082dea94c7f7d5ae81\"}}"]}</metadata><title>楼层导览 / V2.4-8F-DRAFT</title>
+<desc>可编辑实施评审草案。名义模板尺寸，不构成现场施工放行。源文件和原始文字在侧车保存；实际位置、数量、方向、安装及批准均未取得。</desc>
+<g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="0" y="0" width="900" height="180" fill="#000000" />
+<rect x="0" y="0" width="9.0" height="180" fill="#FF6600" />
+<text x="30.6" y="84.6" font-size="50" fill="#FFFFFF" font-weight="600" text-anchor="start">楼层导览</text>
+<text x="30.6" y="145.8" font-size="19.5" fill="#FFFFFF" font-weight="400" text-anchor="start">FLOOR DIRECTORY</text>
+<text x="869.4" y="84.6" font-size="21.5" fill="#FF6600" font-weight="500" text-anchor="end">8F 本层提案</text>
+<rect x="32" y="215" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="215" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="275" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">9F</text>
+<text x="205" y="257" font-size="32" fill="#000000" font-weight="600" text-anchor="start">喷漆专项接口</text>
+<text x="205" y="293" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">PAINTING / SPECIALIST INTERFACE</text>
+<text x="835" y="257" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<rect x="32" y="326" width="836" height="105" fill="#FFFFFF" stroke="#FF6600" stroke-width="3" />
+<rect x="32" y="326" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="386" font-size="52" fill="#FF6600" font-weight="600" text-anchor="start">8F</text>
+<text x="205" y="368" font-size="32" fill="#000000" font-weight="600" text-anchor="start">锂电充气泵装配</text>
+<text x="205" y="404" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">ELECTRIC PUMP ASSEMBLY</text>
+<text x="835" y="368" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<text x="835" y="406" font-size="17" fill="#FF6600" font-weight="600" text-anchor="end">本层</text>
+<rect x="32" y="437" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="437" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="497" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">7F</text>
+<text x="205" y="479" font-size="32" fill="#000000" font-weight="600" text-anchor="start">用途待确认</text>
+<text x="205" y="515" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">FUNCTION PENDING</text>
+<text x="835" y="479" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<rect x="32" y="548" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="548" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="608" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">6F</text>
+<text x="205" y="590" font-size="32" fill="#000000" font-weight="600" text-anchor="start">用途待确认</text>
+<text x="205" y="626" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">FUNCTION PENDING</text>
+<text x="835" y="590" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<rect x="32" y="659" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="659" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="719" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">5F</text>
+<text x="205" y="701" font-size="32" fill="#000000" font-weight="600" text-anchor="start">半成品仓 / 来料检</text>
+<text x="205" y="737" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">COMPONENT WAREHOUSE / IQC</text>
+<text x="835" y="701" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<rect x="32" y="770" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="770" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="830" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">4F</text>
+<text x="205" y="812" font-size="32" fill="#000000" font-weight="600" text-anchor="start">手打气筒装配</text>
+<text x="205" y="848" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">MANUAL PUMP ASSEMBLY</text>
+<text x="835" y="812" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<rect x="32" y="881" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="881" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="941" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">3F</text>
+<text x="205" y="923" font-size="32" fill="#000000" font-weight="600" text-anchor="start">成品仓</text>
+<text x="205" y="959" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">FINISHED GOODS WAREHOUSE</text>
+<text x="835" y="923" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<rect x="32" y="992" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="992" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="1052" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">2F</text>
+<text x="205" y="1034" font-size="32" fill="#000000" font-weight="600" text-anchor="start">注塑车间</text>
+<text x="205" y="1070" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">INJECTION MOLDING</text>
+<text x="835" y="1034" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<rect x="32" y="1103" width="836" height="105" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.5" />
+<rect x="32" y="1103" width="145" height="105" fill="#000000" data-option-panel="true" /><text x="60" y="1163" font-size="52" fill="#FFFFFF" font-weight="600" text-anchor="start">1F</text>
+<text x="205" y="1145" font-size="32" fill="#000000" font-weight="600" text-anchor="start">金工 / 出货 / 主入口</text>
+<text x="205" y="1181" font-size="13" fill="#3E3A39" font-weight="400" text-anchor="start">METALWORKING / SHIPPING / ENTRANCE</text>
+<text x="835" y="1145" font-size="16" fill="#3E3A39" font-weight="400" text-anchor="end">待核</text>
+<text x="43" y="1265" font-size="22" fill="#000000" font-weight="400" text-anchor="start">楼层用途依据V1；6F/7F用途未取得，不赋予新功能。</text>
+<text x="43" y="1310" font-size="22" fill="#000000" font-weight="400" text-anchor="start">本牌用于目的地检索；实际路线、进路和方向另核。</text>
+<text x="43" y="1355" font-size="22" fill="#000000" font-weight="400" text-anchor="start">楼层号、区域号、参观节点号分别管理。</text>
+<text x="43" y="1400" font-size="20" fill="#3E3A39" font-weight="400" text-anchor="start">身份/权限与现场用途确认后，替换全部“待核”。</text>
+<line x1="30.6" y1="1458" x2="869.4" y2="1458" stroke="#3E3A39" stroke-width="0.5" />
+<text x="30.6" y="1486" font-size="14" fill="#3E3A39" font-weight="400" text-anchor="start">名义模块900×1500mm；非现场尺寸</text>
+<text x="869.4" y="1486" font-size="11.479999999999999" fill="#3E3A39" font-weight="400" text-anchor="end">WF-01 / V2.4-8F-DRAFT</text>
+</g>
+</svg>

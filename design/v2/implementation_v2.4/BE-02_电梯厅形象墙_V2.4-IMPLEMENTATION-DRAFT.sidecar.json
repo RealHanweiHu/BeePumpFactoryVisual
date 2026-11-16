@@ -1,0 +1,77 @@
+{
+  "template_code": "BE-02",
+  "template_name": "电梯厅形象墙",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "variant_id": "BE-02",
+  "content_variant": "楼层到达识别及入场/6S文字区",
+  "floor_proposal": "8F",
+  "status": "implementation_review_proposal",
+  "source_template": {
+    "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-02_电梯厅形象墙.svg",
+    "sha256": "a7455723605e2ae79abf2824b88ac30c265fb8cc75ff5b7e6ebdf76f76c5a978"
+  },
+  "original_text_preserved": [
+    "8F",
+    "锂电充气泵装配",
+    "ELECTRIC PUMP ASSEMBLY",
+    "装配  /  测试  /  包装",
+    "SMT区域按实际落位后补充导向",
+    "BeePump",
+    "8F是物理楼层；参观节点须另标 T01 / T02，不得以05代替"
+  ],
+  "change_reasons": [
+    "保留原电梯厅楼层到达识别，不重命名模板",
+    "移除未经确认SMT导向，装配用途明确为V1基线",
+    "增加入场、导览、秩序和权限说明，不改固定前室或安全设施"
+  ],
+  "nominal_dimensions_mm": [
+    3600,
+    2200
+  ],
+  "viewbox_contract": "1 SVG user unit = 1 nominal mm",
+  "nominal_font_size_note": "font-size is nominal em in template units, not printed glyph height or site readability approval",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "actual_area_id": null,
+  "actual_direction_degrees": null,
+  "actual_installation_height_mm": null,
+  "actual_installed_quantity": null,
+  "actual_face_count": null,
+  "approved_capacity": null,
+  "production_release": false,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "operation": null,
+    "installation": null,
+    "safety_when_applicable": null
+  },
+  "orange_floor_markings": false,
+  "safety_graphics_changed": false,
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "template_slots_are_not_site_counts": true,
+  "read_update_hierarchy": [
+    "楼层与用途",
+    "入场与目的区域",
+    "秩序及异常报告"
+  ],
+  "render_review": {
+    "status": "digital_render_bounds_and_pixels_checked",
+    "png": "reports/implementation_template_render/BE-02.png",
+    "qa_record": "reports/implementation_template_render/render_qa.json",
+    "text_inside_artboard": true,
+    "text_overlap_candidates": 0,
+    "pixels_viewed_individually": true,
+    "chinese_display_checked": true,
+    "source_png_viewed_before_edit": true,
+    "font_used": "Installed PingFang SC fallback",
+    "physical_1_to_1_sample_tested": false,
+    "site_reading_distance_approved": false,
+    "installation_approved": false,
+    "thumbnail_note": "WF-01-8F header and WF-02-8F lower text were additionally checked by native-size PNG detail; their corresponding unchanged pixels equal 1F variants"
+  },
+  "path": "design/v2/implementation_v2.4/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "sidecar_path": "design/v2/implementation_v2.4/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.sidecar.json",
+  "svg_sha256": "046ece8f365b87460deff23e54db0735bdf20c439aa2a8f4c7974fd315f5d1fc"
+}

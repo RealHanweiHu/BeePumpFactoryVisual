@@ -1,0 +1,38 @@
+{
+  "code": "WF-02",
+  "revision": "V3.3-FUNCTION-DRAFT",
+  "status": "proposal_pending_review",
+  "production_release": false,
+  "physical_size_mm": [
+    1200,
+    400
+  ],
+  "dimension_scope": "Existing nominal template size retained; site/installation dimensions unknown.",
+  "source_path": "design/v2/implementation_v2.4/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.svg",
+  "source_sha256": "49eda9896ce81a45ce9c8138c8a801acdbd596bf9f5a969e3d0b45487888e0d3",
+  "original_text_preserved_in_metadata": [
+    "楼层 / FLOOR",
+    "8F",
+    "区域ID待确认",
+    "锂电泵装配",
+    "ELECTRIC PUMP ASSEMBLY",
+    "名称为基线提案；区域边界与安装面待核",
+    "WF-02 / V2.4-8F-DRAFT · 无实际指向 · 名义模块1200×400mm"
+  ],
+  "decision": "Refine",
+  "changes": [
+    "保留8F、用途与区域ID三种不同字段；功能标题优先。",
+    "缩减品牌占比，固定识别和可换区域信息有清楚分界；不加入未核箭头。"
+  ],
+  "external_reference_status": "Initial layouts preceded Xiaohongshu login; subsequently reviewed against 3 observed Xiaohongshu posts and 4 supplementary primary sources. See reference ledger.",
+  "reference_ledger": "reports/point_effects_2026-10-26/reference_records.json",
+  "quantity_installed": null,
+  "installation_height_mm": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "font_files_distributed": false,
+  "path": "design/v2/point_effects_2026-10-26/templates/WF-02_V3.3-FUNCTION-DRAFT.svg"
+}

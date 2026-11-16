@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "C",
+  "style_label": "固定标签分区",
+  "code": "WH-01",
+  "template_code": "WH-01",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT.svg",
+  "source_sha256": "6d70f8d6d5f296f96954104d460f45cecc83d611f4b2f92b2fc63224c1e32e76",
+  "nominal_size_mm": [
+    200,
+    100
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"code\": \"WH-01\", \"template_code\": \"WH-01\", \"name\": \"库位标签\", \"revision\": \"V2.4-8F-SPLIT-DRAFT\", \"status\": \"proposal_pending_review\", \"floor_scope\": \"8F\", \"floor_scope_semantics\": \"design applicability baseline; not actual_floor_id or verified CAD floor\", \"physical_size_mm\": [200, 100], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"design/v2/WH-01_库位标签_V2.1-DRAFT.svg\", \"source_sha256\": \"604b61a62ab7058feb8b96293f9ed306332343aad21b7e4f3265981bb1609b1b\", \"source_sidecar_path\": \"design/v2/WH-01_库位标签_V2.1-DRAFT.meta.json\", \"source_sidecar_sha256\": \"398454a21971f94e877f6393a8302b4779298fde2dc673ba35aacd5fcb9fede6\", \"source_snapshot\": {\"embedded_metadata\": {\"code\": \"WH-01\", \"revision\": \"V2.1-DRAFT\", \"status\": \"proposal_pending_review\", \"physical_size_mm\": [200, 100], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-01_库位标签.svg\", \"source_sha256\": \"b959e2ae41ff46627a5874c6d2614ac7d61c1d2d07a074598e124b9a2cbe3a59\", \"original_text_preserved_in_metadata\": [\"库位 / LOCATION\", \"5F-B-03-04-02\", \"楼层 / 区 / 排 / 列 / 层\", \"QR\", \"库位ID\", \"容量 / 载荷：批准后填写\", \"物料与批次采用可换卡，不印死在库位牌上\"], \"changes\": [\"替换5F示例为8F编码结构占位\", \"库位码留完整白区；明确非扫码图，保留容量与可换卡边界\"], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; not approved by web preview\", \"area_ids\": \"8F-A and 8F-C are baseline mappings, not confirmed DWG placements\", \"installation_height_mm\": null, \"quantity_installed\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null}, \"qr_status\": \"not_generated\"}, \"sidecar\": {\"code\": \"WH-01\", \"revision\": \"V2.1-DRAFT\", \"status\": \"proposal_pending_review\", \"physical_size_mm\": [200, 100], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-01_库位标签.svg\", \"source_sha256\": \"b959e2ae41ff46627a5874c6d2614ac7d61c1d2d07a074598e124b9a2cbe3a59\", \"original_text_preserved_in_metadata\": [\"库位 / LOCATION\", \"5F-B-03-04-02\", \"楼层 / 区 / 排 / 列 / 层\", \"QR\", \"库位ID\", \"容量 / 载荷：批准后填写\", \"物料与批次采用可换卡，不印死在库位牌上\"], \"changes\": [\"替换5F示例为8F编码结构占位\", \"库位码留完整白区；明确非扫码图，保留容量与可换卡边界\"], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; not approved by web preview\", \"area_ids\": \"8F-A and 8F-C are baseline mappings, not confirmed DWG placements\", \"installation_height_mm\": null, \"quantity_installed\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null}, \"qr_status\": \"not_generated\", \"path\": \"design/v2/WH-01_库位标签_V2.1-DRAFT.svg\", \"template_code\": \"WH-01\", \"source_v1_sha256\": \"b959e2ae41ff46627a5874c6d2614ac7d61c1d2d07a074598e124b9a2cbe3a59\", \"physical_width_mm\": 200, \"physical_height_mm\": 100, \"authoring_notes\": [\"替换5F示例为8F编码结构占位\", \"库位码留完整白区；明确非扫码图，保留容量与可换卡边界\"], \"content_review\": \"pending_owner_and_department_review\", \"render_evidence\": [\"reports/v2_render/WH-01.png\", \"reports/v2_render_qa.json\"]}}, \"source_text_snapshot\": [\"库位 / LOCATION\", \"8F-A-__-__-__\", \"楼层 / 区 / 排 / 列 / 层\", \"容量 / 载荷：批准后填写\", \"物料、批次使用可换卡\", \"编码结构示意，非已登记库位\", \"编码待生成\", \"非扫码图\", \"库位ID一致后\", \"再生成并实扫\"], \"changes\": [\"分包楼层仅为设计适用范围，实际楼层、区域、安装点位与全部审批保持待核\", \"保留物理尺寸、业务字段和原稿元数据；不修改已交付原件\", \"库位结构改为8F楼层范围占位；未生成实际库位和扫码内容\", \"库位字段说明下移2mm，避免长占位码字形边界相交\"], \"text_replacements\": [{\"before\": \"8F-A-__-__-__\", \"after\": \"8F-__-__-__-__\"}], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; web preview is not approval\", \"actual_floor_id\": null, \"actual_area_id\": null, \"actual_point_id\": null, \"actual_column_id\": null, \"actual_location_id\": null, \"actual_line_id\": null, \"actual_team_id\": null, \"actual_process_id\": null, \"actual_direction\": null, \"actual_world_xy\": null, \"installation_height_mm\": null, \"actual_quantity\": null, \"quantity_installed\": null, \"area_ids\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null, \"professional\": null, \"production\": null}, \"production_release\": false, \"qr_status\": \"not_generated\", \"render_evidence\": [\"reports/split_variant_render/8F_WH-01.png\", \"reports/split_variant_qa.json\"]}"
+  ]
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "floor_id": "1F",
+    "baseline_function": "金工车间 / 出货区 / 主入口",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "baseline_pending_drawing_check",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "3C8CE",
+      "3EB99",
+      "B158F",
+      "B224C",
+      "B358B",
+      "B4244"
+    ],
+    "cad_unit_header": 1
+  },
+  {
+    "floor_id": "2F",
+    "baseline_function": "注塑车间",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "baseline_pending_drawing_check",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "3E414",
+      "3EB58",
+      "A7CBD",
+      "A7DA8",
+      "B2D19",
+      "B2E28",
+      "EC346",
+      "EC431"
+    ],
+    "cad_unit_header": 1
+  },
+  {
+    "floor_id": "3F",
+    "baseline_function": "成品仓",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "baseline_pending_drawing_check",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "3EB70",
+      "5C1BA",
+      "5CA03",
+      "5D24C",
+      "5DEA6",
+      "5E900",
+      "65BEA",
+      "65CBD",
+      "AE7CB",
+      "F10B1"
+    ],
+    "cad_unit_header": 1
+  },
+  {
+    "floor_id": "4F",
+    "baseline_function": "手打气筒装配车间",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "baseline_pending_drawing_check",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "50578",
+      "5D155"
+    ],
+    "cad_unit_header": 1
+  },
+  {
+    "floor_id": "5F",
+    "baseline_function": "半成品仓 / 来料检 IQC",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "baseline_pending_drawing_check",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "5C0C3",
+      "AE6F8"
+    ],
+    "cad_unit_header": 1
+  },
+  {
+    "floor_id": "6F",
+    "baseline_function": "用途待确认",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "unconfirmed",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "5DDAF"
+    ],
+    "cad_unit_header": 1
+  },
+  {
+    "floor_id": "7F",
+    "baseline_function": "用途待确认",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "unconfirmed",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "3E30E",
+      "5E809"
+    ],
+    "cad_unit_header": 1
+  },
+  {
+    "floor_id": "8F",
+    "baseline_function": "锂电充气泵装配车间",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "baseline_pending_drawing_check",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": [
+      1000000,
+      967000,
+      1135000,
+      1070000
+    ],
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [
+        {
+          "dimension_handle": "F112C",
+          "axis": "X",
+          "source_definition_points": [
+            [
+              1021491.123431624,
+              1022611.220382232,
+              0.0
+            ],
+            [
+              1030191.123431624,
+              1022611.220382232,
+              0.0
+            ]
+          ],
+          "dimension_measurement_world": 8700.0,
+          "annotation_raw": [
+            "\\A1;8700"
+          ],
+          "projected_length_world": 8700.0,
+          "error_world": 0.0,
+          "coordinate_unit_verified": false,
+          "note": "Numeric agreement in drawing units only; not a site survey or mm approval"
+        },
+        {
+          "dimension_handle": "F1112",
+          "axis": "Y",
+          "source_definition_points": [
+            [
+              1111011.123431624,
+              1028731.220382232,
+              0.0
+            ],
+            [
+              1111011.123431624,
+              1022731.220382232,
+              0.0
+            ]
+          ],
+          "dimension_measurement_world": 6000.000000000117,
+          "annotation_raw": [
+            "\\A1;6000"
+          ],
+          "projected_length_world": 6000.0,
+          "error_world": 1.1732481652870774e-10,
+          "coordinate_unit_verified": false,
+          "note": "Numeric agreement in drawing units only; not a site survey or mm approval"
+        }
+      ],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": true,
+    "title_candidate_handles": [
+      "F0FBF"
+    ],
+    "cad_unit_header": 1,
+    "base_preview": "outputs/drawings/8F_source_candidate_partial.svg",
+    "title_conflict": "F0FBF 八层平面图 vs F10B1 三层平面图"
+  },
+  {
+    "floor_id": "9F",
+    "baseline_function": "喷漆车间（专项接口）",
+    "function_source": "V1 p.7；26页原方案 p.1",
+    "function_status": "baseline_pending_drawing_check",
+    "cad_sheet": null,
+    "cad_layout": "Model",
+    "model_window": null,
+    "base_svg": null,
+    "coordinate_unit": null,
+    "world_to_svg": null,
+    "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+    "calibration": {
+      "status": "pending",
+      "evidence": [],
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "geometry_status": "decoded_pending_verification",
+    "site_status": "not_verified",
+    "pilot": false,
+    "title_candidate_handles": [
+      "3F1E0",
+      "3F390",
+      "50590",
+      "C9463",
+      "C947B"
+    ],
+    "cad_unit_header": 1
+  }
+]

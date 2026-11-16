@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "B",
+  "style_label": "白底信息优先",
+  "code": "VT-01",
+  "template_code": "VT-01",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/VT-01_客户参观节点_V2.3-FLOW-DRAFT.svg",
+  "source_sha256": "21954db07166f6dfa587821171b4f44cbc7a18c73fc1d948e49f61c9c587a2b2",
+  "nominal_size_mm": [
+    594,
+    841
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"VT-01\", \"revision\": \"V2.3-FLOW-DRAFT\", \"status\": \"template_proposal_pending_review\", \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/VT-01_客户参观节点.svg\", \"sha256\": \"f0fa3a4dd5046ae5598536337e47edc7295a7f6d8bb12f8d678a3157fb57037c\"}, \"original_text_preserved\": [\"制造能力观察点\", \"FACTORY TOUR POINT\", \"T03\", \"测试，不只是亮灯\", \"核验产品表现与记录追溯\", \"看什么\", \"当前测试项目与判定标准\", \"证据在哪里\", \"批准的样例记录 / 校准证书\", \"为什么重要\", \"问题隔离与放行条件可追溯\", \"访客请留在指定停留点\", \"拍照及接触产品须经陪同人员允许\", \"示例节点 / 展示能力与证据须销售、品质共同批准\"], \"change_reasons\": [\"T03明确仅示例节点，不赋实际区域或观看工艺\", \"可观察范围、真实证据与客户价值保留为待确认内容\", \"强化获准停留、陪同和保密；不默认进入生产通道/风淋/EPA\"], \"nominal_dimensions_mm\": [594, 841], \"viewbox_contract\": \"1 SVG user unit = 1 nominal mm\", \"nominal_font_size_note\": \"font-size is nominal em in template units; not measured printed glyph height or site installation/readability approval\", \"actual_point_id\": null, \"actual_floor_id\": null, \"actual_area_id\": null, \"actual_direction_degrees\": null, \"actual_installation_height_mm\": null, \"actual_installed_quantity\": null, \"approved_capacity\": null, \"production_release\": false, \"approvals\": {\"content\": null, \"location\": null, \"operation\": null, \"installation\": null, \"safety_when_applicable\": null}, \"orange_floor_markings\": false, \"safety_graphics_changed\": false, \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"template_slots_are_not_site_counts\": true, \"read_update_hierarchy\": [\"节点身份与授权观看\", \"展示证据与保密\", \"陪同及进入权限\"], \"visitor_node_id\": null, \"visitor_id_example\": \"T03\", \"render_review\": {\"status\": \"digital_render_bounds_and_pixels_checked\", \"png\": \"reports/flow_template_render/VT-01.png\", \"qa_record\": \"reports/flow_template_render/render_qa.json\", \"text_inside_artboard\": true, \"text_overlap_candidates\": 0, \"pixels_viewed_individually\": true, \"chinese_display_checked\": true, \"font_used\": \"Installed PingFang SC fallback\", \"physical_1_to_1_sample_tested\": false, \"site_reading_distance_approved\": false, \"installation_approved\": false}, \"path\": \"design/v2/flow_v2.3/VT-01_客户参观节点_V2.3-FLOW-DRAFT.svg\", \"sidecar_path\": \"design/v2/flow_v2.3/VT-01_客户参观节点_V2.3-FLOW-DRAFT.sidecar.json\"}"
+  ]
+}

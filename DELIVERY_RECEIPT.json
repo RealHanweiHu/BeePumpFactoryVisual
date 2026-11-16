@@ -1,0 +1,30 @@
+{
+  "desktop_directory": "/Users/huhanwei/Desktop/BeePumpFactoryVisual",
+  "preview": "/Users/huhanwei/Desktop/BeePumpFactoryVisual/START_HERE.html",
+  "pdf": "/Users/huhanwei/Desktop/BeePumpFactoryVisual/output/pdf/BeePump_V2.1_Draft_Review.pdf",
+  "zip": "/Users/huhanwei/Desktop/BeePumpFactoryVisual/BeePumpFactoryVisual_V2.1_Draft_Source.zip",
+  "manifest_files_verified": 205,
+  "zip_bytes": 30444837,
+  "zip_sha256": "07d5bdc52d5e4782af3ddbc28df029e24df09acc666fdc89775655fb72ec2525",
+  "preserved_preexisting_content": false,
+  "task_title": "BeePump 工厂目视化设计",
+  "working_directory": "/Users/huhanwei/Documents/Codex/2026-10-04/task/BeePumpFactoryVisual",
+  "library_save_status": "blocked_before_available_prepare_interface",
+  "library_file_ids": {
+    "pdf": null,
+    "source_zip": null
+  },
+  "library_attempt": {
+    "ordered_items": [
+      "review_pdf",
+      "source_zip"
+    ],
+    "exit_code": 1,
+    "returned_library_items": 0,
+    "reason": "Current Mac upload helper could not access prepare_uploads; no successful Library save confirmed."
+  },
+  "actual_installed_sign_quantity": null,
+  "actual_coordinates_status": "not_generated_pending_floor_and_unit_confirmation",
+  "pdf_sha256": "19b6103e6351f9d7b169cf3cf6b9a2da250fca4a1335523501acd76e80c5954b",
+  "pdf_bytes": 3269790
+}

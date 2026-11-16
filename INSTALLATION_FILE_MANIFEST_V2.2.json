@@ -1,0 +1,326 @@
+{
+  "files": [
+    {
+      "path": ".agents/skills/beepump-factory-visual/SKILL.md",
+      "bytes": 1914,
+      "sha256": "492a5656c4db91fe7664b0eebbbee03cf756fbbd26be0e7428da1599fc8ba6ef"
+    },
+    {
+      "path": "BeePump_Installation_Review_V2.2_Source.zip",
+      "bytes": 21184837,
+      "sha256": "608af61b871da39d35e00f4f3ef5c679661e6b774a5efef085da6c00682c7fc9"
+    },
+    {
+      "path": "INSTALLATION_DELIVERY_V2.2.json",
+      "bytes": 926,
+      "sha256": "888a9eef82b6cf94d3939611fb2de06ac345b21d47a982c0e1a774c23b842334"
+    },
+    {
+      "path": "INSTALLATION_FILE_MANIFEST_V2.2.json",
+      "bytes": 11291,
+      "sha256": "738d341703111d9c631d91d662d249e12e9678003e432275d5252e4ea921acff"
+    },
+    {
+      "path": "INSTALLATION_REVIEW.html",
+      "bytes": 11952,
+      "sha256": "d29d126bdb2b99a15edb71964c5114c82abea08df6abe2ad943b6c7a96f34dd9"
+    },
+    {
+      "path": "data/points.json",
+      "bytes": 203,
+      "sha256": "fae4a73cedfda99e9eec7156beb7a18fb889feaec865994853f87455fb32972d"
+    },
+    {
+      "path": "data/tasks.json",
+      "bytes": 2709,
+      "sha256": "12055232a25bffe3b03ad5c4b9d5b2ef09a31a9422d839c799632f68bd6f650f"
+    },
+    {
+      "path": "design/v2/FL-01_WIP限量牌_V2.1-DRAFT.meta.json",
+      "bytes": 1998,
+      "sha256": "c2c13856c4a9d46c78c0df1a5c7b10f4e0bb47c23841932dcd53bffe7f0de07f"
+    },
+    {
+      "path": "design/v2/FL-01_WIP限量牌_V2.1-DRAFT.svg",
+      "bytes": 4898,
+      "sha256": "c25700be26d957c9214673c2a8a31e1f46d06c90449e5876b3994d86b4b8cda4"
+    },
+    {
+      "path": "design/v2/PM-01_生产运行看板_V2.1-DRAFT.meta.json",
+      "bytes": 2866,
+      "sha256": "69e153c762b1c4a85ef73d476bcab31ef398f7a0c9c9487bd358f5aca6887982"
+    },
+    {
+      "path": "design/v2/PM-01_生产运行看板_V2.1-DRAFT.svg",
+      "bytes": 12474,
+      "sha256": "8c5982d51d074141cf55cdb88212c96bf2d683f64e6ca218571a5e7ee503b0c0"
+    },
+    {
+      "path": "design/v2/PM-02_SQDCP班组看板_V2.1-DRAFT.meta.json",
+      "bytes": 2899,
+      "sha256": "3bc4d37025030cedc3fb030a2407b66d557125acfaf9d35bbb5ebc4f26459d67"
+    },
+    {
+      "path": "design/v2/PM-02_SQDCP班组看板_V2.1-DRAFT.svg",
+      "bytes": 15185,
+      "sha256": "ce293f1aef0f0c21320be0e8fd8c010027562632e6d253915568bbacf655616e"
+    },
+    {
+      "path": "design/v2/README.md",
+      "bytes": 703,
+      "sha256": "d7c2aec54b64cf8104b187fb808a5e1edb492d3c3caf105caaa0d590ae84dd53"
+    },
+    {
+      "path": "design/v2/WF-02_区域吊牌_V2.1-DRAFT.meta.json",
+      "bytes": 1758,
+      "sha256": "9b295018d5adf9cff7e090cd2e28618c2c27879db76751e4320b63cc80e1329a"
+    },
+    {
+      "path": "design/v2/WF-02_区域吊牌_V2.1-DRAFT.svg",
+      "bytes": 3190,
+      "sha256": "6385d737234e3e1329c3aeb7eef5d821c608110d7c4dfbda88cb4c771e698185"
+    },
+    {
+      "path": "design/v2/WF-04_柱牌_V2.1-DRAFT.meta.json",
+      "bytes": 1704,
+      "sha256": "d9d33d4420feab0700530264d9e8856f0fc4b524b19f17f49b825fa6a8fdd8ed"
+    },
+    {
+      "path": "design/v2/WF-04_柱牌_V2.1-DRAFT.svg",
+      "bytes": 3627,
+      "sha256": "bd961c4b6f470713fc5898dafe7cd78c825322ad1b7c8b984cdff8bb49da4a61"
+    },
+    {
+      "path": "design/v2/WH-01_库位标签_V2.1-DRAFT.meta.json",
+      "bytes": 1869,
+      "sha256": "398454a21971f94e877f6393a8302b4779298fde2dc673ba35aacd5fcb9fede6"
+    },
+    {
+      "path": "design/v2/WH-01_库位标签_V2.1-DRAFT.svg",
+      "bytes": 3820,
+      "sha256": "604b61a62ab7058feb8b96293f9ed306332343aad21b7e4f3265981bb1609b1b"
+    },
+    {
+      "path": "design/v2/revision_manifest.json",
+      "bytes": 10933,
+      "sha256": "265ab68dd21a62dcd9297ac107ca650d147f9d771a66b13b7f5a051d9b5cbfa1"
+    },
+    {
+      "path": "docs/DECISIONS.md",
+      "bytes": 1727,
+      "sha256": "73620b55a4b28d27a53b49cb6066036803e648ae41abdd368d9fb54fd242f26c"
+    },
+    {
+      "path": "docs/TASTE_ADAPTATION.md",
+      "bytes": 2390,
+      "sha256": "d2effec128cbbeef84155698b70ee3f0688dc46066fc24645d08adebae78afb7"
+    },
+    {
+      "path": "output/pdf/BeePump_Installation_Concept_Review_V2.2.pdf",
+      "bytes": 9913947,
+      "sha256": "c581619fe73b7bbc2d1d4f2277b62275014d50ec6ef0eaa56aa6c157fea481f4"
+    },
+    {
+      "path": "outputs/installation_review/8F候选原图_核查引线.svg",
+      "bytes": 891129,
+      "sha256": "81af06425390a587e7b580f01bba06c6ad676687c07c1e9ee5118a3c3dca65a4"
+    },
+    {
+      "path": "outputs/installation_review/C02_C03_区域吊牌与柱牌.png",
+      "bytes": 1953496,
+      "sha256": "345ded60ccd1e3421bbe6f4f6cc0dec595e5e741c00c150b028e559b55929e88"
+    },
+    {
+      "path": "outputs/installation_review/C04_C05_生产与班组管理墙.png",
+      "bytes": 1887216,
+      "sha256": "5e7adbe0a82c30b12f94bba1a3f803c53e0ccb9c39fccd4418b8c6f622712237"
+    },
+    {
+      "path": "outputs/installation_review/C06_C07_库位与WIP牌.png",
+      "bytes": 1874534,
+      "sha256": "72730aa41b34c58b96e42b414910c59243aeadf7beab43b893fb07961182c5f8"
+    },
+    {
+      "path": "outputs/installation_review/README.md",
+      "bytes": 1725,
+      "sha256": "b1eef197c4a601f6f8284231ab2ef810f29cddcd8403bd35ed6394defa5c39bf"
+    },
+    {
+      "path": "outputs/installation_review/image_generation_manifest.json",
+      "bytes": 2761,
+      "sha256": "e4a29c3bcccd402ae7fc93bbb30a49f4e4fba4dcb1c71655597f1b0c2f5684a0"
+    },
+    {
+      "path": "outputs/installation_review/installation_print.html",
+      "bytes": 8827614,
+      "sha256": "db13769ba539af0118e75a29da33f8be3326cb054dbef401127c35dd6e6134b6"
+    },
+    {
+      "path": "outputs/installation_review/review_manifest.json",
+      "bytes": 338,
+      "sha256": "c3d1d539bca9a7ccd725a8b3d618d57a6eff815236bb861225c94c13716e7a57"
+    },
+    {
+      "path": "outputs/installation_review/原图文字核查锚点.json",
+      "bytes": 5065,
+      "sha256": "b36a962cdd1de096068af152cfa3a1fd20f7e691a3b0f68f429e96b8e85e50b8"
+    },
+    {
+      "path": "outputs/installation_review/图像生成提示词.md",
+      "bytes": 6289,
+      "sha256": "362da4607455fcd193bd439d18a7f819992517002d5d3db060fde54fd1a0878d"
+    },
+    {
+      "path": "outputs/installation_review/安装选址_相对关系示意.svg",
+      "bytes": 5808,
+      "sha256": "257b591c8bc893441daea415c5804c3a99020407060f1f2cd4950a1891347c38"
+    },
+    {
+      "path": "outputs/installation_review/安装选址评审台账.csv",
+      "bytes": 2908,
+      "sha256": "60669586d3022739a5bac1e7d53b026aae0cb8b22724a14a2814e0b05315703d"
+    },
+    {
+      "path": "outputs/installation_review/安装选址评审台账.json",
+      "bytes": 8248,
+      "sha256": "1def9309830d927555ddd9b760117a78a321a740e1fb791ac9b2a22008ca7c27"
+    },
+    {
+      "path": "reports/INSTALLATION_RESULT.md",
+      "bytes": 2923,
+      "sha256": "076b6179f8e2b9f83d68476f1294bc685fb8ce1735a0425fed1d122587bd1fab"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-001.png",
+      "bytes": 208579,
+      "sha256": "86688e557d3751bc82ad735d59826be8ad59604b95e8db2a94eeb7d9571f610a"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-002.png",
+      "bytes": 224819,
+      "sha256": "7abaeed7ac62731077fa753d68f78a84336fa7c18699bead6f4751c53b8a5f02"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-003.png",
+      "bytes": 168781,
+      "sha256": "fb6c3a8fd00a6371027dd910d8e16f7b90d96527c3b9b6eb7602971869c1396a"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-004.png",
+      "bytes": 197444,
+      "sha256": "f3c0d5c5a9c3ce4c6a2de7be89ba23de9df1510659f9198d000c7a57b90ac10f"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-005.png",
+      "bytes": 1455743,
+      "sha256": "9a2416a2721e29be35f5cc888e61e4df13c5598b4b776b4ab0e6e8ff32628c40"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-006.png",
+      "bytes": 1507568,
+      "sha256": "c2c100ef8a91eed25f5408861c11614a41dae261fd01f5687b91cbe298744894"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-007.png",
+      "bytes": 1163432,
+      "sha256": "7d9836fbc4232b517485a8bf3b9ed4c1a9089eaeea365bae01ba62c56d610fff"
+    },
+    {
+      "path": "reports/installation_pdf_render/page-008.png",
+      "bytes": 162687,
+      "sha256": "87e2707db8d872bcb784bf8fbb95a80dc2ff0fdf29139e67c87f71e74036c2b5"
+    },
+    {
+      "path": "reports/installation_pdf_render/pages.json",
+      "bytes": 794,
+      "sha256": "ec373a39c6cb65ee1d1120140c6ebee2aee7c80c7b5ebf281ec0ac50854328aa"
+    },
+    {
+      "path": "reports/installation_pdf_render/text.txt",
+      "bytes": 11981,
+      "sha256": "c260c2c640084bd9e5eb0b94c091cbe95bd88891bf197ac27b353b5ef201c6ac"
+    },
+    {
+      "path": "reports/installation_project_validation.json",
+      "bytes": 615,
+      "sha256": "87cafb1f087cfc9d65f2bea321797a80b9ecf8ed93563c28f636cd36d74d498d"
+    },
+    {
+      "path": "reports/installation_qa.json",
+      "bytes": 10303,
+      "sha256": "408afba6e858e941391d83a2e7fbe23c511951999e509282a4fc55f1647acbdc"
+    },
+    {
+      "path": "reports/installation_render/8F候选原图_核查引线.png",
+      "bytes": 196791,
+      "sha256": "ca78319be17d8ee4fa36b25a629eb07a1ad0264b15dbf845f29dd9d6ada09b8c"
+    },
+    {
+      "path": "reports/installation_render/desktop.png",
+      "bytes": 625561,
+      "sha256": "ebd9af0918b9c5cf1b63a1b9016a8a5626dc84e0304ccd48f96615bede278914"
+    },
+    {
+      "path": "reports/installation_render/mobile.png",
+      "bytes": 175496,
+      "sha256": "96a2d6e05aaab049115c75729b56edc44a646a525d45acf522e14ed74d85c195"
+    },
+    {
+      "path": "reports/installation_render/安装选址_相对关系示意.png",
+      "bytes": 143206,
+      "sha256": "ac87df0ba906d8f56948bc86faa87a4c08d548898c45bcffd84b069663295f6e"
+    },
+    {
+      "path": "reports/installation_tests.txt",
+      "bytes": 2038,
+      "sha256": "72bee9544762ac40ef5326bcf5be59392cc17c918f8515434e29c8bc507cd52f"
+    },
+    {
+      "path": "reports/v2_render/FL-01.png",
+      "bytes": 124310,
+      "sha256": "eb663ee3ece93f16078e523f10d40672be3d6721f5fc98c2736df969fe3cd777"
+    },
+    {
+      "path": "reports/v2_render/PM-01.png",
+      "bytes": 105550,
+      "sha256": "10f1d3c3e3d1361c0693bbbeacc12348b3c51851bcfda942782b94b9ed7f86ee"
+    },
+    {
+      "path": "reports/v2_render/PM-02.png",
+      "bytes": 94406,
+      "sha256": "c2a9815d9d51ca4c145ba28723ba10a6d35e0ac75d3eba09e1beab2fba400720"
+    },
+    {
+      "path": "reports/v2_render/WF-02.png",
+      "bytes": 33071,
+      "sha256": "183ad40dd593b5f916d334159fbd43618bac2a3f6163122626a901b636f2d59a"
+    },
+    {
+      "path": "reports/v2_render/WF-04.png",
+      "bytes": 35238,
+      "sha256": "73fbe0744b0f9c0917cf5bf5059e2bc7375aa11647ec1c74463238da47f28ecf"
+    },
+    {
+      "path": "reports/v2_render/WH-01.png",
+      "bytes": 35482,
+      "sha256": "20ca21ede1290d8d6cdd825dfc50f999facbf59fcff97225a886df64ddc85963"
+    },
+    {
+      "path": "scripts/build_installation_review.py",
+      "bytes": 28020,
+      "sha256": "d8c399e302dd7514f35f8695029aad1dffd99e045a83a9023c85b01e21ea968d"
+    },
+    {
+      "path": "scripts/package_installation_review.py",
+      "bytes": 7628,
+      "sha256": "29e29f5acfefa71260e594965104bfd04ea84ddbdea1afc1469cd5e973d892e6"
+    },
+    {
+      "path": "scripts/qa_installation_review.cjs",
+      "bytes": 6178,
+      "sha256": "687758ef0b90c16731f385b099202fb387b44cbd23356b60e6039fe204458b8a"
+    }
+  ],
+  "previous_archive_sha256": "07d5bdc52d5e4782af3ddbc28df029e24df09acc666fdc89775655fb72ec2525",
+  "notes": "V2.1 source archive and immutable inputs preserved; previous index archived; new source archive is standalone review package."
+}

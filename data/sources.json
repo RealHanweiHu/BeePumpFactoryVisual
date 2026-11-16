@@ -1,0 +1,301 @@
+{
+  "project": "BeePump Factory Visual",
+  "recorded_on": "2026-10-04",
+  "inputs": [
+    {
+      "path": "inputs/cad/新厂房平面图（改）.dwg",
+      "bytes": 5715930,
+      "sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/references/全厂目视化设计与施工方案（Bee黑橙VI）_橙色FF6600.pdf",
+      "bytes": 3685720,
+      "sha256": "cc22eb9da86dc576653e0e88a909bf5e65274e05f6f21a195cc79aaf12b80b81",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/01_Manual/BeePump_Factory_Visual_Design_Manual_V1.0.pdf",
+      "bytes": 803331,
+      "sha256": "abcce74ce5fac5d736620811bd9f50080b43ba35220be36117e83b051bd739aa",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/02_Editable/BeePump_Design_and_Execution_Spec_V1.0.docx",
+      "bytes": 72202,
+      "sha256": "6d295d106c4f90db0d2d9c4772e33e79d3e9a2186aef9bf0f98cf1d124677734",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-01_入口品牌墙.svg",
+      "bytes": 3590,
+      "sha256": "82c82c900e08f5453941d83a76d10ed6964b6e312ef8face32d32865cc4068bd",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-02_电梯厅形象墙.svg",
+      "bytes": 3803,
+      "sha256": "a7455723605e2ae79abf2824b88ac30c265fb8cc75ff5b7e6ebdf76f76c5a978",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-03_制造文化墙.svg",
+      "bytes": 4271,
+      "sha256": "7f8b1dd965fe94bac5f590b61cf37e8c38cea42db04d4beda85a27a3b964e56b",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-04_制造能力墙.svg",
+      "bytes": 9163,
+      "sha256": "0cf42097b813396bebf9c2ca843d0ecda01d1fa6e6b13647966b536d4c3dae32",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BT-01_电池暂存信息牌.svg",
+      "bytes": 4786,
+      "sha256": "46a31e6f7e8963277a9aad083040793e32a4927c1bf11627c1a0d271246dfd1a",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BT-02_老化格位卡.svg",
+      "bytes": 3307,
+      "sha256": "ec3a6a67362f47fa59f5c88af00fb255e5209da3161680a70752a8d953a30da1",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-01_设备身份牌.svg",
+      "bytes": 3635,
+      "sha256": "b360aaec4b62ee7a007c55ea87da5354084564338afe09defa685254a8e85cf7",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-02_工装量具牌.svg",
+      "bytes": 2388,
+      "sha256": "6b540ce966a9b97af35c35d81fbfa0c4e0b2cc1a706b24ff50d51cbe3fbeaf0a",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-03_设备状态卡.svg",
+      "bytes": 1865,
+      "sha256": "e8bcea088498d7df693c3287901b07d0a2463af3c1dfe2622d0c51348fd08c0a",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/ES-01_电子装配进入确认.svg",
+      "bytes": 3442,
+      "sha256": "c5da3167605890bfdbf05e57511164489e297c3d94b1f077a372ed097a869a72",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FL-01_WIP限量牌.svg",
+      "bytes": 2412,
+      "sha256": "07ab9a5f926b1012c6c45f1d45a858ce00d81d2d9f66d03012d26c0d7430b69c",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FL-02_FIFO车位逻辑图.svg",
+      "bytes": 3121,
+      "sha256": "db35755a04356b507e838fb2caad170a052f12126c2729fdd27c41715e08d1e1",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FM-01_地面定置图例.svg",
+      "bytes": 3796,
+      "sha256": "a2447c9e81077acf9b084583a6b5af8d45a65d1eb22fe2535eab042b90dba8c7",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/MD-01_模具状态牌.svg",
+      "bytes": 3853,
+      "sha256": "5d183b4c2acc4f5817c03f3cf616bd4ccdfc6ad4f39885aa22037c385797b193",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-01_生产运行看板.svg",
+      "bytes": 12295,
+      "sha256": "6e22a064001d37d40372b8aec7a4457f487c1cedfb52611a44db7e8a60965d0f",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-02_SQDCP班组看板.svg",
+      "bytes": 11071,
+      "sha256": "d0fc56b86041b6faded1000427f452c4b45527dfbd2996627a6c0b5d65df6137",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-03_异常响应看板.svg",
+      "bytes": 4473,
+      "sha256": "60631c671f0621a1d12e5f59846d65ebb94a56531bec5d36e48e6c55c216ca17",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-01_状态卡_PENDING.svg",
+      "bytes": 2016,
+      "sha256": "9412cd67e6b9a51f0f2ab1edb4200859e2d0b72ecc66c904e7982ec92ec96e70",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-02_状态卡_RELEASED.svg",
+      "bytes": 2018,
+      "sha256": "e93faab1e2540a15123fc9ed6cb49535ef3c18a09415fd192f196f4df2260110",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-03_状态卡_NONCONFORMING.svg",
+      "bytes": 2014,
+      "sha256": "575d37b7c820d6f67c9388ef5cd74a604083180f896c69eb59f5ad7b763a2d66",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-04_状态卡_HOLD.svg",
+      "bytes": 2014,
+      "sha256": "c48380f11673bd9d3cf58d4fcd9c48a9d5328ec7041bd3a27affd61c47d8af13",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-05_样件验证队列.svg",
+      "bytes": 10451,
+      "sha256": "59b50f0d429f38451e5f86b9f868b3bd299d64cd1c4719d450827f1bcf31ef84",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/README.md",
+      "bytes": 637,
+      "sha256": "2621216d069f1b371f2509c0f209d94a35768eac425f896bc63912e9676aa2d1",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-01_SOP作业框架.svg",
+      "bytes": 5938,
+      "sha256": "23d0dea4b09176c028d083d38cf840f621a4ae0c8e4fd4736d85fb453ea47722",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-02_换型包装核对板.svg",
+      "bytes": 2891,
+      "sha256": "d6c31b99ad14ae252b61b0a715e49a7b7f2be8dd608e426069d908f473b97408",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/VS-01_6S责任牌.svg",
+      "bytes": 4167,
+      "sha256": "1a311d083d76cc04b725daea19f7c8e638a2f677c78a6e6362675d8f18e95737",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/VT-01_客户参观节点.svg",
+      "bytes": 3178,
+      "sha256": "f0fa3a4dd5046ae5598536337e47edc7295a7f6d8bb12f8d678a3157fb57037c",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-01_楼层导览.svg",
+      "bytes": 5941,
+      "sha256": "bd67ca9c1a66b32e0230280539e98f3cb189d66c28da37082dea94c7f7d5ae81",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-02_区域吊牌.svg",
+      "bytes": 1208,
+      "sha256": "40d727ece2813f3e06a15281b0f2f3b0c9bb37739c62b7558c7669a92a8e82f8",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-03_分岔导向牌.svg",
+      "bytes": 1189,
+      "sha256": "a26d9ee747c8e03affb1853aa23648a8089dba63f5acf7069d55fecb52c62912",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-04_柱牌.svg",
+      "bytes": 1581,
+      "sha256": "3861ce85257f48565ff91ae24893931a63472f6d6c25d52c7e2713cd90a7d8c7",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-05_门牌.svg",
+      "bytes": 1646,
+      "sha256": "5c56a54ee0ff3ac0ca01d46cb711c8c874fb4209b4f56cc0fae9cc8849da1f7a",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-01_库位标签.svg",
+      "bytes": 1754,
+      "sha256": "b959e2ae41ff46627a5874c6d2614ac7d61c1d2d07a074598e124b9a2cbe3a59",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-02_货架端头牌.svg",
+      "bytes": 1369,
+      "sha256": "e36453a654faeb61c930d43f352e6ddd548238bd7f0f100b04404405fc536b52",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-03_工序流转卡.svg",
+      "bytes": 5728,
+      "sha256": "03e688b55d130b171c64a6729affc5dbc758100ab767041b7e1593f448b811b0",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-04_出货控制看板.svg",
+      "bytes": 7901,
+      "sha256": "110a54af44128c36339157c6a1d31412f3b2fedb39568f9bd7093a8c0119a14d",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-05_跨楼层交接牌.svg",
+      "bytes": 3322,
+      "sha256": "814c90f3fbfb9be053e00af25ca0a750b3f67bb83a81d49dc980b690add5b68d",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/index.html",
+      "bytes": 10682,
+      "sha256": "8d9e571728c64b4e8173748e905477acf867ef1634640cfb4b498269db9d60c1",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/template_registry.json",
+      "bytes": 7529,
+      "sha256": "949ea7c3c247d047fc9c915a0729ea12f2cf70c1a02049ef81856bc5b2a41e45",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/04_BOQ/BeePump_BOQ_Implementation_Control_V1.0.xlsx",
+      "bytes": 28315,
+      "sha256": "1e588d6c9ebfdd5331ae6a7e270c8f9580754898e31612830f6b0e07cc3f2aae",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/05_Handoff/project_data.json",
+      "bytes": 64344,
+      "sha256": "b3cac2a9ffe5e3331badb466257fea26216549c880210802a8457c8beec286ce",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/05_Handoff/交付清单_manifest.json",
+      "bytes": 8174,
+      "sha256": "040f22a16f3bb6047ca609c21e5333464e45a2f93cc54ac349c898c396e8f65f",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/05_Handoff/供应商交接要求.md",
+      "bytes": 1717,
+      "sha256": "98467b271ef8c5e4d9193e07861e7d4db12da67b8b81a18a2ddb896d1b2e6a03",
+      "policy": "immutable_original"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/README_先读.md",
+      "bytes": 4124,
+      "sha256": "9acc7d03a47bd7382005fb7c40ffeda22862394646516ac0bb3c0d97921d80a5",
+      "policy": "immutable_original"
+    }
+  ],
+  "missing_sources": [
+    {
+      "name": "珠峰气筒电子样册2025.pdf",
+      "status": "not_available_as_downloadable_bytes_in_this_runtime",
+      "note": "本项目包未包含完整样册原件；已保留原施工参考PDF和V1中已登记的来源。不以此补写品牌历史或认证数据。"
+    }
+  ]
+}

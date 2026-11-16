@@ -1,0 +1,75 @@
+{
+  "template_code": "WF-02",
+  "template_name": "区域吊牌",
+  "revision": "V2.4-8F-DRAFT",
+  "variant_id": "WF-02-8F",
+  "content_variant": "锂电泵装配基线提案",
+  "floor_proposal": "8F",
+  "status": "implementation_review_proposal",
+  "source_template": {
+    "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-02_区域吊牌.svg",
+    "sha256": "40d727ece2813f3e06a15281b0f2f3b0c9bb37739c62b7558c7669a92a8e82f8"
+  },
+  "original_text_preserved": [
+    "8F",
+    "A",
+    "成品组装区",
+    "FINAL ASSEMBLY",
+    "8F-A"
+  ],
+  "change_reasons": [
+    "独立表达楼层与区域ID，区域ID待确认",
+    "名称为8F锂电装配基线提案，不能替代原图功能确认",
+    "取消未核A或8F-A实例，无实际箭头，双面进路分别定稿"
+  ],
+  "nominal_dimensions_mm": [
+    1200,
+    400
+  ],
+  "viewbox_contract": "1 SVG user unit = 1 nominal mm",
+  "nominal_font_size_note": "font-size is nominal em in template units, not printed glyph height or site readability approval",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "actual_area_id": null,
+  "actual_direction_degrees": null,
+  "actual_installation_height_mm": null,
+  "actual_installed_quantity": null,
+  "actual_face_count": null,
+  "approved_capacity": null,
+  "production_release": false,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "operation": null,
+    "installation": null,
+    "safety_when_applicable": null
+  },
+  "orange_floor_markings": false,
+  "safety_graphics_changed": false,
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "template_slots_are_not_site_counts": true,
+  "read_update_hierarchy": [
+    "楼层与区域功能",
+    "区域身份待核",
+    "名称边界和安装面"
+  ],
+  "render_review": {
+    "status": "digital_render_bounds_and_pixels_checked",
+    "png": "reports/implementation_template_render/WF-02-8F.png",
+    "qa_record": "reports/implementation_template_render/render_qa.json",
+    "text_inside_artboard": true,
+    "text_overlap_candidates": 0,
+    "pixels_viewed_individually": true,
+    "chinese_display_checked": true,
+    "source_png_viewed_before_edit": true,
+    "font_used": "Installed PingFang SC fallback",
+    "physical_1_to_1_sample_tested": false,
+    "site_reading_distance_approved": false,
+    "installation_approved": false,
+    "thumbnail_note": "WF-01-8F header and WF-02-8F lower text were additionally checked by native-size PNG detail; their corresponding unchanged pixels equal 1F variants"
+  },
+  "path": "design/v2/implementation_v2.4/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.svg",
+  "sidecar_path": "design/v2/implementation_v2.4/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.sidecar.json",
+  "svg_sha256": "49eda9896ce81a45ce9c8138c8a801acdbd596bf9f5a969e3d0b45487888e0d3"
+}

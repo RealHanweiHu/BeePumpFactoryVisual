@@ -1,0 +1,85 @@
+{
+  "template_code": "EQ-01",
+  "template_name": "设备身份牌",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "variant_id": "EQ-01",
+  "content_variant": "永久身份/位置/档案分离",
+  "floor_proposal": null,
+  "status": "implementation_review_proposal",
+  "source_template": {
+    "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-01_设备身份牌.svg",
+    "sha256": "b360aaec4b62ee7a007c55ea87da5354084564338afe09defa685254a8e85cf7"
+  },
+  "original_text_preserved": [
+    "设备身份牌",
+    "EQUIPMENT ID",
+    "EQ-000123",
+    "设备名称",
+    "注塑机（示例）",
+    "现场位置",
+    "2F-IM-05",
+    "责任人",
+    "________",
+    "保养 / 文件",
+    "受控记录 / Rev.__",
+    "QR",
+    "设备档案",
+    "使用状态另挂；位置码变化不改变永久资产ID",
+    "牌号 EQ-000123 / 生产前确认资产台账"
+  ],
+  "change_reasons": [
+    "删除示例EQ-000123、注塑机和2F-IM-05，不编造资产",
+    "永久资产ID与现场位置分别记录，档案码仅留待批准位置",
+    "设备状态另挂EQ-03，保留原厂铭牌和操作/检修边界"
+  ],
+  "nominal_dimensions_mm": [
+    300,
+    200
+  ],
+  "viewbox_contract": "1 SVG user unit = 1 nominal mm",
+  "nominal_font_size_note": "font-size is nominal em in template units, not printed glyph height or site readability approval",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "actual_area_id": null,
+  "actual_direction_degrees": null,
+  "actual_installation_height_mm": null,
+  "actual_installed_quantity": null,
+  "actual_face_count": null,
+  "approved_capacity": null,
+  "production_release": false,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "operation": null,
+    "installation": null,
+    "safety_when_applicable": null
+  },
+  "orange_floor_markings": false,
+  "safety_graphics_changed": false,
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "template_slots_are_not_site_counts": true,
+  "read_update_hierarchy": [
+    "永久资产身份",
+    "现场位置与档案",
+    "动态状态另挂"
+  ],
+  "render_review": {
+    "status": "digital_render_bounds_and_pixels_checked",
+    "png": "reports/implementation_template_render/EQ-01.png",
+    "qa_record": "reports/implementation_template_render/render_qa.json",
+    "text_inside_artboard": true,
+    "text_overlap_candidates": 0,
+    "pixels_viewed_individually": true,
+    "chinese_display_checked": true,
+    "source_png_viewed_before_edit": true,
+    "font_used": "Installed PingFang SC fallback",
+    "physical_1_to_1_sample_tested": false,
+    "site_reading_distance_approved": false,
+    "installation_approved": false,
+    "thumbnail_note": "WF-01-8F header and WF-02-8F lower text were additionally checked by native-size PNG detail; their corresponding unchanged pixels equal 1F variants"
+  },
+  "path": "design/v2/implementation_v2.4/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "sidecar_path": "design/v2/implementation_v2.4/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT.sidecar.json",
+  "svg_sha256": "ef1d9d5f4571a92318c10fd581d56366f8a77b94e35d2dd03d026835b3e12b49"
+}

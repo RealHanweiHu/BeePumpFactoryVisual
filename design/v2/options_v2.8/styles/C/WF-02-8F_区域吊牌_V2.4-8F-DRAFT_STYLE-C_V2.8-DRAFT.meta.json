@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "C",
+  "style_label": "固定标签分区",
+  "code": "WF-02",
+  "template_code": "WF-02",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.svg",
+  "source_sha256": "49eda9896ce81a45ce9c8138c8a801acdbd596bf9f5a969e3d0b45487888e0d3",
+  "nominal_size_mm": [
+    1200,
+    400
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"WF-02\", \"revision\": \"V2.4-8F-DRAFT\", \"variant_id\": \"WF-02-8F\", \"floor_proposal\": \"8F\", \"nominal_dimensions_mm\": [1200, 400], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-02_区域吊牌.svg\", \"sha256\": \"40d727ece2813f3e06a15281b0f2f3b0c9bb37739c62b7558c7669a92a8e82f8\"}}"
+  ]
+}

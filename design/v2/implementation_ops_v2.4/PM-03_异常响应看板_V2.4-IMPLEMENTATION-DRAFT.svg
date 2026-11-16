@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200mm" height="700mm" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+<title id="title">PM-03 异常响应看板 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;PM-03&quot;, &quot;name&quot;: &quot;异常响应看板&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-03_异常响应看板.svg&quot;, &quot;source_sha256&quot;: &quot;60631c671f0621a1d12e5f59846d65ebb94a56531bec5d36e48e6c55c216ca17&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;异常响应看板&quot;, &quot;ABNORMALITY RESPONSE&quot;, &quot;L01&quot;, &quot;正常&quot;, &quot;求助&quot;, &quot;停线&quot;, &quot;01&quot;, &quot;发现 / 呼叫&quot;, &quot;02&quot;, &quot;确认接单&quot;, &quot;03&quot;, &quot;隔离 / 措施&quot;, &quot;04&quot;, &quot;恢复批准&quot;, &quot;首次异常时间&quot;, &quot;________________&quot;, &quot;接手人 / 预计到场&quot;, &quot;________________&quot;, &quot;临时措施 / 恢复条件&quot;, &quot;________________&quot;, &quot;信号颜色仅为本厂管理提案；已有设备灯态先映射，不擅改机器控制逻辑&quot;], &quot;physical_size_mm&quot;: [1200, 700], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;删除L01假生产线身份以及绿黄红灯态施工暗示&quot;, &quot;异常任务接手、下一次确认与恢复依据可追溯&quot;, &quot;保留授权职责，不能通过看板合成复机/放行批准&quot;, &quot;即时风险与电池安全异常按现场专项预案处理，不提供操作处置&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/PM-03.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/PM-03.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="1200" height="700" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1200" height="105" fill="#000000"/>
+<rect x="0" y="0" width="13.2" height="105" fill="#FF6600"/>
+<text x="54" y="49.35" font-size="28.35" fill="#FFFFFF" font-weight="700" text-anchor="start">异常响应看板</text>
+<text x="54" y="84" font-size="12.6" fill="#FFFFFF" font-weight="500" text-anchor="start">ABNORMALITY RESPONSE / TASK HANDOFF</text>
+<text x="1146" y="49.35" font-size="16.8" fill="#FF6600" font-weight="700" text-anchor="end">PM-03</text>
+<text x="54" y="157" font-size="34" fill="#000000" font-weight="700" text-anchor="start">异常发现、任务接手与恢复确认</text>
+<text x="54" y="233" font-size="26" fill="#FF6600" font-weight="700" text-anchor="start">发现 / 登记</text>
+<text x="54" y="274" font-size="19" fill="#000000" font-weight="400" text-anchor="start">记录对象、时间、影响与</text>
+<text x="54" y="301" font-size="19" fill="#000000" font-weight="400" text-anchor="start">问题ID</text>
+<text x="327" y="233" font-size="26" fill="#FF6600" font-weight="700" text-anchor="start">确认接单</text>
+<text x="327" y="274" font-size="19" fill="#000000" font-weight="400" text-anchor="start">记录接手角色、联系与下</text>
+<text x="327" y="301" font-size="19" fill="#000000" font-weight="400" text-anchor="start">一次确认</text>
+<text x="600" y="233" font-size="26" fill="#FF6600" font-weight="700" text-anchor="start">受控措施</text>
+<text x="600" y="274" font-size="19" fill="#000000" font-weight="400" text-anchor="start">引用已批准措施、范围及</text>
+<text x="600" y="301" font-size="19" fill="#000000" font-weight="400" text-anchor="start">效果记录</text>
+<text x="873" y="233" font-size="26" fill="#FF6600" font-weight="700" text-anchor="start">恢复确认</text>
+<text x="873" y="274" font-size="19" fill="#000000" font-weight="400" text-anchor="start">按职责核条件、质量影响</text>
+<text x="873" y="301" font-size="19" fill="#000000" font-weight="400" text-anchor="start">和批准记录</text>
+<text x="54" y="382" font-size="22" fill="#3E3A39" font-weight="400" text-anchor="start">对象 / 区域 / 问题ID</text>
+<text x="570" y="382" font-size="22" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="54" y1="392.56" x2="1146" y2="392.56" stroke="#C9C9C9" stroke-width="1.2"/>
+<text x="54" y="430" font-size="22" fill="#3E3A39" font-weight="400" text-anchor="start">首次发现 / 记录人</text>
+<text x="570" y="430" font-size="22" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="54" y1="440.56" x2="1146" y2="440.56" stroke="#C9C9C9" stroke-width="1.2"/>
+<text x="54" y="478" font-size="22" fill="#3E3A39" font-weight="400" text-anchor="start">接手人 / 下一次确认</text>
+<text x="570" y="478" font-size="22" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="54" y1="488.56" x2="1146" y2="488.56" stroke="#C9C9C9" stroke-width="1.2"/>
+<text x="54" y="526" font-size="22" fill="#3E3A39" font-weight="400" text-anchor="start">措施 / 条件 / 依据</text>
+<text x="570" y="526" font-size="22" fill="#000000" font-weight="400" text-anchor="start">待填批准文件或记录</text>
+<line x1="54" y1="536.56" x2="1146" y2="536.56" stroke="#C9C9C9" stroke-width="1.2"/>
+<text x="54" y="574" font-size="22" fill="#3E3A39" font-weight="400" text-anchor="start">恢复决定 / 授权记录</text>
+<text x="570" y="574" font-size="22" fill="#000000" font-weight="400" text-anchor="start">待真实授权记录</text>
+<line x1="54" y1="584.56" x2="1146" y2="584.56" stroke="#C9C9C9" stroke-width="1.2"/>
+<rect x="54" y="608" width="1092" height="48" fill="#F2F2F2"/>
+<text x="75.6" y="635.2" font-size="17" fill="#000000" font-weight="700" text-anchor="start">电池安全异常不进入普通返修/补料路线。</text>
+<text x="75.6" y="661.55" font-size="17" fill="#000000" font-weight="400" text-anchor="start">即时风险按现场批准预案报告；本板不定义处置动作。</text>
+<text x="54" y="692.3" font-size="15.4" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 不改设备按钮、灯态、电气控制或停机保护逻辑</text>
+</g>
+</svg>

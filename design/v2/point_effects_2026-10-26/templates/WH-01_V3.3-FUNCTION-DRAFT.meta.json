@@ -1,0 +1,41 @@
+{
+  "code": "WH-01",
+  "revision": "V3.3-FUNCTION-DRAFT",
+  "status": "proposal_pending_review",
+  "production_release": false,
+  "physical_size_mm": [
+    200,
+    100
+  ],
+  "dimension_scope": "Existing nominal template size retained; site/installation dimensions unknown.",
+  "source_path": "交付_8楼/design/v2/split_v2.4/8F/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT.svg",
+  "source_sha256": "6d70f8d6d5f296f96954104d460f45cecc83d611f4b2f92b2fc63224c1e32e76",
+  "original_text_preserved_in_metadata": [
+    "库位 / LOCATION",
+    "8F-__-__-__-__",
+    "楼层 / 区 / 排 / 列 / 层",
+    "容量 / 载荷：批准后填写",
+    "物料、批次使用可换卡",
+    "编码结构示意，非已登记库位",
+    "编码待生成",
+    "非扫码图",
+    "库位ID一致后",
+    "再生成并实扫"
+  ],
+  "decision": "Refine",
+  "changes": [
+    "保留固定库位地址，物料与批次继续使用独立可换卡。",
+    "编码区和主地址对齐；不生成示例条码，不把备品或标签库存当安装量。"
+  ],
+  "external_reference_status": "Initial layouts preceded Xiaohongshu login; subsequently reviewed against 3 observed Xiaohongshu posts and 4 supplementary primary sources. See reference ledger.",
+  "reference_ledger": "reports/point_effects_2026-10-26/reference_records.json",
+  "quantity_installed": null,
+  "installation_height_mm": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "font_files_distributed": false,
+  "path": "design/v2/point_effects_2026-10-26/templates/WH-01_V3.3-FUNCTION-DRAFT.svg"
+}

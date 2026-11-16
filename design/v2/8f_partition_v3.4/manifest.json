@@ -1,0 +1,136 @@
+{
+  "revision": "V3.4-8F-PARTITION-DRAFT",
+  "status": "draft",
+  "date": "2026-11-15",
+  "floor_id": "8F",
+  "production_release": false,
+  "site_measurements": null,
+  "world_points": [],
+  "actual_quantities": null,
+  "reference_manifest": "design/v2/8f_reference_supplement_v3.2/manifest.json",
+  "reference_sha256": "76ad12f9e6e73ad047bec37ed3332acb7de2c37cd515b89db725faef68f1a7a1",
+  "module_count": 4,
+  "assets": [
+    {
+      "path": "design/v2/8f_partition_v3.4/访客侧_装配与流程.svg",
+      "sha256": "55c12432f81374eb318e0c914784afd002de07abea112a9a341a087e21725fea",
+      "revision": "V3.4-8F-PARTITION-DRAFT",
+      "status": "draft",
+      "floor_id": "8F",
+      "production_release": false,
+      "size_basis": "normalized drawing units only",
+      "site_size_mm": null,
+      "site_facing": null,
+      "point_id": null,
+      "quantity": null,
+      "survey_refs": [
+        "K17",
+        "K24"
+      ],
+      "detail_refs": [
+        "D01",
+        "D15"
+      ],
+      "template_refs": [
+        "WF-01",
+        "VT-01",
+        "BE-03"
+      ]
+    },
+    {
+      "path": "design/v2/8f_partition_v3.4/工位侧_装配与受控作业.svg",
+      "sha256": "5a154092c7d53b8d61946994977d4e2fb7a5cf86cb0be0aafb7e4368530650ed",
+      "revision": "V3.4-8F-PARTITION-DRAFT",
+      "status": "draft",
+      "floor_id": "8F",
+      "production_release": false,
+      "size_basis": "normalized drawing units only",
+      "site_size_mm": null,
+      "site_facing": null,
+      "point_id": null,
+      "quantity": null,
+      "survey_refs": [
+        "K02",
+        "K03"
+      ],
+      "detail_refs": [
+        "D02",
+        "D08"
+      ],
+      "template_refs": [
+        "WF-02",
+        "SW-01"
+      ]
+    },
+    {
+      "path": "design/v2/8f_partition_v3.4/仓口侧_原料仓交接.svg",
+      "sha256": "d3107db6183a9cc9247d6df245f74d37e2b387be8134979ca144a534de9d57ad",
+      "revision": "V3.4-8F-PARTITION-DRAFT",
+      "status": "draft",
+      "floor_id": "8F",
+      "production_release": false,
+      "size_basis": "normalized drawing units only",
+      "site_size_mm": null,
+      "site_facing": null,
+      "point_id": null,
+      "quantity": null,
+      "survey_refs": [
+        "K18",
+        "K19"
+      ],
+      "detail_refs": [
+        "D06",
+        "D10",
+        "D19"
+      ],
+      "template_refs": [
+        "WH-01",
+        "WH-03",
+        "QC-01"
+      ]
+    },
+    {
+      "path": "design/v2/8f_partition_v3.4/维修侧_交接与复判.svg",
+      "sha256": "d4387594fbad1d8996e56213d90a256be6b6867b999b4483ba9933f879b820ce",
+      "revision": "V3.4-8F-PARTITION-DRAFT",
+      "status": "draft",
+      "floor_id": "8F",
+      "production_release": false,
+      "size_basis": "normalized drawing units only",
+      "site_size_mm": null,
+      "site_facing": null,
+      "point_id": null,
+      "quantity": null,
+      "survey_refs": [
+        "K07",
+        "K08",
+        "K09"
+      ],
+      "detail_refs": [
+        "D10",
+        "D14"
+      ],
+      "template_refs": [
+        "PM-03",
+        "WH-03",
+        "QC-03",
+        "QC-04"
+      ]
+    }
+  ],
+  "register_sha256": "f38ca3e9ed63889717b651e1a9cb2fb511943f3d0259334f20deac69b2ed754a",
+  "delivery": [
+    {
+      "path": "交付_8楼/围板设计_V3.4/打开这里.html",
+      "sha256": "8b22d2857cf67b7ff3c0dec3407003c5a18d56fd898e1c59e9a6181672a19374"
+    },
+    {
+      "path": "交付_8楼/围板设计_V3.4/8F_围板踏勘补充.csv",
+      "sha256": "63f308d96e2d0bfde9614d267099dae2e5f21d1df80bb22099eddfa14a37b6a5"
+    },
+    {
+      "path": "交付_8楼/围板设计_V3.4/output/pdf/8F_围板设计_V3.4.pdf",
+      "type": "draft_pdf"
+    }
+  ]
+}

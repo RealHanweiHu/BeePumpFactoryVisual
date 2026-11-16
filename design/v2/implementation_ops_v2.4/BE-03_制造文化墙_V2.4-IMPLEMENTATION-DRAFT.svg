@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4200mm" height="1800mm" viewBox="0 0 4200 1800" role="img" aria-labelledby="title desc">
+<title id="title">BE-03 制造文化墙 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;BE-03&quot;, &quot;name&quot;: &quot;制造文化墙&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-03_制造文化墙.svg&quot;, &quot;source_sha256&quot;: &quot;7f8b1dd965fe94bac5f590b61cf37e8c38cea42db04d4beda85a27a3b964e56b&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;SINCE 1994&quot;, &quot;专注充气产品制造&quot;, &quot;工程&quot;, &quot;把规格转化为受控过程&quot;, &quot;品质&quot;, &quot;用证据确认每次放行&quot;, &quot;效率&quot;, &quot;让问题及时暴露和解决&quot;, &quot;人才&quot;, &quot;让标准帮助员工做好工作&quot;, &quot;历史节点只展示经核实的年份、产品与证据&quot;, &quot;内容提案；1994来自2025样册；不虚构2000 / 2010 / 2027里程碑&quot;], &quot;physical_size_mm&quot;: [4200, 1800], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;保留制造文化用途，移除未核Since1994及历史宣称&quot;, &quot;工艺、质量追溯、6S改善、客户验证形成四类真实内容接口&quot;, &quot;对客披露、图片许可、内容责任与复审记录独立确认&quot;, &quot;不合成证书、奖项、客户Logo、生产业绩或员工历史&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/BE-03.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/BE-03.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="4200" height="1800" fill="#FFFFFF"/>
+<rect x="0" y="0" width="4200" height="1800" fill="#000000"/>
+<text x="180" y="245" font-size="170" fill="#FFFFFF" font-weight="700" text-anchor="start">制造文化</text>
+<text x="180" y="405" font-size="85" fill="#FFFFFF" font-weight="500" text-anchor="start">用可核验的过程、追溯与改善形成内容</text>
+<text x="180" y="501" font-size="45" fill="#FF6600" font-weight="700" text-anchor="start">内容编辑提案 · 对客文案与证据待批准</text>
+<text x="180" y="730" font-size="88" fill="#FFFFFF" font-weight="700" text-anchor="start">真实工艺</text>
+<line x1="180" y1="796" x2="1075" y2="796" stroke="#FF6600" stroke-width="7"/>
+<text x="180" y="927" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">受控工艺 / 版本 / 现场图</text>
+<text x="180" y="1040" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">真实内容待审核</text>
+<text x="180" y="1161" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">真实图 / 记录编号：待填</text>
+<text x="180" y="1260" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">内容责任 / 批准：待填</text>
+<text x="180" y="1359" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">复审条件 / 日期：待填</text>
+<text x="1140" y="730" font-size="88" fill="#FFFFFF" font-weight="700" text-anchor="start">质量追溯</text>
+<line x1="1140" y1="796" x2="2035" y2="796" stroke="#FF6600" stroke-width="7"/>
+<text x="1140" y="927" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">检验依据 / 放行记录</text>
+<text x="1140" y="1040" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">可公开证据待批准</text>
+<text x="1140" y="1161" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">真实图 / 记录编号：待填</text>
+<text x="1140" y="1260" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">内容责任 / 批准：待填</text>
+<text x="1140" y="1359" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">复审条件 / 日期：待填</text>
+<text x="2100" y="730" font-size="88" fill="#FFFFFF" font-weight="700" text-anchor="start">6S改善</text>
+<line x1="2100" y1="796" x2="2995" y2="796" stroke="#FF6600" stroke-width="7"/>
+<text x="2100" y="927" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">问题 / 措施 / 复核证据</text>
+<text x="2100" y="1040" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">真实改善案例待审核</text>
+<text x="2100" y="1161" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">真实图 / 记录编号：待填</text>
+<text x="2100" y="1260" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">内容责任 / 批准：待填</text>
+<text x="2100" y="1359" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">复审条件 / 日期：待填</text>
+<text x="3060" y="730" font-size="88" fill="#FFFFFF" font-weight="700" text-anchor="start">客户验证</text>
+<line x1="3060" y1="796" x2="3955" y2="796" stroke="#FF6600" stroke-width="7"/>
+<text x="3060" y="927" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">授权需求 / 验证证据</text>
+<text x="3060" y="1040" font-size="42" fill="#FFFFFF" font-weight="400" text-anchor="start">客户授权与披露待批准</text>
+<text x="3060" y="1161" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">真实图 / 记录编号：待填</text>
+<text x="3060" y="1260" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">内容责任 / 批准：待填</text>
+<text x="3060" y="1359" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">复审条件 / 日期：待填</text>
+<text x="180" y="1591" font-size="51" fill="#FFFFFF" font-weight="700" text-anchor="start">每项内容保留来源、披露许可与复审记录。</text>
+<text x="180" y="1714" font-size="36" fill="#FFFFFF" font-weight="400" text-anchor="start">评审稿 · 不展示未经核实的年份、奖项、客户标识、认证或业绩</text>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160mm" height="100mm" viewBox="0 0 160 100" role="img" aria-labelledby="title desc">
+<title id="title">EQ-02 工装量具牌 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;EQ-02&quot;, &quot;name&quot;: &quot;工装量具牌&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-02_工装量具牌.svg&quot;, &quot;source_sha256&quot;: &quot;6b540ce966a9b97af35c35d81fbfa0c4e0b2cc1a706b24ff50d51cbe3fbeaf0a&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;工装 / 量具&quot;, &quot;TOOL &amp; GAUGE&quot;, &quot;TG-___&quot;, &quot;适用机型 / 版本&quot;, &quot;________________&quot;, &quot;校准到期&quot;, &quot;________________&quot;, &quot;管理人&quot;, &quot;________________&quot;, &quot;逾期或状态不明：暂停使用，联系品质 / 工程&quot;], &quot;physical_size_mm&quot;: [160, 100], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;真实工具身份与适用版本独立，不填虚構TG编号&quot;, &quot;检验、校准/检定依据及有效状态查真实记录&quot;, &quot;不将未填状态打印为已合格，逾期和不明状态暂停使用&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/EQ-02.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/EQ-02.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="160" height="100" fill="#FFFFFF"/>
+<rect x="0" y="0" width="160" height="15" fill="#000000"/>
+<rect x="0" y="0" width="1.76" height="15" fill="#FF6600"/>
+<text x="7.2" y="7.05" font-size="4.05" fill="#FFFFFF" font-weight="700" text-anchor="start">工装 / 量具</text>
+<text x="7.2" y="12" font-size="1.8" fill="#FFFFFF" font-weight="500" text-anchor="start">TOOL &amp; GAUGE IDENTITY</text>
+<text x="152.8" y="7.05" font-size="2.4" fill="#FF6600" font-weight="700" text-anchor="end">EQ-02</text>
+<text x="7.2" y="26" font-size="3.4" fill="#3E3A39" font-weight="400" text-anchor="start">永久工具ID / 名称</text>
+<text x="88" y="26" font-size="3.4" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="7.2" y1="28.42" x2="152.8" y2="28.42" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="7.2" y="37" font-size="3.4" fill="#3E3A39" font-weight="400" text-anchor="start">适用机型 / 版本</text>
+<text x="88" y="37" font-size="3.4" fill="#000000" font-weight="400" text-anchor="start">待确认</text>
+<line x1="7.2" y1="39.42" x2="152.8" y2="39.42" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="7.2" y="48" font-size="3.4" fill="#3E3A39" font-weight="400" text-anchor="start">检验依据 / 记录</text>
+<text x="88" y="48" font-size="3.4" fill="#000000" font-weight="400" text-anchor="start">待填真实文件</text>
+<line x1="7.2" y1="50.42" x2="152.8" y2="50.42" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="7.2" y="59" font-size="3.4" fill="#3E3A39" font-weight="400" text-anchor="start">适用状态 / 到期</text>
+<text x="88" y="59" font-size="3.4" fill="#000000" font-weight="400" text-anchor="start">查有效记录</text>
+<line x1="7.2" y1="61.42" x2="152.8" y2="61.42" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="7.2" y="70" font-size="3.4" fill="#3E3A39" font-weight="400" text-anchor="start">管理人 / 联系</text>
+<text x="88" y="70" font-size="3.4" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="7.2" y1="72.42" x2="152.8" y2="72.42" stroke="#C9C9C9" stroke-width="0.25"/>
+<rect x="7.2" y="80" width="145.6" height="12" fill="#F2F2F2"/>
+<text x="10.08" y="84.64" font-size="2.9" fill="#000000" font-weight="700" text-anchor="start">逾期、状态不明或变更：暂停使用。</text>
+<text x="10.08" y="89.135" font-size="2.9" fill="#000000" font-weight="400" text-anchor="start">联系品质 / 工程；本牌不证明检验合格。</text>
+<text x="7.2" y="98.9" font-size="2.2" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 内容、适用范围与安装待批准</text>
+</g>
+</svg>

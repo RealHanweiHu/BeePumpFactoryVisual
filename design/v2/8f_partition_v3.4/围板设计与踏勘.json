@@ -1,0 +1,69 @@
+{
+  "revision": "V3.4-8F-PARTITION-DRAFT",
+  "status": "draft",
+  "date": "2026-11-15",
+  "floor_id": "8F",
+  "production_release": false,
+  "reference_manifest": "design/v2/8f_reference_supplement_v3.2/manifest.json",
+  "site_measurements": null,
+  "world_points": [],
+  "actual_quantities": null,
+  "modules": [
+    {
+      "id": "visitor",
+      "title": "访客侧｜锂电充气泵装配",
+      "filename": "访客侧_装配与流程.svg",
+      "summary": "用黑底识别本层业务，下方白底流程带供停留时阅读。板缝两侧各自保留边距，末跨可留白。",
+      "position": "先在小客梯到层后获准接待或观察处，寻找面向访客的固定实心围板。停留位置和通行净空须同查。",
+      "survey_refs": ["K17", "K24"],
+      "detail_refs": ["D01", "D15"],
+      "template_refs": ["WF-01", "VT-01", "BE-03"],
+      "fixed": "楼层、装配功能名、已确认的工序顺序。",
+      "replaceable": "近读补充仅在销售与技术、品质确认可公开样件或图文后另配。当前版只表达流程。",
+      "site_check": "核主进路视线、实际可停留面、玻璃或观察开口、板缝与访客信息审看范围。",
+      "roles": "销售、生产、品质、工程、安全"
+    },
+    {
+      "id": "assembly",
+      "title": "工位侧｜装配与受控作业文件",
+      "filename": "工位侧_装配与受控作业.svg",
+      "summary": "白底给员工近读，黑色标题区方便远读定位。线别与工位、现行 SOP 可随现场实际更新。",
+      "position": "选一条在用线，在员工正常工位站姿可读、可换页且远离设备活动部件的围板一侧试样。",
+      "survey_refs": ["K02", "K03"],
+      "detail_refs": ["D02", "D08"],
+      "template_refs": ["WF-02", "SW-01"],
+      "fixed": "工位功能名、文件区标题、核版及异常提示。",
+      "replaceable": "实际线号／工位号，现行 SOP 或其批准的近读页。换型即核对版本并回收旧页。",
+      "site_check": "核握持和伸手换页空间、实际字体可读性、观测开口及防护面，由生产和技术核对工位与现行文件。",
+      "roles": "生产、技术、品质、工程"
+    },
+    {
+      "id": "receiving",
+      "title": "仓口侧｜原料仓收货交接",
+      "filename": "仓口侧_原料仓交接.svg",
+      "summary": "把收货动作放在仓口读面，可换页随接收要求更新。货物沿用批次卡与品质状态卡。",
+      "position": "核原料仓现用接收门及仓内接收侧的实心板面，供来料交接人员在获准停靠的位置读取。",
+      "survey_refs": ["K18", "K19"],
+      "detail_refs": ["D06", "D10", "D19"],
+      "template_refs": ["WH-01", "WH-03", "QC-01"],
+      "fixed": "收货交接标题及核对、记录、接收三项动作。",
+      "replaceable": "批准的交接单据或当前接收要求。批次及品质结论随对应实物更新。",
+      "site_check": "核台车满载经过、门扇、转弯与停读站位，确认板面换页时也保留通行。",
+      "roles": "仓库、品质、生产、工程"
+    },
+    {
+      "id": "repair",
+      "title": "维修侧｜维修交接与复判",
+      "filename": "维修侧_交接与复判.svg",
+      "summary": "把接修进度做成可替换队列，使用黑白状态词。已修件交品质复判后再按授权流转。",
+      "position": "核维修房入口内侧或维修工作区附近的固定围板，以维修和品质人员能读到、能更新的位置为先。",
+      "survey_refs": ["K07", "K08", "K09"],
+      "detail_refs": ["D10", "D14"],
+      "template_refs": ["PM-03", "WH-03", "QC-03", "QC-04"],
+      "fixed": "待修、在修、已修待复判、报废待处置四个文字栏目。",
+      "replaceable": "真实维修单、批次或关联记录号和当前接手角色。移交或复判后同步撤换。",
+      "site_check": "核正常站位下的可达、接修与复判交接，确认已修件无放行误读。窗口、通风及检修面留出。",
+      "roles": "生产（维修责任人）、技术、品质、工程"
+    }
+  ]
+}

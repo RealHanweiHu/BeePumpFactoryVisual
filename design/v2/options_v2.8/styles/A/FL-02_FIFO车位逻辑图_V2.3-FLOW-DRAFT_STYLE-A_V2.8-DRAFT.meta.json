@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "A",
+  "style_label": "原版黑橙",
+  "code": "FL-02",
+  "template_code": "FL-02",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT.svg",
+  "source_sha256": "a83c588702181d7221f6490417a711f39a50fe3916faa088e6a669b0fca820fa",
+  "nominal_size_mm": [
+    1200,
+    550
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"FL-02\", \"revision\": \"V2.3-FLOW-DRAFT\", \"status\": \"template_proposal_pending_review\", \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/FL-02_FIFO车位逻辑图.svg\", \"sha256\": \"db35755a04356b507e838fb2caad170a052f12126c2729fdd27c41715e08d1e1\"}, \"original_text_preserved\": [\"FIFO：有限容量 + 取放顺序\", \"平面逻辑示意 / 非现场通道施工图\", \"P01\", \"批次 03\", \"P02\", \"批次 02\", \"P03\", \"批次 01\", \"IN\", \"OUT\", \"批次01最早进入 → 从OUT端先取；批次与箭头顺序必须一致\", \"质量冻结品退出正常FIFO，并保留原批次追溯；严禁旁边再设无上限临时区\"], \"change_reasons\": [\"移除示例P01-P03、批次01-03和实体进出方向箭头\", \"在真实已放行范围内排序；FIFO与适用FEFO条件分别核实\", \"当前与批准上限待填/待批准，满位暂停投放，不设溢出区\"], \"nominal_dimensions_mm\": [1200, 550], \"viewbox_contract\": \"1 SVG user unit = 1 nominal mm\", \"nominal_font_size_note\": \"font-size is nominal em in template units; not measured printed glyph height or site installation/readability approval\", \"actual_point_id\": null, \"actual_floor_id\": null, \"actual_area_id\": null, \"actual_direction_degrees\": null, \"actual_installation_height_mm\": null, \"actual_installed_quantity\": null, \"approved_capacity\": null, \"production_release\": false, \"approvals\": {\"content\": null, \"location\": null, \"operation\": null, \"installation\": null, \"safety_when_applicable\": null}, \"orange_floor_markings\": false, \"safety_graphics_changed\": false, \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"template_slots_are_not_site_counts\": true, \"read_update_hierarchy\": [\"放行先决\", \"FIFO/FEFO适用规则\", \"上限、满位与冻结例外\"], \"visitor_node_id\": null, \"visitor_id_example\": null, \"render_review\": {\"status\": \"digital_render_bounds_and_pixels_checked\", \"png\": \"reports/flow_template_render/FL-02.png\", \"qa_record\": \"reports/flow_template_render/render_qa.json\", \"text_inside_artboard\": true, \"text_overlap_candidates\": 0, \"pixels_viewed_individually\": true, \"chinese_display_checked\": true, \"font_used\": \"Installed PingFang SC fallback\", \"physical_1_to_1_sample_tested\": false, \"site_reading_distance_approved\": false, \"installation_approved\": false}, \"path\": \"design/v2/flow_v2.3/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT.svg\", \"sidecar_path\": \"design/v2/flow_v2.3/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT.sidecar.json\"}"
+  ]
+}

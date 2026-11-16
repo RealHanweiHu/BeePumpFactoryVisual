@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "A",
+  "style_label": "原版黑橙",
+  "code": "SW-02",
+  "template_code": "SW-02",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "ea7f90f10b37eb3cea999a156b453647c7067f50da563ff8812367dd0ed4c5ed",
+  "nominal_size_mm": [
+    420,
+    297
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"SW-02\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"SW-02\", \"floor_proposal\": null, \"nominal_dimensions_mm\": [420, 297], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-02_换型包装核对板.svg\", \"sha256\": \"d6c31b99ad14ae252b61b0a715e49a7b7f2be8dd608e426069d908f473b97408\"}}"
+  ]
+}

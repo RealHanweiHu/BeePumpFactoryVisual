@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297" role="img" aria-label="SOP作业框架 / 受控SOP文件框 / 草案">
+<metadata id="beepump-v28-style-draft">{"schema_version": "1.0", "revision": "V2.8-CHOICE-DRAFT", "style_id": "A", "style_label": "原版黑橙", "code": "SW-01", "template_code": "SW-01", "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT.svg", "source_sha256": "abdf0d0528b96f12091f8486f0ee9bbee210cf1c64fb91e7a0953ef90df14484", "nominal_size_mm": [420, 297], "status": "style_option_pending_review", "production_release": false, "actual_point_id": null, "actual_dimensions_mm": null, "installation_height_mm": null, "world_coordinates": null, "quantity": null, "text_preserved": true, "text_geometry_preserved": true, "quality_header_preserved": true, "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.", "source_metadata": ["{\"template_code\": \"SW-01\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"SW-01\", \"floor_proposal\": null, \"nominal_dimensions_mm\": [420, 297], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-01_SOP作业框架.svg\", \"sha256\": \"23d0dea4b09176c028d083d38cf840f621a4ae0c8e4fd4736d85fb453ea47722\"}}"]}</metadata><title>SOP作业框架 / V2.4-IMPLEMENTATION-DRAFT</title>
+<desc>可编辑实施评审草案。名义模板尺寸，不构成现场施工放行。源文件和原始文字在侧车保存；实际位置、数量、方向、安装及批准均未取得。</desc>
+<g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="0" y="0" width="420" height="43" fill="#000000" />
+<rect x="0" y="0" width="4.2" height="43" fill="#FF6600" />
+<text x="14.280000000000001" y="20.209999999999997" font-size="12" fill="#FFFFFF" font-weight="600" text-anchor="start">标准作业指导书</text>
+<text x="14.280000000000001" y="34.830000000000005" font-size="4.68" fill="#FFFFFF" font-weight="400" text-anchor="start">STANDARD OPERATING PROCEDURE</text>
+<text x="405.72" y="20.209999999999997" font-size="5.16" fill="#FF6600" font-weight="500" text-anchor="end">SW-01 受控框架</text>
+<text x="14" y="57" font-size="5.8" fill="#000000" font-weight="600" text-anchor="start">文件ID / 版次：待批准</text>
+<text x="217" y="57" font-size="5.8" fill="#000000" font-weight="400" text-anchor="start">产品 / 工位：待核</text>
+<text x="14" y="72" font-size="5.2" fill="#000000" font-weight="400" text-anchor="start">生效批次或日期：待批准</text>
+<text x="217" y="72" font-size="5.2" fill="#000000" font-weight="400" text-anchor="start">内容批准 / 现场验证：待记录</text>
+<rect x="14" y="86" width="124" height="55" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.6" />
+<text x="76" y="109" font-size="4.9" fill="#3E3A39" font-weight="400" text-anchor="middle">受控本工位照片待提供</text>
+<text x="76" y="125" font-size="3.7" fill="#3E3A39" font-weight="400" text-anchor="middle">仅为版面位置，不代替现场作业</text>
+<text x="14" y="159" font-size="6.1" fill="#000000" font-weight="600" text-anchor="start">步骤 01 / 动作：待批准</text>
+<text x="14" y="176" font-size="5.2" fill="#000000" font-weight="400" text-anchor="start">关键点 / 判定：待批准</text>
+<text x="14" y="193" font-size="5.2" fill="#3E3A39" font-weight="400" text-anchor="start">原因 / 风险：待确认</text>
+<rect x="147" y="86" width="124" height="55" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.6" />
+<text x="209" y="109" font-size="4.9" fill="#3E3A39" font-weight="400" text-anchor="middle">受控本工位照片待提供</text>
+<text x="209" y="125" font-size="3.7" fill="#3E3A39" font-weight="400" text-anchor="middle">仅为版面位置，不代替现场作业</text>
+<text x="147" y="159" font-size="6.1" fill="#000000" font-weight="600" text-anchor="start">步骤 02 / 动作：待批准</text>
+<text x="147" y="176" font-size="5.2" fill="#000000" font-weight="400" text-anchor="start">关键点 / 判定：待批准</text>
+<text x="147" y="193" font-size="5.2" fill="#3E3A39" font-weight="400" text-anchor="start">原因 / 风险：待确认</text>
+<rect x="280" y="86" width="124" height="55" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.6" />
+<text x="342" y="109" font-size="4.9" fill="#3E3A39" font-weight="400" text-anchor="middle">受控本工位照片待提供</text>
+<text x="342" y="125" font-size="3.7" fill="#3E3A39" font-weight="400" text-anchor="middle">仅为版面位置，不代替现场作业</text>
+<text x="280" y="159" font-size="6.1" fill="#000000" font-weight="600" text-anchor="start">步骤 03 / 动作：待批准</text>
+<text x="280" y="176" font-size="5.2" fill="#000000" font-weight="400" text-anchor="start">关键点 / 判定：待批准</text>
+<text x="280" y="193" font-size="5.2" fill="#3E3A39" font-weight="400" text-anchor="start">原因 / 风险：待确认</text>
+<line x1="14" y1="207" x2="406" y2="207" stroke="#FF6600" stroke-width="0.8" />
+<text x="14" y="223" font-size="5.8" fill="#000000" font-weight="600" text-anchor="start">受控参数、检验口径、工装 / 量具及文件引用：待批准</text>
+<text x="14" y="241" font-size="4.7" fill="#000000" font-weight="400" text-anchor="start">异常：按本岗批准流程暂停、保留追溯并呼叫指定角色；接手与恢复记录待核。</text>
+<text x="14" y="258" font-size="4.7" fill="#000000" font-weight="400" text-anchor="start">扫码仅补充完整文件；离线仍能读到本岗关键步骤。换型换版须撤回旧版。</text>
+<text x="14" y="276" font-size="4.2" fill="#3E3A39" font-weight="400" text-anchor="start">技术编制 / 品质判定 / 生产验证 / 工程条件：具体责任人与批准证据待登记。</text>
+<text x="14" y="290" font-size="3.7" fill="#3E3A39" font-weight="400" text-anchor="start">SW-01 / V2.4-IMPLEMENTATION-DRAFT · 名义A3横版 · 未填受控内容前不得作为完整SOP上岗</text>
+</g>
+</svg>

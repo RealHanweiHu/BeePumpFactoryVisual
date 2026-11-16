@@ -1,0 +1,434 @@
+[
+  {
+    "floor_id": "1F",
+    "baseline_function": "金工车间 / 出货区 / 主入口",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "一层平面图",
+        "handle": "3C8CE",
+        "position": [
+          929151.3210991494,
+          128901.3529850419,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "一层平面图",
+        "handle": "3EB99",
+        "position": [
+          870662.1904263606,
+          135754.9806706521,
+          0.0
+        ]
+      },
+      {
+        "text": "一层平面图",
+        "handle": "B158F",
+        "position": [
+          749151.3210991493,
+          128901.3529850419,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "一层平面图",
+        "handle": "B224C",
+        "position": [
+          690662.1904263606,
+          135754.9806706521,
+          0.0
+        ]
+      },
+      {
+        "text": "一层平面图",
+        "handle": "B358B",
+        "position": [
+          1109151.321099149,
+          128901.3529850419,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "一层平面图",
+        "handle": "B4244",
+        "position": [
+          1050662.19042636,
+          135754.9806706521,
+          0.0
+        ]
+      }
+    ],
+    "identity_status": "multiple_candidates_pending_selection",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "2F",
+    "baseline_function": "注塑车间",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "二层平面图",
+        "handle": "3E414",
+        "position": [
+          870662.1904263606,
+          342961.7412370957,
+          0.0
+        ]
+      },
+      {
+        "text": "二层平面图",
+        "handle": "3EB58",
+        "position": [
+          929151.3210991494,
+          336108.1135514855,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "二层平面图",
+        "handle": "A7CBD",
+        "position": [
+          1070662.190426361,
+          341408.7050828559,
+          0.0
+        ]
+      },
+      {
+        "text": "二层平面图",
+        "handle": "A7DA8",
+        "position": [
+          1129151.321099149,
+          334555.0773972457,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "二层平面图",
+        "handle": "B2D19",
+        "position": [
+          690662.1904263606,
+          342961.7412370957,
+          0.0
+        ]
+      },
+      {
+        "text": "二层平面图",
+        "handle": "B2E28",
+        "position": [
+          749151.3210991493,
+          336108.1135514855,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "二层平面图",
+        "handle": "EC346",
+        "position": [
+          1266874.717193991,
+          341408.7050828559,
+          0.0
+        ]
+      },
+      {
+        "text": "二层平面图",
+        "handle": "EC431",
+        "position": [
+          1325363.847866779,
+          334555.0773972457,
+          -6.82e-14
+        ]
+      }
+    ],
+    "identity_status": "multiple_candidates_pending_selection",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "3F",
+    "baseline_function": "成品仓",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "三层平面图",
+        "handle": "3EB70",
+        "position": [
+          929151.3210991494,
+          866333.7887273852,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "5C1BA",
+        "position": [
+          929151.3210991494,
+          655413.7887273852,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "5CA03",
+        "position": [
+          929151.3210991494,
+          444493.7887273851,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "5D24C",
+        "position": [
+          929151.3210991494,
+          549493.7887273851,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "5DEA6",
+        "position": [
+          929151.3210991494,
+          760413.7887273852,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "5E900",
+        "position": [
+          929151.3210991494,
+          972253.7887273851,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "65BEA",
+        "position": [
+          1051548.549433534,
+          451347.4164129953,
+          0.0
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "65CBD",
+        "position": [
+          1109151.321099149,
+          444493.7887273851,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "AE7CB",
+        "position": [
+          1109151.321099149,
+          655413.7887273852,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "三层平面图",
+        "handle": "F10B1",
+        "position": [
+          1109151.321099149,
+          972253.7887273853,
+          -6.82e-14
+        ]
+      }
+    ],
+    "identity_status": "title_conflict",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "4F",
+    "baseline_function": "手打气筒装配车间",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "四层平面图",
+        "handle": "50578",
+        "position": [
+          1047405.952473197,
+          556318.389153531,
+          0.0
+        ]
+      },
+      {
+        "text": "四层平面图",
+        "handle": "5D155",
+        "position": [
+          871548.5494335343,
+          556347.4164129953,
+          0.0
+        ]
+      }
+    ],
+    "identity_status": "title_conflict",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "5F",
+    "baseline_function": "半成品仓 / 来料检 IQC",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "五层平面图",
+        "handle": "5C0C3",
+        "position": [
+          871548.5494335343,
+          662267.4164129954,
+          0.0
+        ]
+      },
+      {
+        "text": "五层平面图",
+        "handle": "AE6F8",
+        "position": [
+          1051548.549433534,
+          662267.4164129954,
+          0.0
+        ]
+      }
+    ],
+    "identity_status": "title_conflict",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "6F",
+    "baseline_function": "用途待确认",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "六层平面图",
+        "handle": "5DDAF",
+        "position": [
+          871548.5494335343,
+          767267.4164129954,
+          0.0
+        ]
+      }
+    ],
+    "identity_status": "title_conflict",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "7F",
+    "baseline_function": "用途待确认",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "七层平面图",
+        "handle": "3E30E",
+        "position": [
+          871548.5494335343,
+          873187.4164129953,
+          0.0
+        ]
+      },
+      {
+        "text": "七层平面图",
+        "handle": "5E809",
+        "position": [
+          871548.5494335343,
+          979107.4164129954,
+          0.0
+        ]
+      }
+    ],
+    "identity_status": "title_conflict",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "8F",
+    "baseline_function": "锂电充气泵装配车间",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "八层平面图",
+        "handle": "F0FBF",
+        "position": [
+          1051548.549433534,
+          979107.4164129955,
+          0.0
+        ]
+      }
+    ],
+    "identity_status": "title_conflict",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  },
+  {
+    "floor_id": "9F",
+    "baseline_function": "喷漆车间（专项接口）",
+    "baseline_source": "V1 p.7；26页原方案 p.1",
+    "cad_title_candidates": [
+      {
+        "text": "九层平面图",
+        "handle": "3F1E0",
+        "position": [
+          867405.9524731974,
+          1083158.389153531,
+          0.0
+        ]
+      },
+      {
+        "text": "九层平面图",
+        "handle": "3F390",
+        "position": [
+          929151.3210991494,
+          1076333.788727385,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "九层平面图",
+        "handle": "50590",
+        "position": [
+          1109151.321099149,
+          549493.7887273851,
+          -6.82e-14
+        ]
+      },
+      {
+        "text": "九层平面图",
+        "handle": "C9463",
+        "position": [
+          1047405.952473197,
+          1083158.389153531,
+          0.0
+        ]
+      },
+      {
+        "text": "九层平面图",
+        "handle": "C947B",
+        "position": [
+          1109151.321099149,
+          1076333.788727385,
+          -6.82e-14
+        ]
+      }
+    ],
+    "identity_status": "multiple_candidates_pending_selection",
+    "next_action": "先选择有效图框，确认单位、图签与现场功能；再生成实际点位和数量",
+    "point_coordinates": null,
+    "quantity_installed": null
+  }
+]

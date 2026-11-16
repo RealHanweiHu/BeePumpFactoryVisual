@@ -1,0 +1,18 @@
+{
+  "file": "inputs/cad/新厂房平面图（改）.dwg",
+  "bytes": 5715930,
+  "sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+  "header_ascii": "AC1018",
+  "format_family": "AutoCAD 2004 format family",
+  "read_level": "native_DWG_to_DXF_decoded",
+  "geometry_decoded": true,
+  "floor_count": null,
+  "layouts": [
+    "Model",
+    "布局1",
+    "布局2"
+  ],
+  "drawing_units": "INSUNITS=1; physical unit unresolved",
+  "reason": "Native DXF export succeeded; title conflict, missing fonts, native plot crash and units need review.",
+  "next_action": "Confirm valid 8F sheet and physical units; resolve missing CAD fonts or provide reliable native vector PDF before coordinate placement."
+}

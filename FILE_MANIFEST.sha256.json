@@ -1,0 +1,1031 @@
+{
+  "revision": "V2.1-DRAFT",
+  "self_excluded": true,
+  "files": [
+    {
+      "path": ".agents/skills/beepump-factory-visual/SKILL.md",
+      "bytes": 1914,
+      "sha256": "492a5656c4db91fe7664b0eebbbee03cf756fbbd26be0e7428da1599fc8ba6ef"
+    },
+    {
+      "path": ".agents/skills/redesign-existing-projects/SKILL.md",
+      "bytes": 15060,
+      "sha256": "98ad3e5b051bfb71b2795f7e8a6aa0d32b51ee095606c098a4b2822ac07926c9"
+    },
+    {
+      "path": ".agents/skills/redesign-existing-projects/agents/openai.yaml",
+      "bytes": 187,
+      "sha256": "3d1a0fc3909b243ed143f713a0365869a33553e5a9d33701239c4c1c2e523d82"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 266,
+      "sha256": "036df291ee77f51909d20aee1bcdc9bf0dded6d2220d47fc9b57dfa74845bf04"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 4795,
+      "sha256": "f431f74475687213b91a2eeb2c1384105d8cc2dd15b694082ca18e67178efa78"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2594,
+      "sha256": "d2a3b894b0fd3d20026fcdb69a05c652f3577965b5f0d1f2337e1fbe8cceb8cf"
+    },
+    {
+      "path": "START_CODEX.md",
+      "bytes": 2358,
+      "sha256": "22fc36b5e0ccc28230843d36c711d56163dc2aafcd817f91b77a97839b23021e"
+    },
+    {
+      "path": "START_HERE.html",
+      "bytes": 1267082,
+      "sha256": "c27e1e56c97cda553640d51195c5bbd949754f7b0bfa2fd085bb85e70f1cc3ac"
+    },
+    {
+      "path": "data/floors.json",
+      "bytes": 8833,
+      "sha256": "b92d78084dbc971f3bdf18ffa88142146e1ad9125cd1d1f7fd12fe0b6e6274ab"
+    },
+    {
+      "path": "data/points.json",
+      "bytes": 203,
+      "sha256": "fae4a73cedfda99e9eec7156beb7a18fb889feaec865994853f87455fb32972d"
+    },
+    {
+      "path": "data/sources.json",
+      "bytes": 12288,
+      "sha256": "46877e6da0abee62f50f7bbec42ce8d130b00228dc7a57e709018fdf0caffc0e"
+    },
+    {
+      "path": "data/tasks.json",
+      "bytes": 2709,
+      "sha256": "12055232a25bffe3b03ad5c4b9d5b2ef09a31a9422d839c799632f68bd6f650f"
+    },
+    {
+      "path": "data/templates.json",
+      "bytes": 61137,
+      "sha256": "c5136a4403847a2d06ba601648e6cd8740a3e19c0c77b39d332580c19b64c0b2"
+    },
+    {
+      "path": "data/tokens.json",
+      "bytes": 835,
+      "sha256": "d2b08827fac029f649996e6410bdfd90a18669645425e47db8ae6053fbe40db6"
+    },
+    {
+      "path": "design/v2/FL-01_WIP限量牌_V2.1-DRAFT.meta.json",
+      "bytes": 1998,
+      "sha256": "c2c13856c4a9d46c78c0df1a5c7b10f4e0bb47c23841932dcd53bffe7f0de07f"
+    },
+    {
+      "path": "design/v2/FL-01_WIP限量牌_V2.1-DRAFT.svg",
+      "bytes": 4898,
+      "sha256": "c25700be26d957c9214673c2a8a31e1f46d06c90449e5876b3994d86b4b8cda4"
+    },
+    {
+      "path": "design/v2/PM-01_生产运行看板_V2.1-DRAFT.meta.json",
+      "bytes": 2866,
+      "sha256": "69e153c762b1c4a85ef73d476bcab31ef398f7a0c9c9487bd358f5aca6887982"
+    },
+    {
+      "path": "design/v2/PM-01_生产运行看板_V2.1-DRAFT.svg",
+      "bytes": 12474,
+      "sha256": "8c5982d51d074141cf55cdb88212c96bf2d683f64e6ca218571a5e7ee503b0c0"
+    },
+    {
+      "path": "design/v2/PM-02_SQDCP班组看板_V2.1-DRAFT.meta.json",
+      "bytes": 2899,
+      "sha256": "3bc4d37025030cedc3fb030a2407b66d557125acfaf9d35bbb5ebc4f26459d67"
+    },
+    {
+      "path": "design/v2/PM-02_SQDCP班组看板_V2.1-DRAFT.svg",
+      "bytes": 15185,
+      "sha256": "ce293f1aef0f0c21320be0e8fd8c010027562632e6d253915568bbacf655616e"
+    },
+    {
+      "path": "design/v2/README.md",
+      "bytes": 703,
+      "sha256": "d7c2aec54b64cf8104b187fb808a5e1edb492d3c3caf105caaa0d590ae84dd53"
+    },
+    {
+      "path": "design/v2/WF-02_区域吊牌_V2.1-DRAFT.meta.json",
+      "bytes": 1758,
+      "sha256": "9b295018d5adf9cff7e090cd2e28618c2c27879db76751e4320b63cc80e1329a"
+    },
+    {
+      "path": "design/v2/WF-02_区域吊牌_V2.1-DRAFT.svg",
+      "bytes": 3190,
+      "sha256": "6385d737234e3e1329c3aeb7eef5d821c608110d7c4dfbda88cb4c771e698185"
+    },
+    {
+      "path": "design/v2/WF-04_柱牌_V2.1-DRAFT.meta.json",
+      "bytes": 1704,
+      "sha256": "d9d33d4420feab0700530264d9e8856f0fc4b524b19f17f49b825fa6a8fdd8ed"
+    },
+    {
+      "path": "design/v2/WF-04_柱牌_V2.1-DRAFT.svg",
+      "bytes": 3627,
+      "sha256": "bd961c4b6f470713fc5898dafe7cd78c825322ad1b7c8b984cdff8bb49da4a61"
+    },
+    {
+      "path": "design/v2/WH-01_库位标签_V2.1-DRAFT.meta.json",
+      "bytes": 1869,
+      "sha256": "398454a21971f94e877f6393a8302b4779298fde2dc673ba35aacd5fcb9fede6"
+    },
+    {
+      "path": "design/v2/WH-01_库位标签_V2.1-DRAFT.svg",
+      "bytes": 3820,
+      "sha256": "604b61a62ab7058feb8b96293f9ed306332343aad21b7e4f3265981bb1609b1b"
+    },
+    {
+      "path": "design/v2/revision_manifest.json",
+      "bytes": 10933,
+      "sha256": "265ab68dd21a62dcd9297ac107ca650d147f9d771a66b13b7f5a051d9b5cbfa1"
+    },
+    {
+      "path": "docs/CAD_WORKFLOW.md",
+      "bytes": 3551,
+      "sha256": "822832037d5ac8cb219553f8098baf77e9140fabe79598b009c268b1a13bc170"
+    },
+    {
+      "path": "docs/DECISIONS.md",
+      "bytes": 1727,
+      "sha256": "73620b55a4b28d27a53b49cb6066036803e648ae41abdd368d9fb54fd242f26c"
+    },
+    {
+      "path": "docs/DELIVERY_AND_ACCEPTANCE.md",
+      "bytes": 1773,
+      "sha256": "a8443bd12fa341fd4702ab2c83a9942703a9a2530902ddddb28c9862d9ed0a25"
+    },
+    {
+      "path": "docs/EXECUTION_CHECKLIST.md",
+      "bytes": 2532,
+      "sha256": "ec63a591ae5991408fa7dd2001f118d8fd5f5d668a59f3f75d76becfff118fb1"
+    },
+    {
+      "path": "docs/PHYSICAL_VISUAL_SYSTEM.md",
+      "bytes": 1929,
+      "sha256": "e1d4c7eadf92a7f303786bddbbc95fb2e5dc94d0f442d22fb446f1754aa22cdd"
+    },
+    {
+      "path": "docs/POINT_DATA_CONTRACT.md",
+      "bytes": 1914,
+      "sha256": "58b0bc56c891452f169fbeae5050833f8c8c4c6ebb25d2c6dcd6c5b150cf20b7"
+    },
+    {
+      "path": "docs/PROJECT_BRIEF.md",
+      "bytes": 2409,
+      "sha256": "293179ead89ce6af9e66395e4741723590968233e1c20198a751200f769102c4"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "bytes": 1482,
+      "sha256": "54844144042ff08bf09032fc8604913823f9e98d1326d74c2016b6af19c546bd"
+    },
+    {
+      "path": "docs/TASTE_ADAPTATION.md",
+      "bytes": 2390,
+      "sha256": "d2effec128cbbeef84155698b70ee3f0688dc46066fc24645d08adebae78afb7"
+    },
+    {
+      "path": "docs/V2_CHANGELOG.md",
+      "bytes": 2169,
+      "sha256": "c6350934dd5c58cf867c5b155fd26a86721e062812b1d7083b7cbf50c326d136"
+    },
+    {
+      "path": "inputs/cad/新厂房平面图（改）.dwg",
+      "bytes": 5715930,
+      "sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918"
+    },
+    {
+      "path": "inputs/references/全厂目视化设计与施工方案（Bee黑橙VI）_橙色FF6600.pdf",
+      "bytes": 3685720,
+      "sha256": "cc22eb9da86dc576653e0e88a909bf5e65274e05f6f21a195cc79aaf12b80b81"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/01_Manual/BeePump_Factory_Visual_Design_Manual_V1.0.pdf",
+      "bytes": 803331,
+      "sha256": "abcce74ce5fac5d736620811bd9f50080b43ba35220be36117e83b051bd739aa"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/02_Editable/BeePump_Design_and_Execution_Spec_V1.0.docx",
+      "bytes": 72202,
+      "sha256": "6d295d106c4f90db0d2d9c4772e33e79d3e9a2186aef9bf0f98cf1d124677734"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-01_入口品牌墙.svg",
+      "bytes": 3590,
+      "sha256": "82c82c900e08f5453941d83a76d10ed6964b6e312ef8face32d32865cc4068bd"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-02_电梯厅形象墙.svg",
+      "bytes": 3803,
+      "sha256": "a7455723605e2ae79abf2824b88ac30c265fb8cc75ff5b7e6ebdf76f76c5a978"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-03_制造文化墙.svg",
+      "bytes": 4271,
+      "sha256": "7f8b1dd965fe94bac5f590b61cf37e8c38cea42db04d4beda85a27a3b964e56b"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-04_制造能力墙.svg",
+      "bytes": 9163,
+      "sha256": "0cf42097b813396bebf9c2ca843d0ecda01d1fa6e6b13647966b536d4c3dae32"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BT-01_电池暂存信息牌.svg",
+      "bytes": 4786,
+      "sha256": "46a31e6f7e8963277a9aad083040793e32a4927c1bf11627c1a0d271246dfd1a"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BT-02_老化格位卡.svg",
+      "bytes": 3307,
+      "sha256": "ec3a6a67362f47fa59f5c88af00fb255e5209da3161680a70752a8d953a30da1"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-01_设备身份牌.svg",
+      "bytes": 3635,
+      "sha256": "b360aaec4b62ee7a007c55ea87da5354084564338afe09defa685254a8e85cf7"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-02_工装量具牌.svg",
+      "bytes": 2388,
+      "sha256": "6b540ce966a9b97af35c35d81fbfa0c4e0b2cc1a706b24ff50d51cbe3fbeaf0a"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-03_设备状态卡.svg",
+      "bytes": 1865,
+      "sha256": "e8bcea088498d7df693c3287901b07d0a2463af3c1dfe2622d0c51348fd08c0a"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/ES-01_电子装配进入确认.svg",
+      "bytes": 3442,
+      "sha256": "c5da3167605890bfdbf05e57511164489e297c3d94b1f077a372ed097a869a72"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FL-01_WIP限量牌.svg",
+      "bytes": 2412,
+      "sha256": "07ab9a5f926b1012c6c45f1d45a858ce00d81d2d9f66d03012d26c0d7430b69c"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FL-02_FIFO车位逻辑图.svg",
+      "bytes": 3121,
+      "sha256": "db35755a04356b507e838fb2caad170a052f12126c2729fdd27c41715e08d1e1"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FM-01_地面定置图例.svg",
+      "bytes": 3796,
+      "sha256": "a2447c9e81077acf9b084583a6b5af8d45a65d1eb22fe2535eab042b90dba8c7"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/MD-01_模具状态牌.svg",
+      "bytes": 3853,
+      "sha256": "5d183b4c2acc4f5817c03f3cf616bd4ccdfc6ad4f39885aa22037c385797b193"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-01_生产运行看板.svg",
+      "bytes": 12295,
+      "sha256": "6e22a064001d37d40372b8aec7a4457f487c1cedfb52611a44db7e8a60965d0f"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-02_SQDCP班组看板.svg",
+      "bytes": 11071,
+      "sha256": "d0fc56b86041b6faded1000427f452c4b45527dfbd2996627a6c0b5d65df6137"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-03_异常响应看板.svg",
+      "bytes": 4473,
+      "sha256": "60631c671f0621a1d12e5f59846d65ebb94a56531bec5d36e48e6c55c216ca17"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-01_状态卡_PENDING.svg",
+      "bytes": 2016,
+      "sha256": "9412cd67e6b9a51f0f2ab1edb4200859e2d0b72ecc66c904e7982ec92ec96e70"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-02_状态卡_RELEASED.svg",
+      "bytes": 2018,
+      "sha256": "e93faab1e2540a15123fc9ed6cb49535ef3c18a09415fd192f196f4df2260110"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-03_状态卡_NONCONFORMING.svg",
+      "bytes": 2014,
+      "sha256": "575d37b7c820d6f67c9388ef5cd74a604083180f896c69eb59f5ad7b763a2d66"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-04_状态卡_HOLD.svg",
+      "bytes": 2014,
+      "sha256": "c48380f11673bd9d3cf58d4fcd9c48a9d5328ec7041bd3a27affd61c47d8af13"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-05_样件验证队列.svg",
+      "bytes": 10451,
+      "sha256": "59b50f0d429f38451e5f86b9f868b3bd299d64cd1c4719d450827f1bcf31ef84"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/README.md",
+      "bytes": 637,
+      "sha256": "2621216d069f1b371f2509c0f209d94a35768eac425f896bc63912e9676aa2d1"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-01_SOP作业框架.svg",
+      "bytes": 5938,
+      "sha256": "23d0dea4b09176c028d083d38cf840f621a4ae0c8e4fd4736d85fb453ea47722"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/SW-02_换型包装核对板.svg",
+      "bytes": 2891,
+      "sha256": "d6c31b99ad14ae252b61b0a715e49a7b7f2be8dd608e426069d908f473b97408"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/VS-01_6S责任牌.svg",
+      "bytes": 4167,
+      "sha256": "1a311d083d76cc04b725daea19f7c8e638a2f677c78a6e6362675d8f18e95737"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/VT-01_客户参观节点.svg",
+      "bytes": 3178,
+      "sha256": "f0fa3a4dd5046ae5598536337e47edc7295a7f6d8bb12f8d678a3157fb57037c"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-01_楼层导览.svg",
+      "bytes": 5941,
+      "sha256": "bd67ca9c1a66b32e0230280539e98f3cb189d66c28da37082dea94c7f7d5ae81"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-02_区域吊牌.svg",
+      "bytes": 1208,
+      "sha256": "40d727ece2813f3e06a15281b0f2f3b0c9bb37739c62b7558c7669a92a8e82f8"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-03_分岔导向牌.svg",
+      "bytes": 1189,
+      "sha256": "a26d9ee747c8e03affb1853aa23648a8089dba63f5acf7069d55fecb52c62912"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-04_柱牌.svg",
+      "bytes": 1581,
+      "sha256": "3861ce85257f48565ff91ae24893931a63472f6d6c25d52c7e2713cd90a7d8c7"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-05_门牌.svg",
+      "bytes": 1646,
+      "sha256": "5c56a54ee0ff3ac0ca01d46cb711c8c874fb4209b4f56cc0fae9cc8849da1f7a"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-01_库位标签.svg",
+      "bytes": 1754,
+      "sha256": "b959e2ae41ff46627a5874c6d2614ac7d61c1d2d07a074598e124b9a2cbe3a59"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-02_货架端头牌.svg",
+      "bytes": 1369,
+      "sha256": "e36453a654faeb61c930d43f352e6ddd548238bd7f0f100b04404405fc536b52"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-03_工序流转卡.svg",
+      "bytes": 5728,
+      "sha256": "03e688b55d130b171c64a6729affc5dbc758100ab767041b7e1593f448b811b0"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-04_出货控制看板.svg",
+      "bytes": 7901,
+      "sha256": "110a54af44128c36339157c6a1d31412f3b2fedb39568f9bd7093a8c0119a14d"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-05_跨楼层交接牌.svg",
+      "bytes": 3322,
+      "sha256": "814c90f3fbfb9be053e00af25ca0a750b3f67bb83a81d49dc980b690add5b68d"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/index.html",
+      "bytes": 10682,
+      "sha256": "8d9e571728c64b4e8173748e905477acf867ef1634640cfb4b498269db9d60c1"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/template_registry.json",
+      "bytes": 7529,
+      "sha256": "949ea7c3c247d047fc9c915a0729ea12f2cf70c1a02049ef81856bc5b2a41e45"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/04_BOQ/BeePump_BOQ_Implementation_Control_V1.0.xlsx",
+      "bytes": 28315,
+      "sha256": "1e588d6c9ebfdd5331ae6a7e270c8f9580754898e31612830f6b0e07cc3f2aae"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/05_Handoff/project_data.json",
+      "bytes": 64344,
+      "sha256": "b3cac2a9ffe5e3331badb466257fea26216549c880210802a8457c8beec286ce"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/05_Handoff/交付清单_manifest.json",
+      "bytes": 8174,
+      "sha256": "040f22a16f3bb6047ca609c21e5333464e45a2f93cc54ac349c898c396e8f65f"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/05_Handoff/供应商交接要求.md",
+      "bytes": 1717,
+      "sha256": "98467b271ef8c5e4d9193e07861e7d4db12da67b8b81a18a2ddb896d1b2e6a03"
+    },
+    {
+      "path": "inputs/v1/BeePump_Design_Package/README_先读.md",
+      "bytes": 4124,
+      "sha256": "9acc7d03a47bd7382005fb7c40ffeda22862394646516ac0bb3c0d97921d80a5"
+    },
+    {
+      "path": "output/pdf/BeePump_V2.1_Draft_Review.pdf",
+      "bytes": 3269790,
+      "sha256": "19b6103e6351f9d7b169cf3cf6b9a2da250fca4a1335523501acd76e80c5954b"
+    },
+    {
+      "path": "outputs/drawings/8F_candidate_calibration.json",
+      "bytes": 1666,
+      "sha256": "2786cd28184e7bfb45a20c4b8f459d798a005be8ed06bc43fd078daaab5bccb5"
+    },
+    {
+      "path": "outputs/drawings/8F_drawing_observations.json",
+      "bytes": 5364,
+      "sha256": "67363ed639224d1837dd41ec4180276eb91428b4907453164e93341108de863e"
+    },
+    {
+      "path": "outputs/drawings/8F_render_limitations.json",
+      "bytes": 884,
+      "sha256": "7927bca98ce6a559754435b27863c4bc7420a893820ee3df2f7766c6cdbaf619"
+    },
+    {
+      "path": "outputs/drawings/8F_source_candidate_partial.svg",
+      "bytes": 852622,
+      "sha256": "3d7bf37499f4f5732ce4921d58455e8e0a7fc164ddc59e8b9a07c37a09effc8f"
+    },
+    {
+      "path": "outputs/drawings/README.md",
+      "bytes": 909,
+      "sha256": "40e1c3801ecc813d6b086d3b2de14698f15d03ea2b3e82fce107bcab348d13f8"
+    },
+    {
+      "path": "outputs/drawings/cad_dimensions.json",
+      "bytes": 143344,
+      "sha256": "1d21a75eb6141d1f25d75f560e73b75acac2a9caf9d081a69ed7e6b335e1bb05"
+    },
+    {
+      "path": "outputs/drawings/cad_inventory.json",
+      "bytes": 50022,
+      "sha256": "112fd3036c41b57bbdb5cc288044a60fe958913c10ea7007e9477fb41f82c88f"
+    },
+    {
+      "path": "outputs/drawings/cad_texts.json",
+      "bytes": 1479415,
+      "sha256": "4148fe7800707f8a56c8b74dd7cebf8adbd7792084778a052a04c28e91bcd0ec"
+    },
+    {
+      "path": "outputs/drawings/export_readonly.scr",
+      "bytes": 845,
+      "sha256": "987c841990421863b4f2a59d61e55b598e4b05ddec860981f1da5d3349743572"
+    },
+    {
+      "path": "outputs/drawings/factory_converted.dxf",
+      "bytes": 61378523,
+      "sha256": "111418d2c7d53a7aea28b90444a0ee0dd25d904c2a7bcf17f1d984f333c58eea"
+    },
+    {
+      "path": "outputs/drawings/native_meta.lspdata",
+      "bytes": 97220,
+      "sha256": "e20c982e9996aeea3db4ff535cf8a098871d34ae36b842565a4d53f9a9773683"
+    },
+    {
+      "path": "outputs/drawings/plot_8F_candidate.scr",
+      "bytes": 408,
+      "sha256": "f494f04f18d1a4738260718ba9378878177575e5f314cf07692084a18f1b1ba7"
+    },
+    {
+      "path": "outputs/drawings/title_candidates.csv",
+      "bytes": 7319,
+      "sha256": "0b7d1ea8a6806e68d23c98f455cc9bf15b002608ddf7083893b9ba5bc39d923d"
+    },
+    {
+      "path": "outputs/planning/8F_unlocated_requirements.json",
+      "bytes": 13114,
+      "sha256": "dbf8025f8ae3940166eefcc95f021c912e4af93dd2dc8a5220214897c6eab915"
+    },
+    {
+      "path": "outputs/planning/8F待定位需求台账.csv",
+      "bytes": 3330,
+      "sha256": "b241495d20af1507f86fd112545df8572cae4f90eae896fccc8fc6a492d6ca6e"
+    },
+    {
+      "path": "outputs/planning/floor_coverage.json",
+      "bytes": 10471,
+      "sha256": "4309baa88d41436a3244f9ebe55fd688ded012ff1c437641c08909f2d373e656"
+    },
+    {
+      "path": "outputs/quantities/budget_contract.json",
+      "bytes": 644,
+      "sha256": "9b3fcf35eefdb6f8bd4a7241ef642c76af76559e4cf056d8033c0b6765ff299b"
+    },
+    {
+      "path": "outputs/quantities/预算与数量输入.csv",
+      "bytes": 10805,
+      "sha256": "a3872ec30973b8247648726b40358a444e4801a644cb96dc7e4767cbe52f8c4f"
+    },
+    {
+      "path": "preview/app.js",
+      "bytes": 15372,
+      "sha256": "7d662e1d06b4ea8c98bc57704e80ad003e26db6ae7820e95fb43e48d50976538"
+    },
+    {
+      "path": "preview/data.js",
+      "bytes": 322486,
+      "sha256": "122218f21871ba64674c361b56796a7d3072485a93ad766369b9b572302b60e3"
+    },
+    {
+      "path": "preview/index.html",
+      "bytes": 1914,
+      "sha256": "a444edb447e4b7f95c8bb36b4bb5e0a38143c37c30ebd00ba922d76e2fc8fe0f"
+    },
+    {
+      "path": "preview/single_file_review.html",
+      "bytes": 354480,
+      "sha256": "97532fa358b4d39674d11aa4884809f0d47e3d911e1ffac51d7a8426f866b267"
+    },
+    {
+      "path": "preview/style.css",
+      "bytes": 14761,
+      "sha256": "0ef5437b0176b27c470905af216ffc751d58bcea0e485e311d0db4b7dcc80745"
+    },
+    {
+      "path": "reports/SESSION_STATUS.md",
+      "bytes": 1424,
+      "sha256": "a480284b3ea1bfe4a27e39f331747635a7328fd5a00322ef17ecd02a9dea40bc"
+    },
+    {
+      "path": "reports/cad_conversion_attempt.txt",
+      "bytes": 178,
+      "sha256": "0acdba72c0e52155e0e3ebc8aa3259abc2f8421dfc89162b6de7c3abf94ba0c0"
+    },
+    {
+      "path": "reports/cad_intake.json",
+      "bytes": 724,
+      "sha256": "9c7be9990d74a466f8163b6ea2d533e87054ba3e8678ba8bb8ab947090cf0776"
+    },
+    {
+      "path": "reports/current_intake.json",
+      "bytes": 770,
+      "sha256": "8d7a87a57bbcd9918e16e66b451957fa9cb9914a60eafe8caa2972d1e0217098"
+    },
+    {
+      "path": "reports/delivery_validation.json",
+      "bytes": 614,
+      "sha256": "ad35e81cfc269089f5317231976e1cf9f82826218bc0d381e814aae80b74c20e"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-001.png",
+      "bytes": 130553,
+      "sha256": "7ca8662b3e004beb84e8ea390c25d5d5f4a14bbe99a9976086e9f86c09d3d56b"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-002.png",
+      "bytes": 156337,
+      "sha256": "7bfdb12b76520605da9a6f4ee189d6dc816f76f83e36bc093fdf078bda675516"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-003.png",
+      "bytes": 161598,
+      "sha256": "1947e85d1142214f580a6b30ff2d681a4dd541119e0265ec6c93cc1f5c16194e"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-004.png",
+      "bytes": 170305,
+      "sha256": "e339a89b3a65da9113a160cfd0447a5b09171a0b0815d64d7447fb5758fac4e4"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-005.png",
+      "bytes": 137620,
+      "sha256": "0038968163d3fe427e75b05f34402cf4fc23f1d555a2628e07e0755e6b199d63"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-006.png",
+      "bytes": 131898,
+      "sha256": "6f36a171cec357a8c5bc4feb2617c87c026bf9de16a591087d1ca42addb27295"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-007.png",
+      "bytes": 169913,
+      "sha256": "3b219f45fc594b022e9473ea352123e90f2427b3bb62ef8e6fd8888c15915501"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-008.png",
+      "bytes": 189174,
+      "sha256": "e4e29288a5d45d212aa058aa16ae7dc9b1c315039a814ecfb734be7060b8c0a2"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-009.png",
+      "bytes": 193793,
+      "sha256": "341a08df3d54fada043744160b80d7762caa0d7a1051ec1488f275a278fe7352"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-010.png",
+      "bytes": 214273,
+      "sha256": "24f072a66321b8dc54eadd2a07e78f1a21bb1299545fae19269187e2298dbbf4"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-011.png",
+      "bytes": 158012,
+      "sha256": "2c290cfc678f70c7dbe45b662a8b222fd90daf777149fbc6eea10d03c04793ca"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-012.png",
+      "bytes": 160716,
+      "sha256": "ccb15cdc0e42c378c39f1af9136a0ccbb8f92e925345ad39337032b1ccaebc53"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-013.png",
+      "bytes": 162136,
+      "sha256": "e186b83601cc693d06de262be65e692e68b2c2c3d208b257c79fb243272fd76f"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-014.png",
+      "bytes": 179547,
+      "sha256": "ec0507a3d9af372b84a7b8dc163488b3b67b20c1a611407611fee6e5177d4e93"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-015.png",
+      "bytes": 188199,
+      "sha256": "1c83a5b1a0e4bca1aad93c32766280c1e28730c7a1de8835617bc5a660d21523"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-016.png",
+      "bytes": 157775,
+      "sha256": "0c4e5bebacebd914e9dd096d37580745c374af13181c36c97e15fd5a50797f8a"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-017.png",
+      "bytes": 160640,
+      "sha256": "04f9ce6e738cce53a19de99a5f497d3c381b554af3115e59e4de75da05b9da81"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/page-018.png",
+      "bytes": 183636,
+      "sha256": "59a1b8cbb9edbc182c1cfdc793676c1c183ce0d765d7d82910c5e1c703dc2520"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/pages.json",
+      "bytes": 1793,
+      "sha256": "73fc8fd135406a6adb1bf31004a9d28884bcd327a613e76a59fb45022301e565"
+    },
+    {
+      "path": "reports/final_pdf_render_cg/text.txt",
+      "bytes": 25167,
+      "sha256": "61d779cbef9d8dcd0453df07bf2c8de9eb33c466bb2bf6926089aeb944a95f95"
+    },
+    {
+      "path": "reports/handoff_scope.json",
+      "bytes": 694,
+      "sha256": "3561350256959c80ebfd7abc8d56342f389d6d832b27b16486a34146068d003f"
+    },
+    {
+      "path": "reports/mac_baseline_tests.txt",
+      "bytes": 2038,
+      "sha256": "200bb8ebce11008b32dfc3da62180c081358a2f9890d8cb909a8614c7ec15a0b"
+    },
+    {
+      "path": "reports/mac_baseline_validation.json",
+      "bytes": 615,
+      "sha256": "ccd682558546c030416e4a84f95bec43b1016971eab8603449f853fef55fcf6b"
+    },
+    {
+      "path": "reports/mac_coreconsole_arm64.txt",
+      "bytes": 80,
+      "sha256": "fe9cadde4d98b95a2457f94a38d07e2e94c712b5b8c7d7755bcfe3ec6c02a801"
+    },
+    {
+      "path": "reports/mac_coreconsole_authorized.txt",
+      "bytes": 1140,
+      "sha256": "d91af2a6832a290c122bae7f7121b77a098065d8ec8b76a1bfde6d0cbfeacee2"
+    },
+    {
+      "path": "reports/mac_coreconsole_help.txt",
+      "bytes": 80,
+      "sha256": "fe9cadde4d98b95a2457f94a38d07e2e94c712b5b8c7d7755bcfe3ec6c02a801"
+    },
+    {
+      "path": "reports/mac_current_validation.json",
+      "bytes": 615,
+      "sha256": "87cafb1f087cfc9d65f2bea321797a80b9ecf8ed93563c28f636cd36d74d498d"
+    },
+    {
+      "path": "reports/mac_dxf_inventory_summary.json",
+      "bytes": 20637,
+      "sha256": "aae45e74a6e10f6a927f610604fb5527f194e1419848221c31a0a83006b14530"
+    },
+    {
+      "path": "reports/mac_final_tests.txt",
+      "bytes": 2038,
+      "sha256": "50b3424476524d6984c70d5cf81f79aa8e271c61b97739d9ab4b724a81710c8e"
+    },
+    {
+      "path": "reports/mac_final_validation.json",
+      "bytes": 615,
+      "sha256": "87cafb1f087cfc9d65f2bea321797a80b9ecf8ed93563c28f636cd36d74d498d"
+    },
+    {
+      "path": "reports/mac_native_cad_export.txt",
+      "bytes": 3793,
+      "sha256": "fe708abb3affe1ef43aed730f8e0e068bbea1c8df5e9801716e66a37fba4374a"
+    },
+    {
+      "path": "reports/mac_native_plot_8F.txt",
+      "bytes": 2919,
+      "sha256": "fdcea7c13521ac2b94200432eacb65fdaedeb3e5cea51dac40ee1b901efff9d8"
+    },
+    {
+      "path": "reports/package_policy.json",
+      "bytes": 21609,
+      "sha256": "1311714d3e15241590748c459eeb174fb9448e84ea631969f4053c8dfa4321f5"
+    },
+    {
+      "path": "reports/preview_checks/index.html.dialog.png",
+      "bytes": 133167,
+      "sha256": "9398e459a6325543cd4862465054fd338a39477914ad9864e571e0f8f197099d"
+    },
+    {
+      "path": "reports/preview_checks/index.html.mobile.png",
+      "bytes": 188597,
+      "sha256": "769cbabc49e6336de5e966c89593818bd71e1555de103cb366e92f4bd79cedbb"
+    },
+    {
+      "path": "reports/preview_checks/index.html.overview.png",
+      "bytes": 256439,
+      "sha256": "d1eb066c2ea121f8c2ab04c8c2f78442b6abd04706a860e93171711bc2442aa7"
+    },
+    {
+      "path": "reports/preview_checks/single_file_review.html.dialog.png",
+      "bytes": 133167,
+      "sha256": "9398e459a6325543cd4862465054fd338a39477914ad9864e571e0f8f197099d"
+    },
+    {
+      "path": "reports/preview_checks/single_file_review.html.mobile.png",
+      "bytes": 188597,
+      "sha256": "769cbabc49e6336de5e966c89593818bd71e1555de103cb366e92f4bd79cedbb"
+    },
+    {
+      "path": "reports/preview_checks/single_file_review.html.overview.png",
+      "bytes": 256439,
+      "sha256": "d1eb066c2ea121f8c2ab04c8c2f78442b6abd04706a860e93171711bc2442aa7"
+    },
+    {
+      "path": "reports/preview_qa.json",
+      "bytes": 605,
+      "sha256": "eb96b7b522d33b0aa6285195711ead7605eb0f0048d3ce55f5e66423a0941e0b"
+    },
+    {
+      "path": "reports/source_render/manual/page-007.png",
+      "bytes": 135194,
+      "sha256": "bcfd6d9c69f1bebc127a85f6fba1a1466722bd8dd851f944e74353ae33c4ac0d"
+    },
+    {
+      "path": "reports/source_render/manual/page-009.png",
+      "bytes": 141854,
+      "sha256": "72a2585fdd9a97f47cf2457a66133e9b4d6d2497376ca8df198a71e13ec5aca4"
+    },
+    {
+      "path": "reports/source_render/manual/page-057.png",
+      "bytes": 146190,
+      "sha256": "6ad928b643c79f21a2fd8c88dbe2d8f3a29d21696d6fefb4aa055ded00026b8c"
+    },
+    {
+      "path": "reports/source_render/manual/pages.json",
+      "bytes": 6503,
+      "sha256": "101da576ceddede2847b10192b0de7e05469ca00b45eecf8e34b05fe029dcb40"
+    },
+    {
+      "path": "reports/source_render/manual/text.txt",
+      "bytes": 103505,
+      "sha256": "634063117326d510a7dc0c027529920765f2645417d2b4b05e7eddab781ab871"
+    },
+    {
+      "path": "reports/source_render/reference/page-003.png",
+      "bytes": 424922,
+      "sha256": "6a37b3006899b1282a6585e6c9e283bef38312c26b774ec9922623a96542f3a4"
+    },
+    {
+      "path": "reports/source_render/reference/page-019.png",
+      "bytes": 353093,
+      "sha256": "b766e876470f0dc625547158760051bae61111349dfc0aec608e50d187b8ce1c"
+    },
+    {
+      "path": "reports/source_render/reference/pages.json",
+      "bytes": 2281,
+      "sha256": "85a8c56d429a5e9300b4958c8febe5b427760b0397731424b36ebe28a59c20d8"
+    },
+    {
+      "path": "reports/source_render/reference/text.txt",
+      "bytes": 42741,
+      "sha256": "264332e704d0155a848086bda3ca8603e0b8375cd2103ac630c7454b1775c4be"
+    },
+    {
+      "path": "reports/source_render/svg/contact-1.html",
+      "bytes": 73484,
+      "sha256": "1adec33b5dca3c9ce7cf5271f9b38875cd009798fa1863aac54afac78eac48b3"
+    },
+    {
+      "path": "reports/source_render/svg/contact-1.png",
+      "bytes": 239548,
+      "sha256": "fc9ef4e6258b003697c60298dead2d54d214599f0c94f90f5114248b20af7bea"
+    },
+    {
+      "path": "reports/source_render/svg/contact-2.html",
+      "bytes": 48604,
+      "sha256": "35721432f7e03cf65a86d07b99d21f8b82d8de3b3186f8d72d17bc9645ea219b"
+    },
+    {
+      "path": "reports/source_render/svg/contact-2.png",
+      "bytes": 254571,
+      "sha256": "cb557a4a613b338056cad502314800a52aec5f79d7ebca4dd6fa5e9ccc5441aa"
+    },
+    {
+      "path": "reports/source_render/svg/contact-3.html",
+      "bytes": 80819,
+      "sha256": "e66ccf42aa01e79c4161f26d28b9a62fca4eded6e0f34a8895cfccb3e2161290"
+    },
+    {
+      "path": "reports/source_render/svg/contact-3.png",
+      "bytes": 254258,
+      "sha256": "a44061c4cd0a25420b767c928edaea46add5af4cab64e37146b24667ba5820c0"
+    },
+    {
+      "path": "reports/template_audit.csv",
+      "bytes": 9784,
+      "sha256": "eacccbbe7eecc5abe927806fbc8b10ac43bbb0299548db2eebae6e6c154ae5f4"
+    },
+    {
+      "path": "reports/template_audit.json",
+      "bytes": 50079,
+      "sha256": "6093e5dbe61335a92b266699cc4aa388921a3b358c2f72812292e4d37297be1b"
+    },
+    {
+      "path": "reports/test_results.txt",
+      "bytes": 1954,
+      "sha256": "3879948f7db391b839cc5efdfe8148055ecb44e2a0f4711394468929ec6965d1"
+    },
+    {
+      "path": "reports/v2_render/8F_partial_source.png",
+      "bytes": 128497,
+      "sha256": "75f78c0ef4d6a0b7756bb5ac1d7d278d6e769e8f542b12c1ce83707a5ecc4992"
+    },
+    {
+      "path": "reports/v2_render/FL-01.png",
+      "bytes": 124310,
+      "sha256": "eb663ee3ece93f16078e523f10d40672be3d6721f5fc98c2736df969fe3cd777"
+    },
+    {
+      "path": "reports/v2_render/PM-01.png",
+      "bytes": 105550,
+      "sha256": "10f1d3c3e3d1361c0693bbbeacc12348b3c51851bcfda942782b94b9ed7f86ee"
+    },
+    {
+      "path": "reports/v2_render/PM-02.png",
+      "bytes": 94406,
+      "sha256": "c2a9815d9d51ca4c145ba28723ba10a6d35e0ac75d3eba09e1beab2fba400720"
+    },
+    {
+      "path": "reports/v2_render/WF-02.png",
+      "bytes": 33071,
+      "sha256": "183ad40dd593b5f916d334159fbd43618bac2a3f6163122626a901b636f2d59a"
+    },
+    {
+      "path": "reports/v2_render/WF-04.png",
+      "bytes": 35238,
+      "sha256": "73fbe0744b0f9c0917cf5bf5059e2bc7375aa11647ec1c74463238da47f28ecf"
+    },
+    {
+      "path": "reports/v2_render/WH-01.png",
+      "bytes": 35482,
+      "sha256": "20ca21ede1290d8d6cdd825dfc50f999facbf59fcff97225a886df64ddc85963"
+    },
+    {
+      "path": "reports/v2_render/desktop_overview.png",
+      "bytes": 149301,
+      "sha256": "17a9be7fdd214c01bdd25f04e12620b4b4bac0b1bf64473456e96e8a77f17ecc"
+    },
+    {
+      "path": "reports/v2_render/mobile_overview.png",
+      "bytes": 72159,
+      "sha256": "e31b47980c544f55cbeb36aeeb800d80e1510f4f9722a3f34f3111119c04754c"
+    },
+    {
+      "path": "reports/v2_render_qa.json",
+      "bytes": 91392,
+      "sha256": "26e17b832ae0692c55b4c95d0bc3156131565f06ef99fdb2fe7c6a8da70c1823"
+    },
+    {
+      "path": "reports/validation.json",
+      "bytes": 615,
+      "sha256": "ccd682558546c030416e4a84f95bec43b1016971eab8603449f853fef55fcf6b"
+    },
+    {
+      "path": "reports/visual_review_record.json",
+      "bytes": 1004,
+      "sha256": "2f71ef3305f8828a3b9c978729b3ac53d8fac67f4025a427bf0a1107c0566f17"
+    },
+    {
+      "path": "requirements-cad.txt",
+      "bytes": 97,
+      "sha256": "4a4303dae1e0b97168c78aad3c624813595103ffd32bb6cd140129cd90538f1c"
+    },
+    {
+      "path": "review/page_manifest.json",
+      "bytes": 168,
+      "sha256": "b294b0f4dd5f7777738dab417491a8de98788a2c0dff18214123f95920042e45"
+    },
+    {
+      "path": "review/review_print.html",
+      "bytes": 1278121,
+      "sha256": "fbd573c7b4aeeec9a73aaaf1fe0c3069ee44df83484c8e6961abdb4c2abd4f83"
+    },
+    {
+      "path": "scripts/build_handoff.py",
+      "bytes": 5283,
+      "sha256": "bb10655e68dcec1d812536178452fb042d262c4e15d0278a4b0d922b30b58f58"
+    },
+    {
+      "path": "scripts/build_review.py",
+      "bytes": 29404,
+      "sha256": "7e1768ff0e4c381311495a547955e14ae1511295b2a724e30da304929c84d860"
+    },
+    {
+      "path": "scripts/build_review_data.py",
+      "bytes": 15328,
+      "sha256": "86124f333340010003f8ac6faf722cb85c06de3d7dde4df441d52e3d82ca7b6e"
+    },
+    {
+      "path": "scripts/build_v2.py",
+      "bytes": 10755,
+      "sha256": "ba74f30a16e0968d96638567699308c85f816a5ff23dad2cfa0b6ec8bb9a86c5"
+    },
+    {
+      "path": "scripts/cad.py",
+      "bytes": 8133,
+      "sha256": "b7662cf46a2a569487b373fa389bce945a7b33b295f517bc9e2cea0208790dbe"
+    },
+    {
+      "path": "scripts/dxf_inventory_stdlib.py",
+      "bytes": 4933,
+      "sha256": "ceb0f76934570b0af765677037c5bf8bc9ca2f86e74c434d392fb8ce9d446c02"
+    },
+    {
+      "path": "scripts/pdf_contacts.swift",
+      "bytes": 1983,
+      "sha256": "6663a4f4907a43d16f064b1023580e3b8f04cfbab5f30a5244f3be31b538dc71"
+    },
+    {
+      "path": "scripts/pdfkit.swift",
+      "bytes": 2295,
+      "sha256": "fe5e6c7f1cb16f22ef28e1b7d71e1fc94c3a54bfb4a14c9926954cb7a641d9e0"
+    },
+    {
+      "path": "scripts/project.py",
+      "bytes": 11041,
+      "sha256": "66e987552cce6dfbc8361301f6a7547f39d6e76e523f2a766a5c8f735df08e47"
+    },
+    {
+      "path": "scripts/qa_preview.py",
+      "bytes": 4146,
+      "sha256": "b151c803f7de2283f9db40776a1aa6650fac0e59e1710b2d432f1e68d6a3eba2"
+    },
+    {
+      "path": "scripts/render_dxf_candidate.py",
+      "bytes": 4635,
+      "sha256": "5eb4fdd94697ba5d698b6f1d722dced498d1c6232924964617e5d22a807b0370"
+    },
+    {
+      "path": "scripts/render_review_qa.cjs",
+      "bytes": 6687,
+      "sha256": "6e38655753cd7e6db7114c791b4386831650cf6129b974be41ee72a49709b73a"
+    },
+    {
+      "path": "source_archives/BeePump_Factory_Visual_Codex_Starter.zip",
+      "bytes": 8881520,
+      "sha256": "0e8775bf7782cd523a9ee5636ab31f570a254b014e23a37bb969d110a86fe14f"
+    },
+    {
+      "path": "source_archives/BeePump_Factory_Visual_Design_Package_V1.0.zip",
+      "bytes": 939225,
+      "sha256": "03cd95c2f2f49e64e8757425a1976864a8a7cf0db69e35415dcb568e3f7074ae"
+    },
+    {
+      "path": "tests/test_project.py",
+      "bytes": 4835,
+      "sha256": "6bfc410a65d2ce25474ce9eb636e9b1b7db01546a5e935c06d09c21ecffcd4e1"
+    },
+    {
+      "path": "third_party/taste-skill/LICENSE",
+      "bytes": 1065,
+      "sha256": "4575a543ab88dad12ccea7d97e563d0bce5b448b06072e65d3264497dad326df"
+    },
+    {
+      "path": "third_party/taste-skill/provenance.json",
+      "bytes": 694,
+      "sha256": "4daa46b319de85acaff576416a8b279bbbceeabf2a5c7c5c5efadf6394f10bc7"
+    }
+  ]
+}

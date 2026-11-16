@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400mm" height="1200mm" viewBox="0 0 2400 1200" role="img" aria-labelledby="title desc">
+  <metadata id="beepump-v28-style-draft">{"schema_version": "1.0", "revision": "V2.8-CHOICE-DRAFT", "style_id": "A", "style_label": "原版黑橙", "code": "PM-02", "template_code": "PM-02", "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT.svg", "source_sha256": "d006d15568f5d204ad30affe475381cf7a187c36f9e163581608654fe1974085", "nominal_size_mm": [2400, 1200], "status": "style_option_pending_review", "production_release": false, "actual_point_id": null, "actual_dimensions_mm": null, "installation_height_mm": null, "world_coordinates": null, "quantity": null, "text_preserved": true, "text_geometry_preserved": true, "quality_header_preserved": true, "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.", "source_metadata": ["{\"code\": \"PM-02\", \"template_code\": \"PM-02\", \"name\": \"SQDCP班组看板\", \"revision\": \"V2.4-8F-SPLIT-DRAFT\", \"status\": \"proposal_pending_review\", \"floor_scope\": \"8F\", \"floor_scope_semantics\": \"design applicability baseline; not actual_floor_id or verified CAD floor\", \"physical_size_mm\": [2400, 1200], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"design/v2/PM-02_SQDCP班组看板_V2.1-DRAFT.svg\", \"source_sha256\": \"ce293f1aef0f0c21320be0e8fd8c010027562632e6d253915568bbacf655616e\", \"source_sidecar_path\": \"design/v2/PM-02_SQDCP班组看板_V2.1-DRAFT.meta.json\", \"source_sidecar_sha256\": \"3bc4d37025030cedc3fb030a2407b66d557125acfaf9d35bbb5ebc4f26459d67\", \"source_snapshot\": {\"embedded_metadata\": {\"code\": \"PM-02\", \"revision\": \"V2.1-DRAFT\", \"status\": \"proposal_pending_review\", \"physical_size_mm\": [2400, 1200], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-02_SQDCP班组看板.svg\", \"source_sha256\": \"d0fc56b86041b6faded1000427f452c4b45527dfbd2996627a6c0b5d65df6137\", \"original_text_preserved_in_metadata\": [\"班组日常管理\", \"SQDCP / DAILY MANAGEMENT\", \"8F\", \"S\", \"安全\", \"隐患闭环 / 防护点检\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"Q\", \"品质\", \"一次通过 / 缺陷闭环\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"D\", \"交付\", \"计划达成 / 待交工单\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"C\", \"成本\", \"报废 / 返工工时\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"P\", \"人员\", \"技能覆盖 / 改善提案\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"跨部门行动清单\", \"问题 / 原因\", \"责任人\", \"承诺完成\", \"验证人\", \"结果 / 证据\", \"____________\", \"______\", \"________\", \"______\", \"____________\", \"____________\", \"______\", \"________\", \"______\", \"____________\", \"班前会确认优先事项；班后确认措施；只展示可行动指标，不复制生产看板全部数据\"], \"changes\": [\"保持SQDCP五项职责与行动清单\", \"增加口径/周期/单位，成本金额与工时分列\"], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; not approved by web preview\", \"area_ids\": \"8F-A and 8F-C are baseline mappings, not confirmed DWG placements\", \"installation_height_mm\": null, \"quantity_installed\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null}, \"qr_status\": \"not_applicable\"}, \"sidecar\": {\"code\": \"PM-02\", \"revision\": \"V2.1-DRAFT\", \"status\": \"proposal_pending_review\", \"physical_size_mm\": [2400, 1200], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-02_SQDCP班组看板.svg\", \"source_sha256\": \"d0fc56b86041b6faded1000427f452c4b45527dfbd2996627a6c0b5d65df6137\", \"original_text_preserved_in_metadata\": [\"班组日常管理\", \"SQDCP / DAILY MANAGEMENT\", \"8F\", \"S\", \"安全\", \"隐患闭环 / 防护点检\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"Q\", \"品质\", \"一次通过 / 缺陷闭环\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"D\", \"交付\", \"计划达成 / 待交工单\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"C\", \"成本\", \"报废 / 返工工时\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"P\", \"人员\", \"技能覆盖 / 改善提案\", \"目标：________\", \"当前：________\", \"趋势：________\", \"更新人：______\", \"跨部门行动清单\", \"问题 / 原因\", \"责任人\", \"承诺完成\", \"验证人\", \"结果 / 证据\", \"____________\", \"______\", \"________\", \"______\", \"____________\", \"____________\", \"______\", \"________\", \"______\", \"____________\", \"班前会确认优先事项；班后确认措施；只展示可行动指标，不复制生产看板全部数据\"], \"changes\": [\"保持SQDCP五项职责与行动清单\", \"增加口径/周期/单位，成本金额与工时分列\"], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; not approved by web preview\", \"area_ids\": \"8F-A and 8F-C are baseline mappings, not confirmed DWG placements\", \"installation_height_mm\": null, \"quantity_installed\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null}, \"qr_status\": \"not_applicable\", \"path\": \"design/v2/PM-02_SQDCP班组看板_V2.1-DRAFT.svg\", \"template_code\": \"PM-02\", \"source_v1_sha256\": \"d0fc56b86041b6faded1000427f452c4b45527dfbd2996627a6c0b5d65df6137\", \"physical_width_mm\": 2400, \"physical_height_mm\": 1200, \"authoring_notes\": [\"保持SQDCP五项职责与行动清单\", \"增加口径/周期/单位，成本金额与工时分列\"], \"content_review\": \"pending_owner_and_department_review\", \"render_evidence\": [\"reports/v2_render/PM-02.png\", \"reports/v2_render_qa.json\"]}}, \"source_text_snapshot\": [\"班组日常管理\", \"SQDCP / DAILY MANAGEMENT\", \"8F / 班组待填\", \"S\", \"安全\", \"隐患闭环 / 防护点检\", \"口径 / 周期\", \"待填\", \"目标 / 单位\", \"待填\", \"当前 / 趋势\", \"待填\", \"更新人 / 时间\", \"待填\", \"Q\", \"品质\", \"首次通过 / 缺陷闭环\", \"口径 / 周期\", \"待填\", \"目标 / 单位\", \"待填\", \"当前 / 趋势\", \"待填\", \"更新人 / 时间\", \"待填\", \"D\", \"交付\", \"锁定计划 / 待交工单\", \"口径 / 周期\", \"待填\", \"目标 / 单位\", \"待填\", \"当前 / 趋势\", \"待填\", \"更新人 / 时间\", \"待填\", \"C\", \"成本\", \"报废金额 / 返工工时\", \"口径 / 周期\", \"待填\", \"目标 / 单位\", \"待填\", \"当前 / 趋势\", \"待填\", \"更新人 / 时间\", \"待填\", \"P\", \"人员\", \"关键工位 / 授权覆盖\", \"口径 / 周期\", \"待填\", \"目标 / 单位\", \"待填\", \"当前 / 趋势\", \"待填\", \"更新人 / 时间\", \"待填\", \"跨部门行动清单\", \"风险、责任、期限、验证证据一起闭环\", \"问题 / 类别\", \"接手人\", \"临时措施\", \"到期 / 下一步\", \"验证证据 / 状态\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"阈值经批准后使用颜色提示；报废金额与返工工时分列；个人评价不朝向访客。\"], \"changes\": [\"分包楼层仅为设计适用范围，实际楼层、区域、安装点位与全部审批保持待核\", \"保留物理尺寸、业务字段和原稿元数据；不修改已交付原件\", \"班组看板使用8F设计范围，班组仍待填\"], \"text_replacements\": [{\"before\": \"8F / 班组待填\", \"after\": \"8F / 班组待填\"}], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; web preview is not approval\", \"actual_floor_id\": null, \"actual_area_id\": null, \"actual_point_id\": null, \"actual_column_id\": null, \"actual_location_id\": null, \"actual_line_id\": null, \"actual_team_id\": null, \"actual_process_id\": null, \"actual_direction\": null, \"actual_world_xy\": null, \"installation_height_mm\": null, \"actual_quantity\": null, \"quantity_installed\": null, \"area_ids\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null, \"professional\": null, \"production\": null}, \"production_release\": false, \"qr_status\": \"not_applicable\", \"render_evidence\": [\"reports/split_variant_render/8F_PM-02.png\", \"reports/split_variant_qa.json\"]}"]}</metadata><title id="title">PM-02 SQDCP班组看板 V2.4-8F-SPLIT-DRAFT</title>
+  <desc id="desc">8F设计范围分包草案；实际点位、尺寸适配、数量及制作安装审批待核。</desc>
+  <g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif" style="font-variant-numeric:tabular-nums">
+    <rect x="0" y="0" width="2400" height="185" fill="#000000" opacity="1" />
+    <rect x="0" y="0" width="14" height="185" fill="#FF6600" opacity="1" />
+    <text x="60" y="94" font-size="72" fill="#FFFFFF" font-weight="700" text-anchor="start">班组日常管理</text>
+    <text x="64" y="148" font-size="25" fill="#FFFFFF" font-weight="400" text-anchor="start">SQDCP / DAILY MANAGEMENT</text>
+    <text x="2340" y="100" font-size="31" fill="#FF6600" font-weight="600" text-anchor="end">8F / 班组待填</text>
+    <text x="60" y="315" font-size="105" fill="#000000" font-weight="700" text-anchor="start">S</text>
+    <text x="173" y="305" font-size="47" fill="#000000" font-weight="700" text-anchor="start">安全</text>
+    <line x1="60" y1="347" x2="468" y2="347" stroke="#FF6600" stroke-width="4" opacity="1" />
+    <text x="60" y="400" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">隐患闭环 / 防护点检</text>
+    <text x="60" y="465" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">口径 / 周期</text>
+    <text x="60" y="505" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="S_口径 / 周期">待填</text>
+    <line x1="60" y1="522" x2="468" y2="522" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="60" y="555" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">目标 / 单位</text>
+    <text x="60" y="595" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="S_目标 / 单位">待填</text>
+    <line x1="60" y1="612" x2="468" y2="612" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="60" y="645" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">当前 / 趋势</text>
+    <text x="60" y="685" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="S_当前 / 趋势">待填</text>
+    <line x1="60" y1="702" x2="468" y2="702" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="60" y="735" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">更新人 / 时间</text>
+    <text x="60" y="775" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="S_更新人 / 时间">待填</text>
+    <line x1="60" y1="792" x2="468" y2="792" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="526" y="315" font-size="105" fill="#000000" font-weight="700" text-anchor="start">Q</text>
+    <text x="639" y="305" font-size="47" fill="#000000" font-weight="700" text-anchor="start">品质</text>
+    <line x1="526" y1="347" x2="934" y2="347" stroke="#FF6600" stroke-width="4" opacity="1" />
+    <text x="526" y="400" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">首次通过 / 缺陷闭环</text>
+    <text x="526" y="465" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">口径 / 周期</text>
+    <text x="526" y="505" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="Q_口径 / 周期">待填</text>
+    <line x1="526" y1="522" x2="934" y2="522" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="526" y="555" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">目标 / 单位</text>
+    <text x="526" y="595" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="Q_目标 / 单位">待填</text>
+    <line x1="526" y1="612" x2="934" y2="612" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="526" y="645" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">当前 / 趋势</text>
+    <text x="526" y="685" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="Q_当前 / 趋势">待填</text>
+    <line x1="526" y1="702" x2="934" y2="702" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="526" y="735" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">更新人 / 时间</text>
+    <text x="526" y="775" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="Q_更新人 / 时间">待填</text>
+    <line x1="526" y1="792" x2="934" y2="792" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="992" y="315" font-size="105" fill="#000000" font-weight="700" text-anchor="start">D</text>
+    <text x="1105" y="305" font-size="47" fill="#000000" font-weight="700" text-anchor="start">交付</text>
+    <line x1="992" y1="347" x2="1400" y2="347" stroke="#FF6600" stroke-width="4" opacity="1" />
+    <text x="992" y="400" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">锁定计划 / 待交工单</text>
+    <text x="992" y="465" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">口径 / 周期</text>
+    <text x="992" y="505" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="D_口径 / 周期">待填</text>
+    <line x1="992" y1="522" x2="1400" y2="522" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="992" y="555" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">目标 / 单位</text>
+    <text x="992" y="595" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="D_目标 / 单位">待填</text>
+    <line x1="992" y1="612" x2="1400" y2="612" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="992" y="645" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">当前 / 趋势</text>
+    <text x="992" y="685" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="D_当前 / 趋势">待填</text>
+    <line x1="992" y1="702" x2="1400" y2="702" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="992" y="735" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">更新人 / 时间</text>
+    <text x="992" y="775" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="D_更新人 / 时间">待填</text>
+    <line x1="992" y1="792" x2="1400" y2="792" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1458" y="315" font-size="105" fill="#000000" font-weight="700" text-anchor="start">C</text>
+    <text x="1571" y="305" font-size="47" fill="#000000" font-weight="700" text-anchor="start">成本</text>
+    <line x1="1458" y1="347" x2="1866" y2="347" stroke="#FF6600" stroke-width="4" opacity="1" />
+    <text x="1458" y="400" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">报废金额 / 返工工时</text>
+    <text x="1458" y="465" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">口径 / 周期</text>
+    <text x="1458" y="505" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="C_口径 / 周期">待填</text>
+    <line x1="1458" y1="522" x2="1866" y2="522" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1458" y="555" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">目标 / 单位</text>
+    <text x="1458" y="595" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="C_目标 / 单位">待填</text>
+    <line x1="1458" y1="612" x2="1866" y2="612" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1458" y="645" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">当前 / 趋势</text>
+    <text x="1458" y="685" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="C_当前 / 趋势">待填</text>
+    <line x1="1458" y1="702" x2="1866" y2="702" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1458" y="735" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">更新人 / 时间</text>
+    <text x="1458" y="775" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="C_更新人 / 时间">待填</text>
+    <line x1="1458" y1="792" x2="1866" y2="792" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1924" y="315" font-size="105" fill="#000000" font-weight="700" text-anchor="start">P</text>
+    <text x="2037" y="305" font-size="47" fill="#000000" font-weight="700" text-anchor="start">人员</text>
+    <line x1="1924" y1="347" x2="2332" y2="347" stroke="#FF6600" stroke-width="4" opacity="1" />
+    <text x="1924" y="400" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">关键工位 / 授权覆盖</text>
+    <text x="1924" y="465" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">口径 / 周期</text>
+    <text x="1924" y="505" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="P_口径 / 周期">待填</text>
+    <line x1="1924" y1="522" x2="2332" y2="522" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1924" y="555" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">目标 / 单位</text>
+    <text x="1924" y="595" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="P_目标 / 单位">待填</text>
+    <line x1="1924" y1="612" x2="2332" y2="612" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1924" y="645" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">当前 / 趋势</text>
+    <text x="1924" y="685" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="P_当前 / 趋势">待填</text>
+    <line x1="1924" y1="702" x2="2332" y2="702" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1924" y="735" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="start">更新人 / 时间</text>
+    <text x="1924" y="775" font-size="30" fill="#000000" font-weight="500" text-anchor="start" data-field="P_更新人 / 时间">待填</text>
+    <line x1="1924" y1="792" x2="2332" y2="792" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="60" y="856" font-size="40" fill="#000000" font-weight="700" text-anchor="start">跨部门行动清单</text>
+    <text x="2340" y="850" font-size="24" fill="#3E3A39" font-weight="400" text-anchor="end">风险、责任、期限、验证证据一起闭环</text>
+    <rect x="60" y="884" width="2280" height="57" fill="#3E3A39" opacity="0.07" />
+    <text x="76" y="923" font-size="28" fill="#000000" font-weight="600" text-anchor="start">问题 / 类别</text>
+    <text x="620" y="923" font-size="28" fill="#000000" font-weight="600" text-anchor="start">接手人</text>
+    <text x="970" y="923" font-size="28" fill="#000000" font-weight="600" text-anchor="start">临时措施</text>
+    <text x="1310" y="923" font-size="28" fill="#000000" font-weight="600" text-anchor="start">到期 / 下一步</text>
+    <text x="1740" y="923" font-size="28" fill="#000000" font-weight="600" text-anchor="start">验证证据 / 状态</text>
+    <text x="76" y="996" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="620" y="996" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="970" y="996" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1310" y="996" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1740" y="996" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="60" y1="1023" x2="2340" y2="1023" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="76" y="1081" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="620" y="1081" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="970" y="1081" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1310" y="1081" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1740" y="1081" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="60" y1="1108" x2="2340" y2="1108" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="60" y="1176" font-size="22" fill="#3E3A39" font-weight="400" text-anchor="start">阈值经批准后使用颜色提示；报废金额与返工工时分列；个人评价不朝向访客。</text>
+  </g>
+</svg>

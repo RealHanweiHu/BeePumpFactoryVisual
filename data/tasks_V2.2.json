@@ -1,0 +1,92 @@
+[
+  {
+    "id": "P00",
+    "title": "封存原图与V1基线",
+    "status": "complete",
+    "depends_on": [],
+    "acceptance": "源文件SHA-256、36款模板索引、工作目录和不覆盖原件规则。"
+  },
+  {
+    "id": "P01",
+    "title": "本地解码DWG并登记图纸",
+    "status": "partial",
+    "depends_on": [
+      "P00"
+    ],
+    "acceptance": "AutoCAD 2026原生DXF导出成功，82,383实体/188图层/667块/3布局已盘点；缺字与原生plot崩溃未解决。"
+  },
+  {
+    "id": "P02",
+    "title": "核对各层身份、坐标与比例",
+    "status": "blocked",
+    "depends_on": [
+      "P01"
+    ],
+    "acceptance": "已取得8F两向8700/6000标注一致性证据；单位字段和8F/3F图签冲突待业主/工程确认。"
+  },
+  {
+    "id": "P03",
+    "title": "审查36款V1模板",
+    "status": "complete",
+    "depends_on": [
+      "P00"
+    ],
+    "acceptance": "先渲染后审查：每款记录Preserve/Refine/Retire、理由、保留字段和验收方法；不把技术索引当完整审美审查。"
+  },
+  {
+    "id": "P04",
+    "title": "制作8F首批六款V2模板",
+    "status": "complete",
+    "depends_on": [
+      "P03"
+    ],
+    "acceptance": "WF-02、WF-04、WH-01、PM-01、PM-02、FL-01；给出前后对照和变更记录；不修改原SVG。"
+  },
+  {
+    "id": "P05",
+    "title": "8F图纸点位提案",
+    "status": "blocked",
+    "depends_on": [
+      "P02",
+      "P04"
+    ],
+    "acceptance": "已编20条待定位需求；追加七组相对安装选址、八处原TEXT核查引线与三张概念效果图。图签/单位/现场固定面未确认，真实点位数组仍空。"
+  },
+  {
+    "id": "P06",
+    "title": "8F现场与部门联合复核",
+    "status": "human_review",
+    "depends_on": [
+      "P05"
+    ],
+    "acceptance": "生产确认位置和作业；品质确认状态与放行；工程确认安装；安全负责人审查专项；销售确认访客展示。"
+  },
+  {
+    "id": "P07",
+    "title": "展开其余楼层",
+    "status": "pending",
+    "depends_on": [
+      "P06"
+    ],
+    "acceptance": "逐层输出点位图和清单；6F/7F功能不明确时保持未确认；图纸与原方案冲突进入决策清单。"
+  },
+  {
+    "id": "P08",
+    "title": "工程量与供应商询价包",
+    "status": "partial",
+    "depends_on": [
+      "P05"
+    ],
+    "acceptance": "已提供材料候选、空值预算/数量输入、首批评审PDF与可编辑SVG；全厂BOQ与制作放行未完成。"
+  },
+  {
+    "id": "P09",
+    "title": "V2手册与可编辑交付",
+    "status": "partial",
+    "depends_on": [
+      "P07",
+      "P08"
+    ],
+    "acceptance": "已有V2.1六款模板评审与V2.2八页安装选址/效果图图册、CSV/JSON/SVG和离线预览；全厂工程量与制作放行未完成。"
+  }
+]

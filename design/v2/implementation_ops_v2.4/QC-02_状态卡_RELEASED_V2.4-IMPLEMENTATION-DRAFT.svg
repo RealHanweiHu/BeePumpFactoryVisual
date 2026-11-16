@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="70mm" viewBox="0 0 100 70" role="img" aria-labelledby="title desc">
+<title id="title">QC-02 状态卡_RELEASED V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;QC-02&quot;, &quot;name&quot;: &quot;状态卡_RELEASED&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-02_状态卡_RELEASED.svg&quot;, &quot;source_sha256&quot;: &quot;e93faab1e2540a15123fc9ed6cb49535ef3c18a09415fd192f196f4df2260110&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;合格 / 已放行&quot;, &quot;RELEASED&quot;, &quot;容器 / 批次&quot;, &quot;________________&quot;, &quot;数量 / 工序&quot;, &quot;________________&quot;, &quot;责任人 / 时间&quot;, &quot;________________&quot;, &quot;可否流转：____  /  放行记录：____&quot;], &quot;physical_size_mm&quot;: [100, 70], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;保持原蓝/绿/红/黄质量语义及中文/英文识别&quot;, &quot;用明确动作和放行适用范围替代可否流转自由填空&quot;, &quot;卡物一致；批次、数量、授权及记录留真实待填，不合成批准&quot;, &quot;状态不等于车辆或人员通行优先&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/QC-02.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/QC-02.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="100" height="70" fill="#FFFFFF"/>
+<rect x="0" y="0" width="100" height="19" fill="#00864A"/>
+<text x="5" y="9" font-size="5.3" fill="#FFFFFF" font-weight="700" text-anchor="start">已放行</text>
+<text x="5" y="15" font-size="2.6" fill="#FFFFFF" font-weight="700" text-anchor="start">RELEASED</text>
+<text x="95" y="15" font-size="2.5" fill="#FFFFFF" font-weight="700" text-anchor="end">QC-02</text>
+<text x="5" y="24" font-size="2.45" fill="#3E3A39" font-weight="400" text-anchor="start">容器ID / 批次</text>
+<text x="54" y="24" font-size="2.45" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="5" y1="25.254" x2="95" y2="25.254" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="5" y="29.7" font-size="2.45" fill="#3E3A39" font-weight="400" text-anchor="start">数量 / 单位</text>
+<text x="54" y="29.7" font-size="2.45" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="5" y1="30.954" x2="95" y2="30.954" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="5" y="35.4" font-size="2.45" fill="#3E3A39" font-weight="400" text-anchor="start">物料版本 / 工序</text>
+<text x="54" y="35.4" font-size="2.45" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="5" y1="36.654" x2="95" y2="36.654" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="5" y="41.1" font-size="2.45" fill="#3E3A39" font-weight="400" text-anchor="start">授权人 / 时间</text>
+<text x="54" y="41.1" font-size="2.45" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="5" y1="42.354" x2="95" y2="42.354" stroke="#C9C9C9" stroke-width="0.25"/>
+<rect x="5" y="46" width="90" height="12" fill="#F2F2F2"/>
+<text x="6.8" y="49.76" font-size="2.35" fill="#000000" font-weight="700" text-anchor="start">仅在放行记录范围内流转。</text>
+<text x="6.8" y="53.402" font-size="2.35" fill="#000000" font-weight="400" text-anchor="start">状态变化须重新确认。</text>
+<text x="5" y="62" font-size="2.4" fill="#000000" font-weight="400" text-anchor="start">依据 / 记录ID：待填</text>
+<text x="5" y="67" font-size="1.8" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 质量状态不赋予通行优先</text>
+</g>
+</svg>

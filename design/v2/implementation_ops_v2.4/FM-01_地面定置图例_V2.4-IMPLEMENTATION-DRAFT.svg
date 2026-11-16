@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200mm" height="780mm" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+<title id="title">FM-01 地面定置图例 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;FM-01&quot;, &quot;name&quot;: &quot;地面定置图例&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/FM-01_地面定置图例.svg&quot;, &quot;source_sha256&quot;: &quot;a2447c9e81077acf9b084583a6b5af8d45a65d1eb22fe2535eab042b90dba8c7&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;地面定置：企业管理提案&quot;, &quot;FLOOR MANAGEMENT / NOT A SAFETY STANDARD&quot;, &quot;FM-01&quot;, &quot;通道边界&quot;, &quot;移动物定位&quot;, &quot;固定设备定位&quot;, &quot;待检区&quot;, &quot;合格放行区&quot;, &quot;不合格隔离区&quot;, &quot;线宽由批准图确定；通道净宽、疏散和防护设施另经专业复核；本项目品牌橙不上地面&quot;], &quot;physical_size_mm&quot;: [1200, 780], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;保留通行、定位及质量语义评审，取消可被误当施工图的色线示例&quot;, &quot;增加黄色冻结词义，不让质量色指定行车优先&quot;, &quot;无橙色地面线、无新安全图形，无假路宽/线宽/放样坐标&quot;, &quot;施工颜色、材料及真实边界待现场专项批准图确定&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/FM-01.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/FM-01.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="1200" height="780" fill="#FFFFFF"/>
+<rect x="0" y="0" width="1200" height="117" fill="#000000"/>
+<rect x="0" y="0" width="13.2" height="117" fill="#FF6600"/>
+<text x="54" y="54.99" font-size="31.59" fill="#FFFFFF" font-weight="700" text-anchor="start">地面定置规则评审</text>
+<text x="54" y="93.6" font-size="14.04" fill="#FFFFFF" font-weight="500" text-anchor="start">FLOOR MARKING RULE REVIEW</text>
+<text x="1146" y="54.99" font-size="18.72" fill="#FF6600" font-weight="700" text-anchor="end">FM-01</text>
+<text x="54" y="165" font-size="28" fill="#000000" font-weight="700" text-anchor="start">本页是规则评审牌面，不是地面放样施工图</text>
+<text x="54" y="243" font-size="26" fill="#000000" font-weight="700" text-anchor="start">通行与交叉</text>
+<text x="54" y="280" font-size="23" fill="#000000" font-weight="400" text-anchor="start">人车路径、入口、转弯、候行条件待现场专项确认</text>
+<line x1="54" y1="294" x2="1146" y2="294" stroke="#C9C9C9" stroke-width="1"/>
+<text x="54" y="327" font-size="26" fill="#000000" font-weight="700" text-anchor="start">物料定位</text>
+<text x="54" y="364" font-size="23" fill="#000000" font-weight="400" text-anchor="start">真实容器外廓、取放、满位停止与接收接口待核</text>
+<line x1="54" y1="378" x2="1146" y2="378" stroke="#C9C9C9" stroke-width="1"/>
+<text x="54" y="411" font-size="26" fill="#000000" font-weight="700" text-anchor="start">固定设备边界</text>
+<text x="54" y="448" font-size="23" fill="#000000" font-weight="400" text-anchor="start">检修、开门、散热、吊装与操作范围待工程确认</text>
+<line x1="54" y1="462" x2="1146" y2="462" stroke="#C9C9C9" stroke-width="1"/>
+<text x="54" y="495" font-size="26" fill="#000000" font-weight="700" text-anchor="start">质量状态</text>
+<text x="54" y="532" font-size="23" fill="#000000" font-weight="400" text-anchor="start">蓝待检 / 绿放行 / 红不合格 / 黄冻结；词义须保留</text>
+<line x1="54" y1="546" x2="1146" y2="546" stroke="#C9C9C9" stroke-width="1"/>
+<text x="54" y="579" font-size="26" fill="#000000" font-weight="700" text-anchor="start">批准地面施工</text>
+<text x="54" y="616" font-size="23" fill="#000000" font-weight="400" text-anchor="start">颜色 / 线型 / 线宽 / 坐标 / 材料按批准专项图执行</text>
+<line x1="54" y1="630" x2="1146" y2="630" stroke="#C9C9C9" stroke-width="1"/>
+<rect x="54" y="667" width="1092" height="63" fill="#F2F2F2"/>
+<text x="75.6" y="702.2" font-size="22" fill="#000000" font-weight="700" text-anchor="start">品牌橙仅用于本牌面，绝不用于地面线。</text>
+<text x="75.6" y="736.3" font-size="22" fill="#000000" font-weight="400" text-anchor="start">质量颜色不赋予通行优先；安全图形使用专项批准资源。</text>
+<text x="54" y="771.6" font-size="16.8" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 现有结构和安全出口不改；实测、专项审查后另发地面图</text>
+</g>
+</svg>

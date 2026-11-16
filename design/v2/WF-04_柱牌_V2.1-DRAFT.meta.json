@@ -1,0 +1,52 @@
+{
+  "code": "WF-04",
+  "revision": "V2.1-DRAFT",
+  "status": "proposal_pending_review",
+  "physical_size_mm": [
+    360,
+    1100
+  ],
+  "viewbox_units": "1 SVG user unit = 1 mm",
+  "source_path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-04_柱牌.svg",
+  "source_sha256": "3861ce85257f48565ff91ae24893931a63472f6d6c25d52c7e2713cd90a7d8c7",
+  "original_text_preserved_in_metadata": [
+    "8F",
+    "A区",
+    "成品组装",
+    "FINAL ASSEMBLY",
+    "8F-A",
+    "BeePump",
+    "柱号另列：P-__"
+  ],
+  "changes": [
+    "移除未经位置核查的箭头",
+    "区域与永久柱号分列，远读8F、近读柱号"
+  ],
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "nominal_font_sizes_are_em_mm": true,
+  "printed_ink_height_and_reading_distance": "Verify at 1:1 under real lighting; not approved by web preview",
+  "area_ids": "8F-A and 8F-C are baseline mappings, not confirmed DWG placements",
+  "installation_height_mm": null,
+  "quantity_installed": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "qr_status": "not_applicable",
+  "path": "design/v2/WF-04_柱牌_V2.1-DRAFT.svg",
+  "template_code": "WF-04",
+  "source_v1_sha256": "3861ce85257f48565ff91ae24893931a63472f6d6c25d52c7e2713cd90a7d8c7",
+  "physical_width_mm": 360,
+  "physical_height_mm": 1100,
+  "authoring_notes": [
+    "移除未经位置核查的箭头",
+    "区域与永久柱号分列，远读8F、近读柱号"
+  ],
+  "content_review": "pending_owner_and_department_review",
+  "render_evidence": [
+    "reports/v2_render/WF-04.png",
+    "reports/v2_render_qa.json"
+  ]
+}

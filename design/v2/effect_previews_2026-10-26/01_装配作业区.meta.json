@@ -1,0 +1,55 @@
+{
+  "id": "E01",
+  "title": "装配作业区",
+  "revision": "8F-EFFECT-PREVIEW-2026-10-26-DRAFT",
+  "status": "draft_concept_preview",
+  "created_on": "2026-10-26",
+  "production_release": false,
+  "record_type": "ai_generated_local_scene_not_site_photo_or_cad_reconstruction",
+  "path": "design/v2/effect_previews_2026-10-26/01_装配作业区_概念效果_DRAFT.png",
+  "width_px": 1672,
+  "height_px": 941,
+  "sha256": "f97caef9fe4df10f0ceb6099b88f4d1ea5459d5b8444eb79ca4ae471bb40b634",
+  "caption": "预览区域吊牌、柱面识别、工位文件框及线边地址标签的阅读层级。",
+  "review_focus": [
+    "黑底橙色小面积识别，作业文件使用白底。",
+    "工位、产品外形、柱体及数量均为生成示意；不作为实际资产或安装点。",
+    "样式沿既有基线示意，未代选V2.8的A/B/C。"
+  ],
+  "generation_mode": "built_in_image_gen",
+  "generated_original_path": "/Users/huhanwei/.codex/generated_images/01a17772-1bd3-7e03-99fc-eb116b0004a8/exec-ab3c3d94-16b8-4f26-aa0e-c64153382e33.png",
+  "prompt_file": "design/v2/effect_previews_2026-10-26/prompts.json",
+  "prompt_key": "01_装配作业区",
+  "prompt_sha256": "b61b4f2d4cfb239bfa6fda63ddbb1cdf1cb7a7504c38ebf19037255c4105e837",
+  "source_images_uploaded": false,
+  "source_records": [
+    {
+      "path": "data/tokens.json",
+      "sha256": "d2b08827fac029f649996e6410bdfd90a18669645425e47db8ae6053fbe40db6"
+    },
+    {
+      "path": "data/8F_logistics_user_requirements_v2.9.1.json",
+      "sha256": "23124b2f64b770990c13ea1d07b6db44c31be1589defb13dfd605ff3452bc40e"
+    },
+    {
+      "path": "交付_8楼/地面物流规划_V3.1/地面配色与来源.json",
+      "sha256": "99915d8e64a55f2c9690532f14d2107aaebc5ba2ecddab6af5ea8adf8a662a5a"
+    },
+    {
+      "path": "交付_8楼/客梯入口修订_V2.7/修订记录与来源_V2.7.json",
+      "sha256": "5e8353ef314bdcb84b939d55026f69f727cabbe2ceb2dcf3f6721da1b528ff3f"
+    }
+  ],
+  "physical_dimensions_mm": null,
+  "actual_quantity": null,
+  "actual_point_ids": [],
+  "human_preference_selection": null,
+  "visual_review": {
+    "status": "reviewed_in_generated_output",
+    "main_text": "viewed_and_readable",
+    "orange_floor_marking": false,
+    "fabricated_operational_numbers": false,
+    "concept_footer_visible": true
+  },
+  "geometry_scope": "Generic local scene. All architecture, props, equipment counts and materials are illustrative; actual source geometry unchanged."
+}

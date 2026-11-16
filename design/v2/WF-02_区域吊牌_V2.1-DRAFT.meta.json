@@ -1,0 +1,50 @@
+{
+  "code": "WF-02",
+  "revision": "V2.1-DRAFT",
+  "status": "proposal_pending_review",
+  "physical_size_mm": [
+    1200,
+    400
+  ],
+  "viewbox_units": "1 SVG user unit = 1 mm",
+  "source_path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-02_区域吊牌.svg",
+  "source_sha256": "40d727ece2813f3e06a15281b0f2f3b0c9bb37739c62b7558c7669a92a8e82f8",
+  "original_text_preserved_in_metadata": [
+    "8F",
+    "A",
+    "成品组装区",
+    "FINAL ASSEMBLY",
+    "8F-A"
+  ],
+  "changes": [
+    "楼层与区域独立，主功能字增大，英文退为辅助",
+    "保留尖角蜂巢A；取消装饰性背景；Logo保持待确认"
+  ],
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "nominal_font_sizes_are_em_mm": true,
+  "printed_ink_height_and_reading_distance": "Verify at 1:1 under real lighting; not approved by web preview",
+  "area_ids": "8F-A and 8F-C are baseline mappings, not confirmed DWG placements",
+  "installation_height_mm": null,
+  "quantity_installed": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "qr_status": "not_applicable",
+  "path": "design/v2/WF-02_区域吊牌_V2.1-DRAFT.svg",
+  "template_code": "WF-02",
+  "source_v1_sha256": "40d727ece2813f3e06a15281b0f2f3b0c9bb37739c62b7558c7669a92a8e82f8",
+  "physical_width_mm": 1200,
+  "physical_height_mm": 400,
+  "authoring_notes": [
+    "楼层与区域独立，主功能字增大，英文退为辅助",
+    "保留尖角蜂巢A；取消装饰性背景；Logo保持待确认"
+  ],
+  "content_review": "pending_owner_and_department_review",
+  "render_evidence": [
+    "reports/v2_render/WF-02.png",
+    "reports/v2_render_qa.json"
+  ]
+}

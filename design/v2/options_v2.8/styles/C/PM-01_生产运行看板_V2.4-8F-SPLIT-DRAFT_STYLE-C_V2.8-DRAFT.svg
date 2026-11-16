@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400mm" height="1200mm" viewBox="0 0 2400 1200" role="img" aria-labelledby="title desc">
+  <metadata id="beepump-v28-style-draft">{"schema_version": "1.0", "revision": "V2.8-CHOICE-DRAFT", "style_id": "C", "style_label": "固定标签分区", "code": "PM-01", "template_code": "PM-01", "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT.svg", "source_sha256": "14d9c7e931b35e349d4b9f437bb88e1b938787328f8f09ea138ff0997d63af20", "nominal_size_mm": [2400, 1200], "status": "style_option_pending_review", "production_release": false, "actual_point_id": null, "actual_dimensions_mm": null, "installation_height_mm": null, "world_coordinates": null, "quantity": null, "text_preserved": true, "text_geometry_preserved": true, "quality_header_preserved": true, "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.", "source_metadata": ["{\"code\": \"PM-01\", \"template_code\": \"PM-01\", \"name\": \"生产运行看板\", \"revision\": \"V2.4-8F-SPLIT-DRAFT\", \"status\": \"proposal_pending_review\", \"floor_scope\": \"8F\", \"floor_scope_semantics\": \"design applicability baseline; not actual_floor_id or verified CAD floor\", \"physical_size_mm\": [2400, 1200], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"design/v2/PM-01_生产运行看板_V2.1-DRAFT.svg\", \"source_sha256\": \"8c5982d51d074141cf55cdb88212c96bf2d683f64e6ca218571a5e7ee503b0c0\", \"source_sidecar_path\": \"design/v2/PM-01_生产运行看板_V2.1-DRAFT.meta.json\", \"source_sidecar_sha256\": \"69e153c762b1c4a85ef73d476bcab31ef398f7a0c9c9487bd358f5aca6887982\", \"source_snapshot\": {\"embedded_metadata\": {\"code\": \"PM-01\", \"revision\": \"V2.1-DRAFT\", \"status\": \"proposal_pending_review\", \"physical_size_mm\": [2400, 1200], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-01_生产运行看板.svg\", \"source_sha256\": \"6e22a064001d37d40372b8aec7a4457f487c1cedfb52611a44db7e8a60965d0f\", \"original_text_preserved_in_metadata\": [\"生产运行看板\", \"PRODUCTION CONTROL\", \"8F-A / L01\", \"计划合格产出\", \"1,200\", \"台 / 示例\", \"实际合格产出\", \"1,080\", \"台 / 示例\", \"累计差异\", \"-120\", \"台 / 示例\", \"当前工单 / 版本\", \"DEMO-001  /  Rev.__\", \"更新：2026-09-28 __:__  /  示例\", \"时段\", \"计划\", \"实际\", \"差异 / 原因\", \"08-09\", \"___\", \"___\", \"________\", \"09-10\", \"___\", \"___\", \"________\", \"10-11\", \"___\", \"___\", \"________\", \"11-12\", \"___\", \"___\", \"________\", \"异常队列 / OPEN ISSUES\", \"问题 / 首次时间\", \"接手人\", \"下一步\", \"预计完成\", \"________\", \"___\", \"_______\", \"__:__\", \"________\", \"___\", \"_______\", \"__:__\", \"________\", \"___\", \"_______\", \"__:__\", \"首件 / 换型\", \"待放行 / 已放行\", \"一次通过率\", \"分子 ___ / 分母 ___\", \"WIP / 上限\", \"当前 ___ / 上限 ___\", \"安全 / 6S\", \"未闭环问题 ___\", \"版面样例 / 所有产量及差异均为示例数据，非BeePump实际绩效；无数据时显示“待接入”而非0\"], \"changes\": [\"删除示例1200/1080/-120和固定日期\", \"三项核心产出独立；时段差异与异常队列分开\"], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; not approved by web preview\", \"area_ids\": \"8F-A and 8F-C are baseline mappings, not confirmed DWG placements\", \"installation_height_mm\": null, \"quantity_installed\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null}, \"qr_status\": \"not_applicable\"}, \"sidecar\": {\"code\": \"PM-01\", \"revision\": \"V2.1-DRAFT\", \"status\": \"proposal_pending_review\", \"physical_size_mm\": [2400, 1200], \"viewbox_units\": \"1 SVG user unit = 1 mm\", \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/PM-01_生产运行看板.svg\", \"source_sha256\": \"6e22a064001d37d40372b8aec7a4457f487c1cedfb52611a44db7e8a60965d0f\", \"original_text_preserved_in_metadata\": [\"生产运行看板\", \"PRODUCTION CONTROL\", \"8F-A / L01\", \"计划合格产出\", \"1,200\", \"台 / 示例\", \"实际合格产出\", \"1,080\", \"台 / 示例\", \"累计差异\", \"-120\", \"台 / 示例\", \"当前工单 / 版本\", \"DEMO-001  /  Rev.__\", \"更新：2026-09-28 __:__  /  示例\", \"时段\", \"计划\", \"实际\", \"差异 / 原因\", \"08-09\", \"___\", \"___\", \"________\", \"09-10\", \"___\", \"___\", \"________\", \"10-11\", \"___\", \"___\", \"________\", \"11-12\", \"___\", \"___\", \"________\", \"异常队列 / OPEN ISSUES\", \"问题 / 首次时间\", \"接手人\", \"下一步\", \"预计完成\", \"________\", \"___\", \"_______\", \"__:__\", \"________\", \"___\", \"_______\", \"__:__\", \"________\", \"___\", \"_______\", \"__:__\", \"首件 / 换型\", \"待放行 / 已放行\", \"一次通过率\", \"分子 ___ / 分母 ___\", \"WIP / 上限\", \"当前 ___ / 上限 ___\", \"安全 / 6S\", \"未闭环问题 ___\", \"版面样例 / 所有产量及差异均为示例数据，非BeePump实际绩效；无数据时显示“待接入”而非0\"], \"changes\": [\"删除示例1200/1080/-120和固定日期\", \"三项核心产出独立；时段差异与异常队列分开\"], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; not approved by web preview\", \"area_ids\": \"8F-A and 8F-C are baseline mappings, not confirmed DWG placements\", \"installation_height_mm\": null, \"quantity_installed\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null}, \"qr_status\": \"not_applicable\", \"path\": \"design/v2/PM-01_生产运行看板_V2.1-DRAFT.svg\", \"template_code\": \"PM-01\", \"source_v1_sha256\": \"6e22a064001d37d40372b8aec7a4457f487c1cedfb52611a44db7e8a60965d0f\", \"physical_width_mm\": 2400, \"physical_height_mm\": 1200, \"authoring_notes\": [\"删除示例1200/1080/-120和固定日期\", \"三项核心产出独立；时段差异与异常队列分开\"], \"content_review\": \"pending_owner_and_department_review\", \"render_evidence\": [\"reports/v2_render/PM-01.png\", \"reports/v2_render_qa.json\"]}}, \"source_text_snapshot\": [\"生产运行看板\", \"PRODUCTION CONTROL\", \"8F-A / 线号待填\", \"计划合格产出\", \"待填\", \"锁定计划 / 版次待填\", \"实际合格产出\", \"待填\", \"同工序、同时段、同计量单位\", \"累计差异\", \"待填\", \"实际 - 计划\", \"当前工单 / 产品版本\", \"待填 / Rev.待填\", \"班次 / 更新人 / 更新时间\", \"待填 / 待填 / 待填\", \"时段进度\", \"异常接单与下一步\", \"时段\", \"计划\", \"实际\", \"差异\", \"原因\", \"__:__\", \"待填\", \"待填\", \"待填\", \"待填\", \"__:__\", \"待填\", \"待填\", \"待填\", \"待填\", \"__:__\", \"待填\", \"待填\", \"待填\", \"待填\", \"__:__\", \"待填\", \"待填\", \"待填\", \"待填\", \"事件 / 首次时间\", \"接手人\", \"下一步\", \"预计完成\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"待填\", \"首件 / 换型\", \"批准记录：待填\", \"一次通过率\", \"首次通过 / 首检总数：待填\", \"WIP / 批准上限\", \"当前 / 上限 / 单位：待填\", \"安全 / 6S\", \"未闭环问题：待填\", \"无数据保持待填；差异 = 实际 - 计划；更新延迟须显示原因，不显示假正常。\"], \"changes\": [\"分包楼层仅为设计适用范围，实际楼层、区域、安装点位与全部审批保持待核\", \"保留物理尺寸、业务字段和原稿元数据；不修改已交付原件\", \"运行看板删除区域A，线号仍为空白待填\"], \"text_replacements\": [{\"before\": \"8F-A / 线号待填\", \"after\": \"8F / 线号待填\"}], \"font_stack\": \"Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif\", \"font_files_distributed\": false, \"nominal_font_sizes_are_em_mm\": true, \"printed_ink_height_and_reading_distance\": \"Verify at 1:1 under real lighting; web preview is not approval\", \"actual_floor_id\": null, \"actual_area_id\": null, \"actual_point_id\": null, \"actual_column_id\": null, \"actual_location_id\": null, \"actual_line_id\": null, \"actual_team_id\": null, \"actual_process_id\": null, \"actual_direction\": null, \"actual_world_xy\": null, \"installation_height_mm\": null, \"actual_quantity\": null, \"quantity_installed\": null, \"area_ids\": null, \"approvals\": {\"content\": null, \"location\": null, \"installation\": null, \"professional\": null, \"production\": null}, \"production_release\": false, \"qr_status\": \"not_applicable\", \"render_evidence\": [\"reports/split_variant_render/8F_PM-01.png\", \"reports/split_variant_qa.json\"]}"]}</metadata><title id="title">PM-01 生产运行看板 V2.4-8F-SPLIT-DRAFT</title>
+  <desc id="desc">8F设计范围分包草案；实际点位、尺寸适配、数量及制作安装审批待核。</desc>
+  <g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif" style="font-variant-numeric:tabular-nums">
+    <rect x="0" y="0" width="2400" height="185" fill="#000000" opacity="1" />
+    <rect x="0" y="0" width="14" height="185" fill="#FF6600" opacity="1" />
+    <text x="60" y="94" font-size="72" fill="#FFFFFF" font-weight="700" text-anchor="start">生产运行看板</text>
+    <text x="64" y="148" font-size="25" fill="#FFFFFF" font-weight="400" text-anchor="start">PRODUCTION CONTROL</text>
+    <text x="2340" y="100" font-size="31" fill="#FF6600" font-weight="600" text-anchor="end">8F / 线号待填</text>
+    <rect x="60" y="225" width="520" height="278" fill="#3E3A39" opacity="0.055" />
+    <rect x="60" y="225" width="520" height="73" fill="#000000" data-option-panel="true" /><text x="88" y="274" font-size="36" fill="#FFFFFF" font-weight="600" text-anchor="start">计划合格产出</text>
+    <rect x="60" y="310" width="520" height="130" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="1.56" /><text x="88" y="407" font-size="104" fill="#000000" font-weight="600" text-anchor="start" data-field="planned">待填</text>
+    <text x="88" y="472" font-size="25" fill="#3E3A39" font-weight="400" text-anchor="start">锁定计划 / 版次待填</text>
+    <rect x="615" y="225" width="520" height="278" fill="#3E3A39" opacity="0.055" />
+    <rect x="615" y="225" width="520" height="73" fill="#000000" data-option-panel="true" /><text x="643" y="274" font-size="36" fill="#FFFFFF" font-weight="600" text-anchor="start">实际合格产出</text>
+    <rect x="615" y="310" width="520" height="130" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="1.56" /><text x="643" y="407" font-size="104" fill="#000000" font-weight="600" text-anchor="start" data-field="actual">待填</text>
+    <text x="643" y="472" font-size="25" fill="#3E3A39" font-weight="400" text-anchor="start">同工序、同时段、同计量单位</text>
+    <rect x="1170" y="225" width="520" height="278" fill="#3E3A39" opacity="0.055" />
+    <rect x="1170" y="225" width="520" height="73" fill="#000000" data-option-panel="true" /><text x="1198" y="274" font-size="36" fill="#FFFFFF" font-weight="600" text-anchor="start">累计差异</text>
+    <rect x="1170" y="310" width="520" height="130" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="1.56" /><text x="1198" y="407" font-size="104" fill="#000000" font-weight="600" text-anchor="start" data-field="variance">待填</text>
+    <text x="1198" y="472" font-size="25" fill="#3E3A39" font-weight="400" text-anchor="start">实际 - 计划</text>
+    <text x="1780" y="273" font-size="32" fill="#000000" font-weight="600" text-anchor="start">当前工单 / 产品版本</text>
+    <text x="1780" y="325" font-size="34" fill="#3E3A39" font-weight="400" text-anchor="start" data-field="work_order">待填 / Rev.待填</text>
+    <line x1="1780" y1="347" x2="2340" y2="347" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1780" y="393" font-size="28" fill="#000000" font-weight="400" text-anchor="start">班次 / 更新人 / 更新时间</text>
+    <text x="1780" y="445" font-size="30" fill="#3E3A39" font-weight="400" text-anchor="start" data-field="update_time">待填 / 待填 / 待填</text>
+    <text x="60" y="575" font-size="42" fill="#000000" font-weight="700" text-anchor="start">时段进度</text>
+    <text x="1270" y="575" font-size="42" fill="#000000" font-weight="700" text-anchor="start">异常接单与下一步</text>
+    <rect x="60" y="610" width="1120" height="62" fill="#3E3A39" opacity="0.07" />
+    <rect x="60" y="610" width="1120" height="62" fill="#000000" data-option-panel="true" /><text x="74" y="652" font-size="28" fill="#FFFFFF" font-weight="600" text-anchor="start">时段</text>
+    <text x="334" y="652" font-size="28" fill="#FFFFFF" font-weight="600" text-anchor="start">计划</text>
+    <text x="534" y="652" font-size="28" fill="#FFFFFF" font-weight="600" text-anchor="start">实际</text>
+    <text x="734" y="652" font-size="28" fill="#FFFFFF" font-weight="600" text-anchor="start">差异</text>
+    <text x="914" y="652" font-size="28" fill="#FFFFFF" font-weight="600" text-anchor="start">原因</text>
+    <text x="74" y="710" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">__:__</text>
+    <text x="334" y="710" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="534" y="710" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="734" y="710" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="914" y="710" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="60" y1="732" x2="1180" y2="732" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="74" y="787" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">__:__</text>
+    <text x="334" y="787" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="534" y="787" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="734" y="787" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="914" y="787" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="60" y1="809" x2="1180" y2="809" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="74" y="864" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">__:__</text>
+    <text x="334" y="864" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="534" y="864" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="734" y="864" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="914" y="864" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="60" y1="886" x2="1180" y2="886" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="74" y="941" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">__:__</text>
+    <text x="334" y="941" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="534" y="941" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="734" y="941" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="914" y="941" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="60" y1="963" x2="1180" y2="963" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <rect x="1270" y="610" width="1070" height="62" fill="#3E3A39" opacity="0.07" />
+    <rect x="1270" y="610" width="1070" height="62" fill="#000000" data-option-panel="true" /><text x="1285" y="652" font-size="27" fill="#FFFFFF" font-weight="600" text-anchor="start">事件 / 首次时间</text>
+    <text x="1570" y="652" font-size="27" fill="#FFFFFF" font-weight="600" text-anchor="start">接手人</text>
+    <text x="1770" y="652" font-size="27" fill="#FFFFFF" font-weight="600" text-anchor="start">下一步</text>
+    <text x="2070" y="652" font-size="27" fill="#FFFFFF" font-weight="600" text-anchor="start">预计完成</text>
+    <text x="1285" y="716" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1570" y="716" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1770" y="716" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="2070" y="716" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="1270" y1="740" x2="2340" y2="740" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1285" y="798" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1570" y="798" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1770" y="798" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="2070" y="798" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="1270" y1="822" x2="2340" y2="822" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <text x="1285" y="880" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1570" y="880" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="1770" y="880" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <text x="2070" y="880" font-size="27" fill="#3E3A39" font-weight="400" text-anchor="start">待填</text>
+    <line x1="1270" y1="904" x2="2340" y2="904" stroke="#3E3A39" stroke-width="1" opacity="0.3" />
+    <line x1="60" y1="1030" x2="2340" y2="1030" stroke="#FF6600" stroke-width="4" opacity="1" />
+    <text x="60" y="1087" font-size="29" fill="#000000" font-weight="600" text-anchor="start">首件 / 换型</text>
+    <text x="60" y="1130" font-size="25" fill="#3E3A39" font-weight="400" text-anchor="start">批准记录：待填</text>
+    <text x="635" y="1087" font-size="29" fill="#000000" font-weight="600" text-anchor="start">一次通过率</text>
+    <text x="635" y="1130" font-size="25" fill="#3E3A39" font-weight="400" text-anchor="start">首次通过 / 首检总数：待填</text>
+    <text x="1210" y="1087" font-size="29" fill="#000000" font-weight="600" text-anchor="start">WIP / 批准上限</text>
+    <text x="1210" y="1130" font-size="25" fill="#3E3A39" font-weight="400" text-anchor="start">当前 / 上限 / 单位：待填</text>
+    <text x="1785" y="1087" font-size="29" fill="#000000" font-weight="600" text-anchor="start">安全 / 6S</text>
+    <text x="1785" y="1130" font-size="25" fill="#3E3A39" font-weight="400" text-anchor="start">未闭环问题：待填</text>
+    <text x="60" y="1180" font-size="21" fill="#3E3A39" font-weight="400" text-anchor="start">无数据保持待填；差异 = 实际 - 计划；更新延迟须显示原因，不显示假正常。</text>
+  </g>
+</svg>

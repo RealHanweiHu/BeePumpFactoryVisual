@@ -1,0 +1,78 @@
+{
+  "template_code": "EQ-03",
+  "template_name": "设备状态卡",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "variant_id": "EQ-03",
+  "content_variant": "当前状态待核换卡框架",
+  "floor_proposal": null,
+  "status": "implementation_review_proposal",
+  "source_template": {
+    "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-03_设备状态卡.svg",
+    "sha256": "e8bcea088498d7df693c3287901b07d0a2463af3c1dfe2622d0c51348fd08c0a"
+  },
+  "original_text_preserved": [
+    "运行 / RUNNING",
+    "资产ID / 位置",
+    "________________",
+    "状态开始时间",
+    "________________",
+    "责任人 / 下一步",
+    "________________",
+    "同版系列：运行 / 待料 / 故障 / 停用"
+  ],
+  "change_reasons": [
+    "移除默认运行状态，当前状态待核；原设备状态语义保存在溯源",
+    "保留资产关联、开始时间、接手与下一步",
+    "增加恢复证据/权限提示，不替代检修许可或锁定程序"
+  ],
+  "nominal_dimensions_mm": [
+    100,
+    70
+  ],
+  "viewbox_contract": "1 SVG user unit = 1 nominal mm",
+  "nominal_font_size_note": "font-size is nominal em in template units, not printed glyph height or site readability approval",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "actual_area_id": null,
+  "actual_direction_degrees": null,
+  "actual_installation_height_mm": null,
+  "actual_installed_quantity": null,
+  "actual_face_count": null,
+  "approved_capacity": null,
+  "production_release": false,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "operation": null,
+    "installation": null,
+    "safety_when_applicable": null
+  },
+  "orange_floor_markings": false,
+  "safety_graphics_changed": false,
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "template_slots_are_not_site_counts": true,
+  "read_update_hierarchy": [
+    "当前状态",
+    "接手与下一步",
+    "恢复证据与权限"
+  ],
+  "render_review": {
+    "status": "digital_render_bounds_and_pixels_checked",
+    "png": "reports/implementation_template_render/EQ-03.png",
+    "qa_record": "reports/implementation_template_render/render_qa.json",
+    "text_inside_artboard": true,
+    "text_overlap_candidates": 0,
+    "pixels_viewed_individually": true,
+    "chinese_display_checked": true,
+    "source_png_viewed_before_edit": true,
+    "font_used": "Installed PingFang SC fallback",
+    "physical_1_to_1_sample_tested": false,
+    "site_reading_distance_approved": false,
+    "installation_approved": false,
+    "thumbnail_note": "WF-01-8F header and WF-02-8F lower text were additionally checked by native-size PNG detail; their corresponding unchanged pixels equal 1F variants"
+  },
+  "path": "design/v2/implementation_v2.4/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "sidecar_path": "design/v2/implementation_v2.4/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT.sidecar.json",
+  "svg_sha256": "9fb5303d64fff26e52e25f80aafc44cb71053c3880b5f6eb2cc26852f909b55c"
+}

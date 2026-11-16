@@ -1,0 +1,5 @@
+interface:
+  display_name: "Taste · redesign (upstream reference)"
+  short_description: "仅在BeePump项目适用规则约束下审查设计"
+policy:
+  allow_implicit_invocation: false

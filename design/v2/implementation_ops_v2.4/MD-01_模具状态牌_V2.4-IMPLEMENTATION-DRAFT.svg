@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100mm" height="180mm" viewBox="0 0 100 180" role="img" aria-labelledby="title desc">
+<title id="title">MD-01 模具状态牌 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;MD-01&quot;, &quot;name&quot;: &quot;模具状态牌&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/MD-01_模具状态牌.svg&quot;, &quot;source_sha256&quot;: &quot;5d183b4c2acc4f5817c03f3cf616bd4ccdfc6ad4f39885aa22037c385797b193&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;模具状态牌&quot;, &quot;MOLD STATUS&quot;, &quot;M-____&quot;, &quot;待用 / READY&quot;, &quot;模具ID&quot;, &quot;________________&quot;, &quot;现场机台 / 库位&quot;, &quot;________________&quot;, &quot;产品 / 版本&quot;, &quot;________________&quot;, &quot;累计模次&quot;, &quot;________________&quot;, &quot;上次 / 下次保养&quot;, &quot;________________&quot;, &quot;状态确认人&quot;, &quot;________________&quot;, &quot;挂牌不代表试模或首件批准；状态变化须保留记录&quot;], &quot;physical_size_mm&quot;: [100, 180], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;保留永久模具身份、可用性、位置和维护交接功能&quot;, &quot;状态待真实确认；试模、保养、待修与封存按实际制度区分&quot;, &quot;实际模具作业存在且授权后才实例化，不是必装数量&quot;, &quot;挂点由现场工程批准，不能挂受力吊环内妨碍起吊&quot;], &quot;scope&quot;: &quot;optional; instantiate only if actual mold operations exist and are authorized&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/MD-01.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/MD-01.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="100" height="180" fill="#FFFFFF"/>
+<rect x="0" y="0" width="100" height="27" fill="#000000"/>
+<rect x="0" y="0" width="1.1" height="27" fill="#FF6600"/>
+<text x="4.5" y="12.69" font-size="7.29" fill="#FFFFFF" font-weight="700" text-anchor="start">模具状态牌</text>
+<text x="4.5" y="21.6" font-size="3.24" fill="#FFFFFF" font-weight="500" text-anchor="start">MOLD STATUS</text>
+<text x="95.5" y="12.69" font-size="4.32" fill="#FF6600" font-weight="700" text-anchor="end">MD-01</text>
+<rect x="4.5" y="37" width="91" height="22" fill="#F2F2F2"/>
+<text x="50" y="51" font-size="7" fill="#000000" font-weight="700" text-anchor="middle">状态待确认</text>
+<text x="4.5" y="74" font-size="3.1" fill="#3E3A39" font-weight="400" text-anchor="start">永久模具ID</text>
+<text x="57" y="74" font-size="3.1" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="4.5" y1="76.596" x2="95.5" y2="76.596" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="4.5" y="85.8" font-size="3.1" fill="#3E3A39" font-weight="400" text-anchor="start">产品 / 版本</text>
+<text x="57" y="85.8" font-size="3.1" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="4.5" y1="88.396" x2="95.5" y2="88.396" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="4.5" y="97.6" font-size="3.1" fill="#3E3A39" font-weight="400" text-anchor="start">所在机台 / 库位</text>
+<text x="57" y="97.6" font-size="3.1" fill="#000000" font-weight="400" text-anchor="start">待核</text>
+<line x1="4.5" y1="100.196" x2="95.5" y2="100.196" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="4.5" y="109.4" font-size="3.1" fill="#3E3A39" font-weight="400" text-anchor="start">累计模次 / 依据</text>
+<text x="57" y="109.4" font-size="3.1" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="4.5" y1="111.996" x2="95.5" y2="111.996" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="4.5" y="121.2" font-size="3.1" fill="#3E3A39" font-weight="400" text-anchor="start">保养 / 维修记录</text>
+<text x="57" y="121.2" font-size="3.1" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="4.5" y1="123.796" x2="95.5" y2="123.796" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="4.5" y="133" font-size="3.1" fill="#3E3A39" font-weight="400" text-anchor="start">试模 / 变更记录</text>
+<text x="57" y="133" font-size="3.1" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="4.5" y1="135.596" x2="95.5" y2="135.596" stroke="#C9C9C9" stroke-width="0.25"/>
+<text x="4.5" y="144.8" font-size="3.1" fill="#3E3A39" font-weight="400" text-anchor="start">接手人 / 时间</text>
+<text x="57" y="144.8" font-size="3.1" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="4.5" y1="147.396" x2="95.5" y2="147.396" stroke="#C9C9C9" stroke-width="0.25"/>
+<rect x="4.5" y="155" width="91" height="15" fill="#F2F2F2"/>
+<text x="6.3" y="159.48" font-size="2.8" fill="#000000" font-weight="700" text-anchor="start">仅实际且授权的模具作业适用。</text>
+<text x="6.3" y="163.82" font-size="2.8" fill="#000000" font-weight="400" text-anchor="start">未确认或待修不混入待用。</text>
+<text x="4.5" y="179.3" font-size="1.4" fill="#3E3A39" font-weight="400" text-anchor="start">可选评审稿 · 吊挂点须批准，不妨碍起吊</text>
+</g>
+</svg>

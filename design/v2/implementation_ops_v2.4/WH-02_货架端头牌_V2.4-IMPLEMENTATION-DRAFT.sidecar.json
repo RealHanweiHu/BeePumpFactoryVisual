@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "code": "WH-02",
+  "name": "货架端头牌",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "created_date": "2026-10-07",
+  "drawing_status": "template_only",
+  "approval_status": "not_for_production",
+  "production_release": false,
+  "source_path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-02_货架端头牌.svg",
+  "source_sha256": "e36453a654faeb61c930d43f352e6ddd548238bd7f0f100b04404405fc536b52",
+  "original_text_preserved_in_metadata": [
+    "5F",
+    "B-03",
+    "半成品货架",
+    "COMPONENT RACK",
+    "01-04 列",
+    "库位方向按现场校核"
+  ],
+  "physical_size_mm": [
+    600,
+    900
+  ],
+  "physical_size_source": "V1 nominal suggested template size; not an installation measurement",
+  "font_sizes_are_nominal_em_mm": true,
+  "printed_font_and_installation_height": "not verified; 1:1 print sample and site approval required",
+  "decision": "Refine",
+  "change_reasons": [
+    "移除5F、B-03、01-04列和未核方向箭头",
+    "排号远读，精确库位转查WH-01，保留端头查找层级",
+    "货架用途、范围和方向记录依现场台账填写"
+  ],
+  "scope": "applicability subject to approved actual operational workflow",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "area_id": null,
+  "world_position": null,
+  "actual_coordinates": null,
+  "facing": null,
+  "installation_height_mm": null,
+  "installed_quantity": null,
+  "approved_quantity": null,
+  "content_approval": null,
+  "installation_approval": null,
+  "specialist_approval": null,
+  "source_render_png": "reports/implementation_operations_render/v1/WH-02.png",
+  "render_png": "reports/implementation_operations_render/WH-02.png"
+}

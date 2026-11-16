@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "A",
+  "style_label": "原版黑橙",
+  "code": "EQ-02",
+  "template_code": "EQ-02",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "ae13c3daf39801ef2b14d63321853a85b6cf0bad458721b96387f40eff94e9db",
+  "nominal_size_mm": [
+    160,
+    100
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"schema_version\": \"1.0\", \"code\": \"EQ-02\", \"name\": \"工装量具牌\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"created_date\": \"2026-10-07\", \"drawing_status\": \"template_only\", \"approval_status\": \"not_for_production\", \"production_release\": false, \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-02_工装量具牌.svg\", \"source_sha256\": \"6b540ce966a9b97af35c35d81fbfa0c4e0b2cc1a706b24ff50d51cbe3fbeaf0a\", \"original_text_preserved_in_metadata\": [\"工装 / 量具\", \"TOOL & GAUGE\", \"TG-___\", \"适用机型 / 版本\", \"________________\", \"校准到期\", \"________________\", \"管理人\", \"________________\", \"逾期或状态不明：暂停使用，联系品质 / 工程\"], \"physical_size_mm\": [160, 100], \"physical_size_source\": \"V1 nominal suggested template size; not an installation measurement\", \"font_sizes_are_nominal_em_mm\": true, \"printed_font_and_installation_height\": \"not verified; 1:1 print sample and site approval required\", \"decision\": \"Refine\", \"change_reasons\": [\"真实工具身份与适用版本独立，不填虚構TG编号\", \"检验、校准/检定依据及有效状态查真实记录\", \"不将未填状态打印为已合格，逾期和不明状态暂停使用\"], \"scope\": \"applicability subject to approved actual operational workflow\", \"actual_point_id\": null, \"actual_floor_id\": null, \"area_id\": null, \"world_position\": null, \"actual_coordinates\": null, \"facing\": null, \"installation_height_mm\": null, \"installed_quantity\": null, \"approved_quantity\": null, \"content_approval\": null, \"installation_approval\": null, \"specialist_approval\": null, \"source_render_png\": \"reports/implementation_operations_render/v1/EQ-02.png\", \"render_png\": \"reports/implementation_operations_render/EQ-02.png\"}"
+  ]
+}

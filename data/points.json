@@ -1,0 +1,7 @@
+{
+  "schema_version": "1.0",
+  "revision": "P0",
+  "status": "not_started",
+  "note": "尚未布点；空数组不表示现场无需标识。不得用模板样例推断真实点位。",
+  "points": []
+}

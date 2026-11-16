@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3600mm" height="1800mm" viewBox="0 0 3600 1800" role="img" aria-label="制造能力墙 / 真实控制点与客户证据展陈 / 草案">
+<title>制造能力墙 / V2.4-IMPLEMENTATION-DRAFT</title>
+<desc>可编辑实施评审草案。名义模板尺寸，不构成现场施工放行。源文件和原始文字在侧车保存；实际位置、数量、方向、安装及批准均未取得。</desc>
+<metadata>{&quot;template_code&quot;: &quot;BE-04&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;variant_id&quot;: &quot;BE-04&quot;, &quot;floor_proposal&quot;: null, &quot;nominal_dimensions_mm&quot;: [3600, 1800], &quot;actual_point_id&quot;: null, &quot;production_release&quot;: false, &quot;source_template&quot;: {&quot;path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-04_制造能力墙.svg&quot;, &quot;sha256&quot;: &quot;0cf42097b813396bebf9c2ca843d0ecda01d1fa6e6b13647966b536d4c3dae32&quot;}}</metadata>
+<g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="0" y="0" width="3600" height="260" fill="#000000"/>
+<rect x="0" y="0" width="36.0" height="260" fill="#FF6600"/>
+<text x="122.4" y="122.19999999999999" font-size="98" fill="#FFFFFF" font-weight="600" text-anchor="start">从部件到产品：用证据说明控制</text>
+<text x="122.4" y="210.60000000000002" font-size="38.22" fill="#FFFFFF" font-weight="400" text-anchor="start">FROM COMPONENTS TO PRODUCTS</text>
+<text x="3477.6" y="122.19999999999999" font-size="42.14" fill="#FF6600" font-weight="500" text-anchor="end">BE-04</text>
+<text x="95" y="415" font-size="76" fill="#FF6600" font-weight="500" text-anchor="start">01</text>
+<text x="95" y="560" font-size="65" fill="#000000" font-weight="600" text-anchor="start">金工</text>
+<rect x="95" y="645" width="530" height="415" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2"/>
+<text x="360" y="810" font-size="36" fill="#3E3A39" font-weight="400" text-anchor="middle">真实照片 / 实物位置</text>
+<text x="360" y="895" font-size="29" fill="#3E3A39" font-weight="400" text-anchor="middle">内容与展陈固定待批准</text>
+<text x="95" y="1160" font-size="39" fill="#000000" font-weight="600" text-anchor="start">图样与工序口径</text>
+<text x="95" y="1250" font-size="32" fill="#000000" font-weight="400" text-anchor="start">批准图样 / 检验记录</text>
+<text x="95" y="1340" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">证据ID / 版次 / 权限待确认</text>
+<text x="670" y="415" font-size="76" fill="#FF6600" font-weight="500" text-anchor="start">02</text>
+<text x="670" y="560" font-size="65" fill="#000000" font-weight="600" text-anchor="start">注塑</text>
+<rect x="670" y="645" width="530" height="415" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2"/>
+<text x="935" y="810" font-size="36" fill="#3E3A39" font-weight="400" text-anchor="middle">真实照片 / 实物位置</text>
+<text x="935" y="895" font-size="29" fill="#3E3A39" font-weight="400" text-anchor="middle">内容与展陈固定待批准</text>
+<text x="670" y="1160" font-size="39" fill="#000000" font-weight="600" text-anchor="start">材料与版本追溯</text>
+<text x="670" y="1250" font-size="32" fill="#000000" font-weight="400" text-anchor="start">料批 / 验证记录</text>
+<text x="670" y="1340" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">证据ID / 版次 / 权限待确认</text>
+<text x="1245" y="415" font-size="76" fill="#FF6600" font-weight="500" text-anchor="start">03</text>
+<text x="1245" y="560" font-size="65" fill="#000000" font-weight="600" text-anchor="start">物料管理</text>
+<rect x="1245" y="645" width="530" height="415" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2"/>
+<text x="1510" y="810" font-size="36" fill="#3E3A39" font-weight="400" text-anchor="middle">真实照片 / 实物位置</text>
+<text x="1510" y="895" font-size="29" fill="#3E3A39" font-weight="400" text-anchor="middle">内容与展陈固定待批准</text>
+<text x="1245" y="1160" font-size="39" fill="#000000" font-weight="600" text-anchor="start">身份与放行分离</text>
+<text x="1245" y="1250" font-size="32" fill="#000000" font-weight="400" text-anchor="start">物料ID / 放行依据</text>
+<text x="1245" y="1340" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">证据ID / 版次 / 权限待确认</text>
+<text x="1820" y="415" font-size="76" fill="#FF6600" font-weight="500" text-anchor="start">04</text>
+<text x="1820" y="560" font-size="65" fill="#000000" font-weight="600" text-anchor="start">装配</text>
+<rect x="1820" y="645" width="530" height="415" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2"/>
+<text x="2085" y="810" font-size="36" fill="#3E3A39" font-weight="400" text-anchor="middle">真实照片 / 实物位置</text>
+<text x="2085" y="895" font-size="29" fill="#3E3A39" font-weight="400" text-anchor="middle">内容与展陈固定待批准</text>
+<text x="1820" y="1160" font-size="39" fill="#000000" font-weight="600" text-anchor="start">手动与锂电并行</text>
+<text x="1820" y="1250" font-size="32" fill="#000000" font-weight="400" text-anchor="start">受控SOP / 工单追溯</text>
+<text x="1820" y="1340" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">证据ID / 版次 / 权限待确认</text>
+<text x="2395" y="415" font-size="76" fill="#FF6600" font-weight="500" text-anchor="start">05</text>
+<text x="2395" y="560" font-size="65" fill="#000000" font-weight="600" text-anchor="start">测试</text>
+<rect x="2395" y="645" width="530" height="415" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2"/>
+<text x="2660" y="810" font-size="36" fill="#3E3A39" font-weight="400" text-anchor="middle">真实照片 / 实物位置</text>
+<text x="2660" y="895" font-size="29" fill="#3E3A39" font-weight="400" text-anchor="middle">内容与展陈固定待批准</text>
+<text x="2395" y="1160" font-size="39" fill="#000000" font-weight="600" text-anchor="start">依据批准项目判定</text>
+<text x="2395" y="1250" font-size="32" fill="#000000" font-weight="400" text-anchor="start">受控项目 / 判定记录</text>
+<text x="2395" y="1340" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">证据ID / 版次 / 权限待确认</text>
+<text x="2970" y="415" font-size="76" fill="#FF6600" font-weight="500" text-anchor="start">06</text>
+<text x="2970" y="560" font-size="65" fill="#000000" font-weight="600" text-anchor="start">交付</text>
+<rect x="2970" y="645" width="530" height="415" fill="#FFFFFF" stroke="#3E3A39" stroke-width="2"/>
+<text x="3235" y="810" font-size="36" fill="#3E3A39" font-weight="400" text-anchor="middle">真实照片 / 实物位置</text>
+<text x="3235" y="895" font-size="29" fill="#3E3A39" font-weight="400" text-anchor="middle">内容与展陈固定待批准</text>
+<text x="2970" y="1160" font-size="39" fill="#000000" font-weight="600" text-anchor="start">齐套与交接分开</text>
+<text x="2970" y="1250" font-size="32" fill="#000000" font-weight="400" text-anchor="start">包装核对 / 交接记录</text>
+<text x="2970" y="1340" font-size="26" fill="#3E3A39" font-weight="400" text-anchor="start">证据ID / 版次 / 权限待确认</text>
+<line x1="95" y1="1450" x2="3505" y2="1450" stroke="#FF6600" stroke-width="5"/>
+<text x="95" y="1545" font-size="46" fill="#000000" font-weight="600" text-anchor="start">展示的是获准控制点与真实证据；不公布未经验证的产能、客户、认证或检测承诺。</text>
+<text x="95" y="1630" font-size="41" fill="#000000" font-weight="400" text-anchor="start">内容栏目为展陈排序；不推导物流工序、楼层顺序或访客进入权限。</text>
+<text x="95" y="1710" font-size="29" fill="#3E3A39" font-weight="400" text-anchor="start">BE-04 / V2.4-IMPLEMENTATION-DRAFT · 名义3600×1800mm · 照片、实物、表面及固定方案待批准</text>
+</g>
+</svg>

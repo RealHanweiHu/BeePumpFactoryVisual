@@ -1,0 +1,1137 @@
+{
+  "revision": "8F-CONSOLIDATED-2026-10-26-DRAFT",
+  "status": "draft_consolidation_of_existing_designs",
+  "updated_on": "2026-10-26",
+  "floor_id": "8F",
+  "production_release": false,
+  "user_priority": "先完成8F方案；1F及其余楼层保留现有成果，暂不扩展设计。",
+  "scope": "方案整理、引用和推进清单；不新增几何、不代选偏好、不核定工程量。",
+  "confirmed_for_planning": {
+    "current_transport": "人工周转车",
+    "future_transport": "考虑电动搬运车，预留意向已确认；车型和尺寸未知。",
+    "process": [
+      "来料交接",
+      "装配",
+      "测试／老化",
+      "包装",
+      "成品交接"
+    ],
+    "lift_roles": {
+      "raw_store_nearby_group": "收料＋员工到层（原料仓旁中间货梯，用户说明可载人）",
+      "upper_left_group": "成品下楼去成品仓等",
+      "lower_left_group": "暂未规划使用",
+      "lower_right_group": "暂未规划使用",
+      "small_passenger_lift_north_of_changing_room": "访客到层；位置沿用V2.7用户指认"
+    },
+    "scope": "复用既有用户确认，只用于规划；不等于通路、专项条件或安装批准。"
+  },
+  "current_floor_palette_proposal": {
+    "logistics": {
+      "name": "物流通道",
+      "fill": "#969B9F",
+      "edge": "#F4C400",
+      "text": "#FFFFFF",
+      "meaning": "灰底＋黄边＋物流文字/方向"
+    },
+    "pedestrians": {
+      "name": "人行通道",
+      "fill": "#FFFFFF",
+      "edge": "#FFFFFF",
+      "text": "#3E3A39",
+      "meaning": "白色带＋人行文字；员工与访客到层分别注明"
+    },
+    "positioning": {
+      "name": "普通定置",
+      "fill": "#969B9F",
+      "edge": "#FFFFFF",
+      "text": "#FFFFFF",
+      "meaning": "白框＋用途/位号，不占通道"
+    },
+    "pending": {
+      "name": "待检/待测",
+      "edge": "#005EB8",
+      "text": "#005EB8"
+    },
+    "released": {
+      "name": "合格放行",
+      "edge": "#00864A",
+      "text": "#00864A"
+    },
+    "nonconforming": {
+      "name": "普通不合格",
+      "edge": "#D81920",
+      "text": "#D81920"
+    },
+    "hold": {
+      "name": "冻结 HOLD",
+      "edge": "#F4C400",
+      "text": "#000000"
+    },
+    "unresolved": {
+      "name": "待核/预留",
+      "fill": null,
+      "edge": "#3E3A39",
+      "is_paint_instruction": false
+    }
+  },
+  "source_records": [
+    {
+      "path": "交付_8楼/多方案选择_V2.8/方案目录.json",
+      "sha256": "64eccc9c9c8e9a6fc960873bf2d3d0a27c679c5f0d565798eb614069e4fd91e0"
+    },
+    {
+      "path": "交付_8楼/地面物流规划_V3.1/地面配色与来源.json",
+      "sha256": "99915d8e64a55f2c9690532f14d2107aaebc5ba2ecddab6af5ea8adf8a662a5a"
+    },
+    {
+      "path": "data/8F_logistics_user_requirements_v2.9.1.json",
+      "sha256": "23124b2f64b770990c13ea1d07b6db44c31be1589defb13dfd605ff3452bc40e"
+    },
+    {
+      "path": "交付_8楼/地面物流规划_V3.0/用户确认_收发电梯与直接标图.json",
+      "sha256": "ea2caa8694b4390d1796696d74458cb9f77ac65db899226ba8547cdef390cf4e"
+    },
+    {
+      "path": "交付_8楼/客梯入口修订_V2.7/修订记录与来源_V2.7.json",
+      "sha256": "5e8353ef314bdcb84b939d55026f69f727cabbe2ceb2dcf3f6721da1b528ff3f"
+    },
+    {
+      "path": "交付_8楼/specs/material_families.json",
+      "sha256": "d395f992698a29428320607476a4f5cd11d81e42f04723ee70d7325c587b1659"
+    },
+    {
+      "path": "交付_8楼/安装需求与实施接口.csv",
+      "sha256": "c9ad0ae6b7bdb96edfd84f81344328a40e364a168f7d887a773e457109803119"
+    }
+  ],
+  "source_drawing_sha256": "d368c39f3f5c9fdd2b783c8fc2949b6d1a744b03d5e9cafd172b17bc60a76918",
+  "versions": [
+    {
+      "purpose": "地面物流、人行与定置配色",
+      "version": "V3.1",
+      "path": "地面物流规划_V3.1/打开地面配色图.html",
+      "scope": "当前配色提案；色带宽度是显示像素，实际尺寸未核。"
+    },
+    {
+      "purpose": "原图接驳、路线关系与来源",
+      "version": "V3.0",
+      "path": "地面物流规划_V3.0/打开原图标注.html",
+      "scope": "保留L/P/C/E关系及用户电梯分工；颜色显示以V3.1为准。"
+    },
+    {
+      "purpose": "逐项牌面与位置关系选型",
+      "version": "V2.8",
+      "path": "多方案选择_V2.8/START_HERE.html",
+      "scope": "A/B/C与P1/P2/P3可独立选；旧人流/物流图须对照V3.1。"
+    },
+    {
+      "purpose": "小客梯位置与到层入口画面",
+      "version": "V2.7",
+      "path": "客梯入口修订_V2.7/START_HERE.html",
+      "scope": "替代V2.5/V2.6对应入口画面；后续员工/物流分工以V3.0/V3.1为准。"
+    },
+    {
+      "purpose": "材料、报价、打样及现场表",
+      "version": "V2.4",
+      "path": "START_HERE.html",
+      "scope": "保留实施交接框架；真实点位/尺寸/数量与制作安装仍待核。"
+    },
+    {
+      "purpose": "名义尺寸、早期图纸标注",
+      "version": "V2.6 / V2.5",
+      "path": "逐项样式尺寸_参观预览_V2.6/START_HERE.html",
+      "scope": "历史参考；入口和人流物流内容不可覆盖后续修订。"
+    }
+  ],
+  "work_groups": [
+    {
+      "id": "G1",
+      "name": "入口、区域与方向",
+      "details": [
+        "D01",
+        "D02",
+        "D03",
+        "D16"
+      ],
+      "action": "对照最新电梯分工，明确区域名称、入口读面、柱号和分岔信息。"
+    },
+    {
+      "id": "G2",
+      "name": "生产运行与线边管理",
+      "details": [
+        "D04",
+        "D05",
+        "D06",
+        "D07"
+      ],
+      "action": "先定六款核心模板的共用样式、数据字段、更新人和状态规则。"
+    },
+    {
+      "id": "G3",
+      "name": "作业、品质与交接",
+      "details": [
+        "D08",
+        "D09",
+        "D10",
+        "D12",
+        "D13",
+        "D14",
+        "D19",
+        "D21"
+      ],
+      "action": "逐项落实受控文件、设备/容器身份、品质签发和交接动作。"
+    },
+    {
+      "id": "G4",
+      "name": "条件项与展示",
+      "details": [
+        "D11",
+        "D15",
+        "D17",
+        "D18",
+        "D20"
+      ],
+      "action": "先核适用性与获准范围；D15/D18/D20的来源位置仍未定位。"
+    }
+  ],
+  "recommended_first_batch_details": [
+    "D02",
+    "D03",
+    "D04",
+    "D05",
+    "D06",
+    "D07"
+  ],
+  "recommendation_is_human_selection": false,
+  "requirements": [
+    {
+      "detail_id": "D01",
+      "requirement_id": "REQ-8F-01",
+      "name": "到层形象与入场导览",
+      "work_group": "入口、区域与方向",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "BE-02",
+        "WF-01"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "BE-02",
+          "size_mm": [
+            3600,
+            2200
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "WF-01",
+          "size_mm": [
+            900,
+            1500
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-01",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "行政；销售；生产；工程；安全",
+      "reading_action": "核实际到层身份、入场说明和获准去向，不默认电梯唯一入口",
+      "next_action": "员工与访客分别到层；客梯画面沿用V2.7，员工起点以V3.0/V3.1更新。",
+      "site_check": "8F图身/3F图签解决；单位/有效图框/主要入口；墙体/门扇/正式Logo；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D02",
+      "requirement_id": "REQ-8F-02",
+      "name": "区域入口识别",
+      "work_group": "入口、区域与方向",
+      "first_batch_recommendation": true,
+      "template_codes": [
+        "WF-02"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "WF-02",
+          "size_mm": [
+            1200,
+            400
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-03",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "生产；工程；安全",
+      "reading_action": "识别真实区域和楼层；不把8F-A至H基线硬赋图中文字",
+      "next_action": "生产确认名称/ID，工程核每个阅读面与安装方式",
+      "site_check": "区域功能/边界/正式ID；主要进路；吊点/净空/固定；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D03",
+      "requirement_id": "REQ-8F-03",
+      "name": "柱号与区域定位",
+      "work_group": "入口、区域与方向",
+      "first_batch_recommendation": true,
+      "template_codes": [
+        "WF-04"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "WF-04",
+          "size_mm": [
+            360,
+            1100
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-04",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "生产；工程；安全",
+      "reading_action": "柱号与区域分列；不添加未经核实箭头",
+      "next_action": "永久柱号与区域映射分别维护",
+      "site_check": "柱号/柱面/保护条件；区域映射；各实际进路遮挡；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D04",
+      "requirement_id": "REQ-8F-04",
+      "name": "生产运行更新",
+      "work_group": "生产运行与线边管理",
+      "first_batch_recommendation": true,
+      "template_codes": [
+        "PM-01"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "PM-01",
+          "size_mm": [
+            2400,
+            1200
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-04",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "生产；PMC；品质；工程",
+      "reading_action": "看当班工单、时段合格产出和异常接手",
+      "next_action": "按真实时段及事件更新，口径/单位/责任/时间可核",
+      "site_check": "真实班组/线别；数据源/班次口径；更新可达与固定面；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D05",
+      "requirement_id": "REQ-8F-05",
+      "name": "SQDCP日会行动",
+      "work_group": "生产运行与线边管理",
+      "first_batch_recommendation": true,
+      "template_codes": [
+        "PM-02"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "PM-02",
+          "size_mm": [
+            2400,
+            1200
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-04",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "生产；品质；工程；安全",
+      "reading_action": "看五项指标口径与跨部门行动，不复制运行板所有字段",
+      "next_action": "按各指标周期与行动事件更新、接手及验证",
+      "site_check": "真实日会站位；口径/周期/单位/代理；所有行动字段更新可达；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D06",
+      "requirement_id": "REQ-8F-06",
+      "name": "线边库位与地址",
+      "work_group": "生产运行与线边管理",
+      "first_batch_recommendation": true,
+      "template_codes": [
+        "WH-01"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "WH-01",
+          "size_mm": [
+            200,
+            100
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-02",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "仓库；生产；系统管理员；工程",
+      "reading_action": "稳定地址、物料批次与批准容量分开",
+      "next_action": "仓库维护ID，物料批次可换；真实系统绑定后才生成码",
+      "site_check": "真实库位与编码；货架/载荷/横梁；存取/扫码/材料条件；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D07",
+      "requirement_id": "REQ-8F-07",
+      "name": "段间WIP与FIFO/FEFO",
+      "work_group": "生产运行与线边管理",
+      "first_batch_recommendation": true,
+      "template_codes": [
+        "FL-01",
+        "FL-02"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "FL-01",
+          "size_mm": [
+            600,
+            450
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "FL-02",
+          "size_mm": [
+            1200,
+            550
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-04",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "生产；PMC；物流；品质；工程；安全",
+      "reading_action": "先核放行范围，再核当前量/批准上限/单位与适用排序",
+      "next_action": "投取料/冻结等事件更新，排序/容量变更重新确认",
+      "site_check": "工序关系/缓冲边界；真实上限/单位/FEFO适用条件；投取料进路及等待安排；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D08",
+      "requirement_id": "REQ-8F-08",
+      "name": "工位SOP与进入条件",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "SW-01"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "SW-01",
+          "size_mm": [
+            420,
+            297
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-03",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "技术；品质；生产；工程",
+      "reading_action": "真实型号/版次/作业步骤和异常动作，不用模板照片当现场",
+      "next_action": "受控发版/撤旧，与物料/程序/治具变更联动",
+      "site_check": "工位内容/照片；受控参数与批准；视线/反光/更新可达；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D09",
+      "requirement_id": "REQ-8F-09",
+      "name": "设备身份与状态",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "EQ-01",
+        "EQ-03"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "EQ-01",
+          "size_mm": [
+            300,
+            200
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "EQ-03",
+          "size_mm": [
+            100,
+            70
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-04",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "工程；生产；安全",
+      "reading_action": "永久身份与能否使用/维修接手分列",
+      "next_action": "台账身份固定，运行/维修/恢复事件按权限更新",
+      "site_check": "真实设备台账；允许固定面和工况；状态/维修/恢复权限；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D10",
+      "requirement_id": "REQ-8F-10",
+      "name": "批次品质状态",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "QC-01",
+        "QC-02",
+        "QC-03",
+        "QC-04"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "QC-01",
+          "size_mm": [
+            100,
+            70
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "QC-02",
+          "size_mm": [
+            100,
+            70
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "QC-03",
+          "size_mm": [
+            100,
+            70
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "QC-04",
+          "size_mm": [
+            100,
+            70
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-02",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "品质；生产；仓库",
+      "reading_action": "核待检/放行/不合格/暂缓的真实对象和范围",
+      "next_action": "品质授权签发，生产/仓库保持卡物一致并撤旧",
+      "site_check": "真实批次/容器；状态转换与特采依据；卡夹材料/位置；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D11",
+      "requirement_id": "REQ-8F-11",
+      "name": "测试或老化周期条件",
+      "work_group": "条件项与展示",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "BT-02"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "BT-02",
+          "size_mm": [
+            210,
+            148
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-05",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "品质；工程；生产；安全",
+      "reading_action": "周期与品质结果分列；周期结束不自动放行",
+      "next_action": "按实际工单核测试/老化适用性，不能把所有机型都列为老化。",
+      "site_check": "真实功能与格位；批准程序/进入权限/电气及适用专项；温度/清洁/ESD材料与固定；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D12",
+      "requirement_id": "REQ-8F-12",
+      "name": "包装换型与版本核对",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "SW-02"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "SW-02",
+          "size_mm": [
+            420,
+            297
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-07",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "生产；技术；品质；销售；工程",
+      "reading_action": "清线、包规/箱标版本与首件条件分别核",
+      "next_action": "换型号/客户包规/软件标签等触发核对及撤旧",
+      "site_check": "真实包规/照片/版次；首件与生效批次批准；阅读/更新/保密；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D13",
+      "requirement_id": "REQ-8F-13",
+      "name": "成品交接与跨层待运",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "WH-03",
+        "WH-05"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "WH-03",
+          "size_mm": [
+            210,
+            148
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "WH-05",
+          "size_mm": [
+            900,
+            600
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-07",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "生产；仓库；物流；品质；工程；安全",
+      "reading_action": "核任务ID、批次容器、去向、双方准备与状态",
+      "next_action": "成品下楼目标为左上梯；接驳门口与C2边界待核。",
+      "site_check": "成品/待运/正式去向边界；设施使用许可与窗口；双方可接收量/单位及等待面；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D14",
+      "requirement_id": "REQ-8F-14",
+      "name": "普通不良与返修交接",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "WH-03",
+        "QC-03",
+        "QC-04"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "WH-03",
+          "size_mm": [
+            210,
+            148
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "QC-03",
+          "size_mm": [
+            100,
+            70
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "QC-04",
+          "size_mm": [
+            100,
+            70
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-06",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "品质；生产；工程；安全",
+      "reading_action": "核批次、状态与接手；维修房不自动等于批准返修区",
+      "next_action": "记录返修历史/关联子批及后续品质判定，不覆盖原批次",
+      "site_check": "真实不良/返修范围；普通与专项异常判定权限；追溯/返回/再检流程；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D15",
+      "requirement_id": "REQ-8F-15",
+      "name": "获准访客观察",
+      "work_group": "条件项与展示",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "VT-01"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "VT-01",
+          "size_mm": [
+            594,
+            841
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": null,
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "销售；行政；生产；品质；工程；安全",
+      "reading_action": "只看获准范围及证据；T03仅模板示例",
+      "next_action": "未定位；先核获准观察面、陪同范围及停留位置。",
+      "site_check": "实际参观权限和保密；完整停留站位与通路；底座/固定/交流条件；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D16",
+      "requirement_id": "REQ-8F-16",
+      "name": "分岔与路线提示",
+      "work_group": "入口、区域与方向",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "WF-03"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "WF-03",
+          "size_mm": [
+            1200,
+            350
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-08",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "行政；生产；物流；工程；安全",
+      "reading_action": "目的地与方向分别核，未核不能作现场指引",
+      "next_action": "以V3.1当前路线关系核箭头；不直接复制旧版物流箭头。",
+      "site_check": "真实各进路和去向；身份/区域及访客权限；遮挡/门扇/吊挂条件；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D17",
+      "requirement_id": "REQ-8F-17",
+      "name": "电子进入确认，条件项",
+      "work_group": "条件项与展示",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "ES-01"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "ES-01",
+          "size_mm": [
+            594,
+            841
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-08",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "工程；品质；生产；安全",
+      "reading_action": "核现场适用进入要求；标牌不创建EPA或准入许可",
+      "next_action": "条件项；先核真实电子进入要求及适用专业。",
+      "site_check": "真实EPA边界及适用制度；设施测试/记录与人员权限；材料及更新面条件；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D18",
+      "requirement_id": "REQ-8F-18",
+      "name": "电池暂存信息，条件项",
+      "work_group": "条件项与展示",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "BT-01"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "BT-01",
+          "size_mm": [
+            594,
+            841
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": null,
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "安全；工程；仓库；生产；品质",
+      "reading_action": "显示真实批准依据与库存，不由牌面批准暂存",
+      "next_action": "未定位、条件项；外采完整电池包，暂存条件和位置待专业确认。",
+      "site_check": "实际是否有暂存与获准设施；当地适用专项/批准制度；真实规格及上限/应急程序索引；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D19",
+      "requirement_id": "REQ-8F-19",
+      "name": "空器具与退料接回",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "WH-01",
+        "WH-03"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "WH-01",
+          "size_mm": [
+            200,
+            100
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        },
+        {
+          "code": "WH-03",
+          "size_mm": [
+            210,
+            148
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-02",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "物流；仓库；生产；品质",
+      "reading_action": "区分空器具、剩料、待判料与去向，身份不丢失",
+      "next_action": "接回核容器/批次/状态/数量单位，按批准清洁和归还流程更新",
+      "site_check": "真实器具/退料种类；返回地址/窗口/接手；状态、清洁、追溯规则；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D20",
+      "requirement_id": "REQ-8F-20",
+      "name": "样件验证与报告口径",
+      "work_group": "条件项与展示",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "QC-05"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "QC-05",
+          "size_mm": [
+            1200,
+            900
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": null,
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "技术；品质；生产；工程",
+      "reading_action": "样件ID、版本、验证口径及报告索引与周期不同",
+      "next_action": "未定位；核样件/报告范围与负责角色，不编造验证能力。",
+      "site_check": "真实验证任务和口径；资料/反馈/报告权限；样件地址与保密；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    },
+    {
+      "detail_id": "D21",
+      "requirement_id": "REQ-8F-21",
+      "name": "工装量具身份",
+      "work_group": "作业、品质与交接",
+      "first_batch_recommendation": false,
+      "template_codes": [
+        "EQ-02"
+      ],
+      "nominal_template_sizes_mm": [
+        {
+          "code": "EQ-02",
+          "size_mm": [
+            160,
+            100
+          ],
+          "scope": "nominal template only; not surveyed manufacturing size"
+        }
+      ],
+      "source_anchor_id": "ANN-8F-03",
+      "source_anchor_is_actual_point": false,
+      "responsible_roles": "工程；品质；生产；技术",
+      "reading_action": "识别工装/量具ID和有效资料，不能遮刻度/操作",
+      "next_action": "按台账/校验或维护变化更新，由责任角色确认规则",
+      "site_check": "真实工装/量具清单；有效管理记录；尺寸缩版/固定及清洁工况；内容、位置、运营规则、安装及适用专项分别经人类记录确认；1:1材质/阅读/更新样品确认；同一实物可跨需求合并，放样后才分配真实point_id",
+      "selection_import_status": "no_verified_human_selection_imported_into_this_summary",
+      "selected_style": null,
+      "selected_position_relation": null,
+      "selection_notes": null,
+      "position_world": null,
+      "actual_quantity": null,
+      "actual_size_mm": null,
+      "installation_height_mm": null,
+      "approvals": null,
+      "production_release": false
+    }
+  ],
+  "closure_gates": [
+    {
+      "id": "F01",
+      "name": "有效底图与比例",
+      "status": "blocked",
+      "action": "工程核图身“八层”与图签“三层”冲突；确认有效图框、单位、两向校准与现场一致性。",
+      "roles": "业主、工程",
+      "evidence": "docs/CAD_WORKFLOW.md"
+    },
+    {
+      "id": "F02",
+      "name": "物流与员工走段",
+      "status": "pending_site_review",
+      "action": "逐段核C1访客交叉、C2左上梯门口、C3中间梯分流及P02员工后续更衣/进入；量人工车，登记未来电动车型与转弯需求。",
+      "roles": "生产、工程、安全",
+      "evidence": "交付_8楼/地面物流规划_V3.1/地面配色与来源.json"
+    },
+    {
+      "id": "F03",
+      "name": "牌面样式与真实内容",
+      "status": "ready_for_design_review",
+      "action": "先审WF-02/WF-04/WH-01/PM-01/PM-02/FL-01，再完成其余需求；从V2.8导出真实选择，核区域/资产/批次ID与更新责任。",
+      "roles": "设计负责人、生产、品质、技术；访客内容由销售参与",
+      "evidence": "交付_8楼/多方案选择_V2.8/方案目录.json"
+    },
+    {
+      "id": "F04",
+      "name": "安装面、量尺与打样",
+      "status": "pending_site_review",
+      "action": "同次踏勘记录真实墙/柱/架/工位、朝向、尺寸、高度、固定、材质和1:1试样；专项条件由对应角色确认。",
+      "roles": "工程、生产、品质、安全",
+      "evidence": "交付_8楼/specs/blank_setting_out.csv"
+    },
+    {
+      "id": "F05",
+      "name": "核量、报价与制作安装",
+      "status": "not_released",
+      "action": "实际放样后分配point_id；实物件数、面数、耗材备品与地面长度/面积分别核量，报价与具名批准闭合后另发制作安装稿。",
+      "roles": "工程、生产、品质、安全、业主",
+      "evidence": "交付_8楼/specs/quotation_scope.csv"
+    }
+  ],
+  "unresolved_source_items": [
+    "图身八层/图签三层与物理单位仍待核验",
+    "C1访客示意与物流交叉条件",
+    "C2左上梯分隔边界与门口",
+    "C3中间梯收料与员工到层接驳/分流",
+    "P02员工后续更衣/进入条件与实际走段",
+    "线头接收面/西侧出料与测试适用性/候选面实际可用性",
+    "人工实车与未来电动车型/转弯包络/接收容量",
+    "地面线宽/字高/坐标/材料/数量/制作安装及适用专项确认"
+  ],
+  "physical_unit": null,
+  "actual_quantities": null,
+  "actual_cad_points": [],
+  "actual_cad_points_note": "未勘测，空数组不是零需求。",
+  "preferences_note": "本汇总未导入已核实的用户选择。V2.8浏览器可能已有本机选择，请在原页导出；本脚本不读取或重置浏览器存储。reports内QA测试导出不作为用户选择。",
+  "effect_previews": {
+    "manifest_path": "design/v2/point_effects_2026-10-26/manifest.json",
+    "manifest_sha256": "4cfa254cc307457e5c83d148fc846af5534f065c92abcaedd5b96d7d83a26a29",
+    "gallery_path": "交付_8楼/逐点效果与功能优化_2026-10-26/打开这里.html",
+    "scope": "Generated local concept scenes; not site photographs, CAD reconstruction or selected A/B/C designs.",
+    "production_release": false
+  },
+  "reference_supplement": {
+    "revision": "V3.2-8F-REFERENCE-SUPPLEMENT-DRAFT",
+    "updated_on": "2026-11-15",
+    "path": "交付_8楼/点位补充_V3.2/打开这里.html",
+    "manifest_path": "design/v2/8f_reference_supplement_v3.2/manifest.json",
+    "survey_rows": 31,
+    "mapped_candidates": 26,
+    "unplaced_candidates": 5,
+    "reference_rows": 42,
+    "production_release": false
+  },
+  "partition_supplement": {
+    "revision": "V3.4-8F-PARTITION-DRAFT",
+    "updated_on": "2026-11-15",
+    "path": "交付_8楼/围板设计_V3.4/打开这里.html",
+    "manifest_path": "design/v2/8f_partition_v3.4/manifest.json",
+    "module_count": 4,
+    "production_release": false
+  }
+}

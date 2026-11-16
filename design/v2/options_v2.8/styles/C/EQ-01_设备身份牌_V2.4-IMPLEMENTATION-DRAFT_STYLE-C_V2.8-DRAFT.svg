@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300mm" height="200mm" viewBox="0 0 300 200" role="img" aria-label="设备身份牌 / 永久身份/位置/档案分离 / 草案">
+<metadata id="beepump-v28-style-draft">{"schema_version": "1.0", "revision": "V2.8-CHOICE-DRAFT", "style_id": "C", "style_label": "固定标签分区", "code": "EQ-01", "template_code": "EQ-01", "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT.svg", "source_sha256": "ef1d9d5f4571a92318c10fd581d56366f8a77b94e35d2dd03d026835b3e12b49", "nominal_size_mm": [300, 200], "status": "style_option_pending_review", "production_release": false, "actual_point_id": null, "actual_dimensions_mm": null, "installation_height_mm": null, "world_coordinates": null, "quantity": null, "text_preserved": true, "text_geometry_preserved": true, "quality_header_preserved": true, "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.", "source_metadata": ["{\"template_code\": \"EQ-01\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"EQ-01\", \"floor_proposal\": null, \"nominal_dimensions_mm\": [300, 200], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/EQ-01_设备身份牌.svg\", \"sha256\": \"b360aaec4b62ee7a007c55ea87da5354084564338afe09defa685254a8e85cf7\"}}"]}</metadata><title>设备身份牌 / V2.4-IMPLEMENTATION-DRAFT</title>
+<desc>可编辑实施评审草案。名义模板尺寸，不构成现场施工放行。源文件和原始文字在侧车保存；实际位置、数量、方向、安装及批准均未取得。</desc>
+<g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="0" y="0" width="300" height="42" fill="#000000" />
+<rect x="0" y="0" width="3.0" height="42" fill="#FF6600" />
+<text x="10.200000000000001" y="19.74" font-size="14" fill="#FFFFFF" font-weight="600" text-anchor="start">设备身份牌</text>
+<text x="10.200000000000001" y="34.02" font-size="5.46" fill="#FFFFFF" font-weight="400" text-anchor="start">EQUIPMENT ID</text>
+<text x="289.8" y="19.74" font-size="6.02" fill="#FF6600" font-weight="500" text-anchor="end">EQ-01</text>
+<rect x="7" y="49" width="213" height="48" fill="#000000" data-option-panel="true" /><text x="11" y="62" font-size="7" fill="#FFFFFF" font-weight="400" text-anchor="start">永久资产ID</text>
+<text x="11" y="84" font-size="15" fill="#FFFFFF" font-weight="600" text-anchor="start">待登记</text>
+<rect x="240" y="56" width="47" height="47" fill="#FFFFFF" stroke="#3E3A39" stroke-width="0.7" />
+<text x="263.5" y="76" font-size="5" fill="#3E3A39" font-weight="400" text-anchor="middle">档案码区</text>
+<text x="263.5" y="88" font-size="4" fill="#3E3A39" font-weight="400" text-anchor="middle">链接待批准</text>
+<rect x="8.615" y="109.375" width="91.47" height="9.54" fill="#000000" data-option-panel="true" /><text x="11" y="116" font-size="5.3" fill="#FFFFFF" font-weight="400" text-anchor="start">设备名称 / 型号</text>
+<rect x="101.94" y="109.375" width="187.06" height="9.54" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="103" y="116" font-size="5.1" fill="#000000" font-weight="400" text-anchor="start">按批准资产台账待填</text>
+<line x1="11" y1="121" x2="287" y2="121" stroke="#3E3A39" stroke-width="0.25" />
+<rect x="8.615" y="126.375" width="91.47" height="9.54" fill="#000000" data-option-panel="true" /><text x="11" y="133" font-size="5.3" fill="#FFFFFF" font-weight="400" text-anchor="start">现场位置码</text>
+<rect x="101.94" y="126.375" width="187.06" height="9.54" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="103" y="133" font-size="5.1" fill="#000000" font-weight="400" text-anchor="start">按现场位置台账待填</text>
+<line x1="11" y1="138" x2="287" y2="138" stroke="#3E3A39" stroke-width="0.25" />
+<rect x="8.615" y="143.375" width="91.47" height="9.54" fill="#000000" data-option-panel="true" /><text x="11" y="150" font-size="5.3" fill="#FFFFFF" font-weight="400" text-anchor="start">责任角色 / 接手</text>
+<rect x="101.94" y="143.375" width="187.06" height="9.54" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="103" y="150" font-size="5.1" fill="#000000" font-weight="400" text-anchor="start">工程资产 / 生产使用，人员待定</text>
+<line x1="11" y1="155" x2="287" y2="155" stroke="#3E3A39" stroke-width="0.25" />
+<rect x="8.615" y="160.375" width="91.47" height="9.54" fill="#000000" data-option-panel="true" /><text x="11" y="167" font-size="5.3" fill="#FFFFFF" font-weight="400" text-anchor="start">维护文件 / 版次</text>
+<rect x="101.94" y="160.375" width="187.06" height="9.54" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="103" y="167" font-size="5.1" fill="#000000" font-weight="400" text-anchor="start">按受控档案待填；状态另挂EQ-03</text>
+<line x1="11" y1="172" x2="287" y2="172" stroke="#3E3A39" stroke-width="0.25" />
+<text x="11" y="183" font-size="4.05" fill="#3E3A39" font-weight="400" text-anchor="start">搬迁更新位置，不改永久ID；不得遮盖原厂铭牌、安全警告或操作件。</text>
+<text x="11" y="194" font-size="3.4" fill="#3E3A39" font-weight="400" text-anchor="start">EQ-01 / V2.4-IMPLEMENTATION-DRAFT · 名义300×200mm · 印前字段待核</text>
+</g>
+</svg>

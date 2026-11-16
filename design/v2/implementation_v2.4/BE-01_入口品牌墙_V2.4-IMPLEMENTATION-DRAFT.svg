@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3600mm" height="2200mm" viewBox="0 0 3600 2200" role="img" aria-label="入口品牌墙 / 入口接待与可见制造文案 / 草案">
+<title>入口品牌墙 / V2.4-IMPLEMENTATION-DRAFT</title>
+<desc>可编辑实施评审草案。名义模板尺寸，不构成现场施工放行。源文件和原始文字在侧车保存；实际位置、数量、方向、安装及批准均未取得。</desc>
+<metadata>{&quot;template_code&quot;: &quot;BE-01&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;variant_id&quot;: &quot;BE-01&quot;, &quot;floor_proposal&quot;: null, &quot;nominal_dimensions_mm&quot;: [3600, 2200], &quot;actual_point_id&quot;: null, &quot;production_release&quot;: false, &quot;source_template&quot;: {&quot;path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-01_入口品牌墙.svg&quot;, &quot;sha256&quot;: &quot;82c82c900e08f5453941d83a76d10ed6964b6e312ef8face32d32865cc4068bd&quot;}}</metadata>
+<g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="0" y="0" width="3600" height="2200" fill="#000000"/>
+<rect x="90" y="100" width="15" height="610" fill="#FF6600"/>
+<text x="160" y="310" font-size="220" fill="#FF6600" font-weight="600" text-anchor="start">BeePump</text>
+<text x="165" y="500" font-size="72" fill="#FFFFFF" font-weight="500" text-anchor="start">MANUFACTURING</text>
+<text x="165" y="710" font-size="148" fill="#FFFFFF" font-weight="600" text-anchor="start">让制造过程看得见</text>
+<text x="165" y="840" font-size="72" fill="#FFFFFF" font-weight="400" text-anchor="start">入口接待 · 现场观察 · 证据核验</text>
+<rect x="90" y="1030" width="1020" height="660" fill="#000000" stroke="#3E3A39" stroke-width="2"/>
+<rect x="90" y="1030" width="12" height="660" fill="#FF6600"/>
+<text x="140" y="1145" font-size="72" fill="#FFFFFF" font-weight="600" text-anchor="start">先接待</text>
+<text x="140" y="1260" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">请先登记来访事项</text>
+<text x="140" y="1360" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">由接待人员确认陪同</text>
+<text x="140" y="1460" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">按获准路线开始参观</text>
+<rect x="1200" y="1030" width="1020" height="660" fill="#000000" stroke="#3E3A39" stroke-width="2"/>
+<rect x="1200" y="1030" width="12" height="660" fill="#FF6600"/>
+<text x="1250" y="1145" font-size="72" fill="#FFFFFF" font-weight="600" text-anchor="start">看现场</text>
+<text x="1250" y="1260" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">在指定观察点停留</text>
+<text x="1250" y="1360" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">不进入运输与作业范围</text>
+<text x="1250" y="1460" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">拍照与接触产品先获许可</text>
+<rect x="2310" y="1030" width="1020" height="660" fill="#000000" stroke="#3E3A39" stroke-width="2"/>
+<rect x="2310" y="1030" width="12" height="660" fill="#FF6600"/>
+<text x="2360" y="1145" font-size="72" fill="#FFFFFF" font-weight="600" text-anchor="start">看证据</text>
+<text x="2360" y="1260" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">展示获准照片或实物</text>
+<text x="2360" y="1360" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">用受控记录说明控制点</text>
+<text x="2360" y="1460" font-size="51" fill="#FFFFFF" font-weight="400" text-anchor="start">客户资料按授权范围公开</text>
+<text x="165" y="1900" font-size="53" fill="#FFFFFF" font-weight="400" text-anchor="start">1F主入口内容提案 / 墙面、观看点和接待位置待现场核对</text>
+<text x="165" y="2020" font-size="43" fill="#FFFFFF" font-weight="400" text-anchor="start">正式Logo待提供；BeePump仅为字标排版示意；无历史或认证承诺</text>
+<text x="165" y="2130" font-size="33" fill="#FFFFFF" font-weight="400" text-anchor="start">BE-01 / V2.4-IMPLEMENTATION-DRAFT / 成品尺寸与安装另经批准</text>
+</g>
+</svg>

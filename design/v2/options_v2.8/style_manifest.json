@@ -1,0 +1,1746 @@
+{
+  "revision": "V2.8-CHOICE-DRAFT",
+  "production_release": false,
+  "floor_scope": "8F design baseline",
+  "styles": [
+    {
+      "id": "A",
+      "label": "原版黑橙",
+      "description": "保留现有版面作为比较基准；黑橙品牌标题、原有表格和更新区。"
+    },
+    {
+      "id": "B",
+      "label": "白底信息优先",
+      "description": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。"
+    },
+    {
+      "id": "C",
+      "label": "固定标签分区",
+      "description": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。"
+    }
+  ],
+  "source_count": 26,
+  "variant_count": 78,
+  "variants": [
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "BE-02",
+      "name": "电梯厅形象墙",
+      "nominal_size_mm": [
+        3600,
+        2200
+      ],
+      "source_sha256": "046ece8f365b87460deff23e54db0735bdf20c439aa2a8f4c7974fd315f5d1fc",
+      "sha256": "4ba7910bbb3e82e804c3a0ece2a75bc0665964c4a27bf119a1d7870a0315445c",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "BE-02",
+      "name": "电梯厅形象墙",
+      "nominal_size_mm": [
+        3600,
+        2200
+      ],
+      "source_sha256": "046ece8f365b87460deff23e54db0735bdf20c439aa2a8f4c7974fd315f5d1fc",
+      "sha256": "62aa50f5b1f9690f86bfdfa47a9916cef7b4c2eb98321e5d863faca4a8f7ab7e",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "BE-02",
+      "name": "电梯厅形象墙",
+      "nominal_size_mm": [
+        3600,
+        2200
+      ],
+      "source_sha256": "046ece8f365b87460deff23e54db0735bdf20c439aa2a8f4c7974fd315f5d1fc",
+      "sha256": "c09e38f46549ef2fddbe0b1f5c6b530993b48a56ae8f0e5283e3db7470388ce6",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-01-8F_楼层导览_V2.4-8F-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/WF-01-8F_楼层导览_V2.4-8F-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "WF-01",
+      "name": "楼层导览",
+      "nominal_size_mm": [
+        900,
+        1500
+      ],
+      "source_sha256": "e2e6efdf5e9cb6fbfecbdd05d07dbfb5272b179bb5d71f2ad74058ec5a460a8a",
+      "sha256": "551d4c2c1e3ee2751e569ad6d4200a05f4c3c7e2d1a70b2a1bf3df46d319be83",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-01-8F_楼层导览_V2.4-8F-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/WF-01-8F_楼层导览_V2.4-8F-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "WF-01",
+      "name": "楼层导览",
+      "nominal_size_mm": [
+        900,
+        1500
+      ],
+      "source_sha256": "e2e6efdf5e9cb6fbfecbdd05d07dbfb5272b179bb5d71f2ad74058ec5a460a8a",
+      "sha256": "627bb623b4b93e405906ab79635e33395dfcea80d553e1bd4a00843848f1a28b",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-01-8F_楼层导览_V2.4-8F-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/WF-01-8F_楼层导览_V2.4-8F-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "WF-01",
+      "name": "楼层导览",
+      "nominal_size_mm": [
+        900,
+        1500
+      ],
+      "source_sha256": "e2e6efdf5e9cb6fbfecbdd05d07dbfb5272b179bb5d71f2ad74058ec5a460a8a",
+      "sha256": "1127a0fc905f4e292b288e0fabfa9734899106610d74bc9da844e53f366ceda6",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/WF-02-8F_区域吊牌_V2.4-8F-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "WF-02",
+      "name": "区域吊牌",
+      "nominal_size_mm": [
+        1200,
+        400
+      ],
+      "source_sha256": "49eda9896ce81a45ce9c8138c8a801acdbd596bf9f5a969e3d0b45487888e0d3",
+      "sha256": "4dfc586762f3c5bcdc55b0550f6db72e807519ae65abe7299e070524adb7f26f",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/WF-02-8F_区域吊牌_V2.4-8F-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "WF-02",
+      "name": "区域吊牌",
+      "nominal_size_mm": [
+        1200,
+        400
+      ],
+      "source_sha256": "49eda9896ce81a45ce9c8138c8a801acdbd596bf9f5a969e3d0b45487888e0d3",
+      "sha256": "3f3c3a03a3006bfbee73c52c1e99b0a10d2eb5ad40c2fc954926f966090c7a29",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/WF-02-8F_区域吊牌_V2.4-8F-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "WF-02",
+      "name": "区域吊牌",
+      "nominal_size_mm": [
+        1200,
+        400
+      ],
+      "source_sha256": "49eda9896ce81a45ce9c8138c8a801acdbd596bf9f5a969e3d0b45487888e0d3",
+      "sha256": "a0fab47fa3bc4af44c5e495e3ea53bfc3fa05dcf5ca252f5c4605382441537c8",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "WF-04",
+      "name": "柱牌",
+      "nominal_size_mm": [
+        360,
+        1100
+      ],
+      "source_sha256": "9bf7066d84d687d75c67c46aba8ed5313d46b83947ba7150538422521529bcb4",
+      "sha256": "7161cc6c842f40a3d87e87b298e9e48319014952c922dd5f9b7dad0733742530",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "WF-04",
+      "name": "柱牌",
+      "nominal_size_mm": [
+        360,
+        1100
+      ],
+      "source_sha256": "9bf7066d84d687d75c67c46aba8ed5313d46b83947ba7150538422521529bcb4",
+      "sha256": "2b0b1c331e6771564d2e9cc4f8a6b2864319c6e7b48f065370fdb683b4475f84",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "WF-04",
+      "name": "柱牌",
+      "nominal_size_mm": [
+        360,
+        1100
+      ],
+      "source_sha256": "9bf7066d84d687d75c67c46aba8ed5313d46b83947ba7150538422521529bcb4",
+      "sha256": "6d2c54b47f57f331e4d2280f06dedd2c81c97eb9157a2f34c90fb897019e0c48",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "PM-01",
+      "name": "生产运行看板",
+      "nominal_size_mm": [
+        2400,
+        1200
+      ],
+      "source_sha256": "14d9c7e931b35e349d4b9f437bb88e1b938787328f8f09ea138ff0997d63af20",
+      "sha256": "81320107af01ceebe93ab3c8549bcd2934d0312b986c1edb580089f826be6b18",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "PM-01",
+      "name": "生产运行看板",
+      "nominal_size_mm": [
+        2400,
+        1200
+      ],
+      "source_sha256": "14d9c7e931b35e349d4b9f437bb88e1b938787328f8f09ea138ff0997d63af20",
+      "sha256": "02e6de6d861f7ff05b15ee55b44408404d07ae5f4239c85f50b3262924f7afd1",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "PM-01",
+      "name": "生产运行看板",
+      "nominal_size_mm": [
+        2400,
+        1200
+      ],
+      "source_sha256": "14d9c7e931b35e349d4b9f437bb88e1b938787328f8f09ea138ff0997d63af20",
+      "sha256": "f5932743270ba32bcf0da1d0d136e56cbcfb4612987549766a2e04f84456288a",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "PM-02",
+      "name": "SQDCP班组看板",
+      "nominal_size_mm": [
+        2400,
+        1200
+      ],
+      "source_sha256": "d006d15568f5d204ad30affe475381cf7a187c36f9e163581608654fe1974085",
+      "sha256": "f1293d8aaf86a0ff671c4cb88c8052d35aa60b1ff396a6a511984052838b407d",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "PM-02",
+      "name": "SQDCP班组看板",
+      "nominal_size_mm": [
+        2400,
+        1200
+      ],
+      "source_sha256": "d006d15568f5d204ad30affe475381cf7a187c36f9e163581608654fe1974085",
+      "sha256": "240a9f065d9a2e9916497831ffb0e95d43d04c7ef5efc007dbea60b9f7d6000c",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "PM-02",
+      "name": "SQDCP班组看板",
+      "nominal_size_mm": [
+        2400,
+        1200
+      ],
+      "source_sha256": "d006d15568f5d204ad30affe475381cf7a187c36f9e163581608654fe1974085",
+      "sha256": "92d86d5c377f554e99f87c32330ba852ef4f73bba900e404abf1620779c17ef1",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "WH-01",
+      "name": "库位标签",
+      "nominal_size_mm": [
+        200,
+        100
+      ],
+      "source_sha256": "6d70f8d6d5f296f96954104d460f45cecc83d611f4b2f92b2fc63224c1e32e76",
+      "sha256": "657869ee16b7f672ccbf929bd5e23f3e16c92f7f9c329718d17ee22621af1a96",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "WH-01",
+      "name": "库位标签",
+      "nominal_size_mm": [
+        200,
+        100
+      ],
+      "source_sha256": "6d70f8d6d5f296f96954104d460f45cecc83d611f4b2f92b2fc63224c1e32e76",
+      "sha256": "d6a40987e7db044dc7aa8454bc433741dcea8d4ab38c0860e4bae4897a58b19f",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "WH-01",
+      "name": "库位标签",
+      "nominal_size_mm": [
+        200,
+        100
+      ],
+      "source_sha256": "6d70f8d6d5f296f96954104d460f45cecc83d611f4b2f92b2fc63224c1e32e76",
+      "sha256": "694d597a36ee234af9abd8c11f0183579d9e0fdde72beb6eb619735e61d144e6",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "FL-01",
+      "name": "WIP限量牌",
+      "nominal_size_mm": [
+        600,
+        450
+      ],
+      "source_sha256": "51dd19de8fd65fa6bbd14c43fb2a3b3a95b85c85ad2470389dfa642c04cf6004",
+      "sha256": "f7ecfa72f7fa802e8481ad205cc81d2e3bafef6e559ba424dc1edee75f6ef0c3",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "FL-01",
+      "name": "WIP限量牌",
+      "nominal_size_mm": [
+        600,
+        450
+      ],
+      "source_sha256": "51dd19de8fd65fa6bbd14c43fb2a3b3a95b85c85ad2470389dfa642c04cf6004",
+      "sha256": "344b41dea5c455a0459a47aa5b7e8cb2276d395e8f55c7b15d05018ec42a4879",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "FL-01",
+      "name": "WIP限量牌",
+      "nominal_size_mm": [
+        600,
+        450
+      ],
+      "source_sha256": "51dd19de8fd65fa6bbd14c43fb2a3b3a95b85c85ad2470389dfa642c04cf6004",
+      "sha256": "1d0b7a22e77945842e067e0aa606bd65305f92de2d6adeb1ae907e043d3fd9c7",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "FL-02",
+      "name": "FIFO车位逻辑图",
+      "nominal_size_mm": [
+        1200,
+        550
+      ],
+      "source_sha256": "a83c588702181d7221f6490417a711f39a50fe3916faa088e6a669b0fca820fa",
+      "sha256": "e90f8a74ce2020b92badbd6575ba2311da3a71a85dc98e4de204d1e36ca0d995",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "FL-02",
+      "name": "FIFO车位逻辑图",
+      "nominal_size_mm": [
+        1200,
+        550
+      ],
+      "source_sha256": "a83c588702181d7221f6490417a711f39a50fe3916faa088e6a669b0fca820fa",
+      "sha256": "d6832d0a43a8a0f1107df3d8f30aca800996dadc403a655d15f2204edb8ea2cc",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "FL-02",
+      "name": "FIFO车位逻辑图",
+      "nominal_size_mm": [
+        1200,
+        550
+      ],
+      "source_sha256": "a83c588702181d7221f6490417a711f39a50fe3916faa088e6a669b0fca820fa",
+      "sha256": "71544be0ee629a360bd8e3264aeaa7d7aaa3ce1876546330e86eb865cdcc24de",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "SW-01",
+      "name": "SOP作业框架",
+      "nominal_size_mm": [
+        420,
+        297
+      ],
+      "source_sha256": "abdf0d0528b96f12091f8486f0ee9bbee210cf1c64fb91e7a0953ef90df14484",
+      "sha256": "72be0616d10ab6e2dc84ce36a54534de6aa4bcc9390c1a94ff17879458c928af",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "SW-01",
+      "name": "SOP作业框架",
+      "nominal_size_mm": [
+        420,
+        297
+      ],
+      "source_sha256": "abdf0d0528b96f12091f8486f0ee9bbee210cf1c64fb91e7a0953ef90df14484",
+      "sha256": "7ee3f31111487c40d7e96c4e0f1bb7244235533a97b4e29625825e100ab77c93",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "SW-01",
+      "name": "SOP作业框架",
+      "nominal_size_mm": [
+        420,
+        297
+      ],
+      "source_sha256": "abdf0d0528b96f12091f8486f0ee9bbee210cf1c64fb91e7a0953ef90df14484",
+      "sha256": "6b1723e6ee6a544752c1c617b545282aef0d7416e5a9502ac745d5cf8aeb6f47",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "EQ-01",
+      "name": "设备身份牌",
+      "nominal_size_mm": [
+        300,
+        200
+      ],
+      "source_sha256": "ef1d9d5f4571a92318c10fd581d56366f8a77b94e35d2dd03d026835b3e12b49",
+      "sha256": "527280e8958961e56304b8dd42e437ec4e15510a214eaf395f6bec0c06e8a8b1",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "EQ-01",
+      "name": "设备身份牌",
+      "nominal_size_mm": [
+        300,
+        200
+      ],
+      "source_sha256": "ef1d9d5f4571a92318c10fd581d56366f8a77b94e35d2dd03d026835b3e12b49",
+      "sha256": "0d9d941905b54d697e1ecf6071f713bdde63d249fd5fae3d4160b869fd0c19f1",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "EQ-01",
+      "name": "设备身份牌",
+      "nominal_size_mm": [
+        300,
+        200
+      ],
+      "source_sha256": "ef1d9d5f4571a92318c10fd581d56366f8a77b94e35d2dd03d026835b3e12b49",
+      "sha256": "3cb85cf1d336b29fdf15842380e217385a8d4ec1f313d2861c9de0fc535e2810",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "EQ-03",
+      "name": "设备状态卡",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "9fb5303d64fff26e52e25f80aafc44cb71053c3880b5f6eb2cc26852f909b55c",
+      "sha256": "51155e5cd41c29ed4b6cf96acdd233a30dc99f8a5a192c0fe6a53f74b2dd3b29",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "EQ-03",
+      "name": "设备状态卡",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "9fb5303d64fff26e52e25f80aafc44cb71053c3880b5f6eb2cc26852f909b55c",
+      "sha256": "138fd319df88e3610ccfc608150b7eba4c70fa70d52b1c1b5d0269f9be2fbe23",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "EQ-03",
+      "name": "设备状态卡",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "9fb5303d64fff26e52e25f80aafc44cb71053c3880b5f6eb2cc26852f909b55c",
+      "sha256": "4b9616a81f61a8ebcda5c70503f39ae4e5f33f0964d9d76debb704e451d2f04b",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-01_状态卡_PENDING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/QC-01_状态卡_PENDING_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "QC-01",
+      "name": "状态卡_PENDING",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "a6dd9730491c69f410f5a50df773b62d931aff224667872e3510b3ebe8bd895e",
+      "sha256": "82a4d0eb923a8b437f30a2606a10bc218144cd4e58b1c7b45f379c9315ed8f4c",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-01_状态卡_PENDING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/QC-01_状态卡_PENDING_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "QC-01",
+      "name": "状态卡_PENDING",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "a6dd9730491c69f410f5a50df773b62d931aff224667872e3510b3ebe8bd895e",
+      "sha256": "0c5ce79fdd85a2f3652778d4746ff1df2f270e5e6e0ee80cab042f45e30a2399",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-01_状态卡_PENDING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/QC-01_状态卡_PENDING_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "QC-01",
+      "name": "状态卡_PENDING",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "a6dd9730491c69f410f5a50df773b62d931aff224667872e3510b3ebe8bd895e",
+      "sha256": "7d5fb8493d75494eebe292c6cfba8f539d03bc2c91dcb68b6e79cb81cffc4fbe",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-02_状态卡_RELEASED_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/QC-02_状态卡_RELEASED_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "QC-02",
+      "name": "状态卡_RELEASED",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "cb462119d7760f52489b603122ddaeeab5bca2491e457f5ecf9f8469e610f07f",
+      "sha256": "0823ff96b5ab57e14aa24b16ded9a21d8c54bb9f665cd0f8ba83845be49df369",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-02_状态卡_RELEASED_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/QC-02_状态卡_RELEASED_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "QC-02",
+      "name": "状态卡_RELEASED",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "cb462119d7760f52489b603122ddaeeab5bca2491e457f5ecf9f8469e610f07f",
+      "sha256": "f69d667408fc9340fe1e07abd5563e2371c6ff9344c486be1e01e6b31916200e",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-02_状态卡_RELEASED_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/QC-02_状态卡_RELEASED_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "QC-02",
+      "name": "状态卡_RELEASED",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "cb462119d7760f52489b603122ddaeeab5bca2491e457f5ecf9f8469e610f07f",
+      "sha256": "5056cc9cd0de16e8d7fa3ff25f666472b897b13574d2e804d16869bac08570b6",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "QC-03",
+      "name": "状态卡_NONCONFORMING",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "2b25fd0b9e6c3ce279d3732ca00398898e41fb159e192f722f613e236ed608d8",
+      "sha256": "21fc1d2a16ff826204a2f6a13060114e2f02a234d5a5279df5ee2ebeb92cbcf8",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "QC-03",
+      "name": "状态卡_NONCONFORMING",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "2b25fd0b9e6c3ce279d3732ca00398898e41fb159e192f722f613e236ed608d8",
+      "sha256": "a70a36122b5ae184125f9264a1a546732e1061d61a0e02a4c1aee54f4fb499fa",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "QC-03",
+      "name": "状态卡_NONCONFORMING",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "2b25fd0b9e6c3ce279d3732ca00398898e41fb159e192f722f613e236ed608d8",
+      "sha256": "7cfc5212c3c35cb1da132f6b750ed6f1f48fd4918b3fc5089d1cd4b5ace0485f",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-04_状态卡_HOLD_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/QC-04_状态卡_HOLD_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "QC-04",
+      "name": "状态卡_HOLD",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "5a7b9010ffbb3da51f045612fc41265d925b3f8badda32e23b4e07984791c125",
+      "sha256": "ddd52cdda5eeab93bd0e279bf13f0561fb28a2b23d8c3bb213fed5a46f2a6296",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-04_状态卡_HOLD_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/QC-04_状态卡_HOLD_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "QC-04",
+      "name": "状态卡_HOLD",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "5a7b9010ffbb3da51f045612fc41265d925b3f8badda32e23b4e07984791c125",
+      "sha256": "1e9d8e0a08ddf26c8853cabf9ddb1788d7f168644deda99e503e1233cf502e1e",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-04_状态卡_HOLD_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/QC-04_状态卡_HOLD_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "QC-04",
+      "name": "状态卡_HOLD",
+      "nominal_size_mm": [
+        100,
+        70
+      ],
+      "source_sha256": "5a7b9010ffbb3da51f045612fc41265d925b3f8badda32e23b4e07984791c125",
+      "sha256": "44a6b604dd492e25aa7c19c271b2377a347753101ae629a36d63e10946221185",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "BT-02",
+      "name": "老化格位卡",
+      "nominal_size_mm": [
+        210,
+        148
+      ],
+      "source_sha256": "eccb076bc5475946be21a9f6497703436c4abf129d7602ab4833c2eacf85bfe0",
+      "sha256": "915ac55df9e10d23ba12689bd5236e36d9aa8f4b0cfa3a9f9515fcac140a1daa",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "BT-02",
+      "name": "老化格位卡",
+      "nominal_size_mm": [
+        210,
+        148
+      ],
+      "source_sha256": "eccb076bc5475946be21a9f6497703436c4abf129d7602ab4833c2eacf85bfe0",
+      "sha256": "53dfcf18dd8bfc99a79427d867e7bb95504d9a6a2076ea43d112c27ae8c7eee7",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "BT-02",
+      "name": "老化格位卡",
+      "nominal_size_mm": [
+        210,
+        148
+      ],
+      "source_sha256": "eccb076bc5475946be21a9f6497703436c4abf129d7602ab4833c2eacf85bfe0",
+      "sha256": "d84f7107abc3c5f9ecdb96f1841d71a5ca637aaee83850e2ac16bcac8f9a27a0",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "SW-02",
+      "name": "换型包装核对板",
+      "nominal_size_mm": [
+        420,
+        297
+      ],
+      "source_sha256": "ea7f90f10b37eb3cea999a156b453647c7067f50da563ff8812367dd0ed4c5ed",
+      "sha256": "daee48a4451e1e934c0c71e1c5d18895c1fd90499d5f321dafc760fece07de69",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "SW-02",
+      "name": "换型包装核对板",
+      "nominal_size_mm": [
+        420,
+        297
+      ],
+      "source_sha256": "ea7f90f10b37eb3cea999a156b453647c7067f50da563ff8812367dd0ed4c5ed",
+      "sha256": "3f679178889d820574bdf0a74a325f2cfa832d8ab19b4372b8d1f32bf358107a",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "SW-02",
+      "name": "换型包装核对板",
+      "nominal_size_mm": [
+        420,
+        297
+      ],
+      "source_sha256": "ea7f90f10b37eb3cea999a156b453647c7067f50da563ff8812367dd0ed4c5ed",
+      "sha256": "49b7afa62469b2e56b7c7080b404cdbe81ae27bd7c9761b7b91aaad13ac9da78",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-03_工序流转卡_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/WH-03_工序流转卡_V2.3-FLOW-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "WH-03",
+      "name": "工序流转卡",
+      "nominal_size_mm": [
+        210,
+        148
+      ],
+      "source_sha256": "4d50bdd3773c28a7db3d8583d2a4ecf9bc52624a89eed7867e7291839d49320b",
+      "sha256": "f49b1ecf896d861d27f794f947ef36f8e1e45db3a4c475bc48fa3200fa33e1eb",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-03_工序流转卡_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/WH-03_工序流转卡_V2.3-FLOW-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "WH-03",
+      "name": "工序流转卡",
+      "nominal_size_mm": [
+        210,
+        148
+      ],
+      "source_sha256": "4d50bdd3773c28a7db3d8583d2a4ecf9bc52624a89eed7867e7291839d49320b",
+      "sha256": "beb9efc77abc9f5506f554012ec25990f44da327eec58dd8632f9ebeda58a5b8",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-03_工序流转卡_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/WH-03_工序流转卡_V2.3-FLOW-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "WH-03",
+      "name": "工序流转卡",
+      "nominal_size_mm": [
+        210,
+        148
+      ],
+      "source_sha256": "4d50bdd3773c28a7db3d8583d2a4ecf9bc52624a89eed7867e7291839d49320b",
+      "sha256": "8bc8aa86ccef47afe77a9f366180247987d930fab3d6b5eb5963543c4ed57d4f",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "WH-05",
+      "name": "跨楼层交接牌",
+      "nominal_size_mm": [
+        900,
+        600
+      ],
+      "source_sha256": "3b6fe38cb56b63a6f24ae6dda45e34ce3be72042e53003fd55dcf8a4f9d80d78",
+      "sha256": "8d371a3d16a1548e73aeb2669f7acacc1937d311165b05a077284c03377d8c77",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "WH-05",
+      "name": "跨楼层交接牌",
+      "nominal_size_mm": [
+        900,
+        600
+      ],
+      "source_sha256": "3b6fe38cb56b63a6f24ae6dda45e34ce3be72042e53003fd55dcf8a4f9d80d78",
+      "sha256": "27ef7a00f8ee9e390c53ac0c39ae3f1a65ba6efe41057fb9950af0ebf0b45828",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "WH-05",
+      "name": "跨楼层交接牌",
+      "nominal_size_mm": [
+        900,
+        600
+      ],
+      "source_sha256": "3b6fe38cb56b63a6f24ae6dda45e34ce3be72042e53003fd55dcf8a4f9d80d78",
+      "sha256": "1ec46159884f328e7539f4dad2acfb0f67871881f55e0633955e29bd4164fcdc",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/VT-01_客户参观节点_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/VT-01_客户参观节点_V2.3-FLOW-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "VT-01",
+      "name": "客户参观节点",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "21954db07166f6dfa587821171b4f44cbc7a18c73fc1d948e49f61c9c587a2b2",
+      "sha256": "f09ed84554c3152b5812cc3fe8536eff842ad4b6a0038831fb7918f16fecfabd",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/VT-01_客户参观节点_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/VT-01_客户参观节点_V2.3-FLOW-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "VT-01",
+      "name": "客户参观节点",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "21954db07166f6dfa587821171b4f44cbc7a18c73fc1d948e49f61c9c587a2b2",
+      "sha256": "fa8fc1e353bc6c0cbb2f942ee93a5196184f85d3252b7c0372ee94b6949147d0",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/VT-01_客户参观节点_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/VT-01_客户参观节点_V2.3-FLOW-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "VT-01",
+      "name": "客户参观节点",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "21954db07166f6dfa587821171b4f44cbc7a18c73fc1d948e49f61c9c587a2b2",
+      "sha256": "8b202802f412fd8c37c6df7c6d9575b38979dc5204a4887b883937117001035f",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-03_分岔导向牌_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/WF-03_分岔导向牌_V2.3-FLOW-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "WF-03",
+      "name": "分岔导向牌",
+      "nominal_size_mm": [
+        1200,
+        350
+      ],
+      "source_sha256": "50994db3e8085c7d85ed7639fe25ae7f2bb6053f4b87df6b219e0742a4c5cab2",
+      "sha256": "a8612640c4e8947371896d14c6ac7fb070f69e3894e9e68891ee3a2167f3bd91",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-03_分岔导向牌_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/WF-03_分岔导向牌_V2.3-FLOW-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "WF-03",
+      "name": "分岔导向牌",
+      "nominal_size_mm": [
+        1200,
+        350
+      ],
+      "source_sha256": "50994db3e8085c7d85ed7639fe25ae7f2bb6053f4b87df6b219e0742a4c5cab2",
+      "sha256": "30c46f4de8681c477591b444f2fd1544a5532b729d2357250ca8f87aa61b9eda",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-03_分岔导向牌_V2.3-FLOW-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/WF-03_分岔导向牌_V2.3-FLOW-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "WF-03",
+      "name": "分岔导向牌",
+      "nominal_size_mm": [
+        1200,
+        350
+      ],
+      "source_sha256": "50994db3e8085c7d85ed7639fe25ae7f2bb6053f4b87df6b219e0742a4c5cab2",
+      "sha256": "affe70684ba1b63ff5a581fc20bc8edf587328d9d4d90b776e1a38f568e9c10c",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/ES-01_电子装配进入确认_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/ES-01_电子装配进入确认_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "ES-01",
+      "name": "电子装配进入确认",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "5dee31a80f6a42855f19c64d344ddca47bab47a11e759fb033ecd8d1e810023e",
+      "sha256": "efdb819c0588ff1ead90f944dea8ebc8585ee544021d53c5e0202e2037cf5cdd",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/ES-01_电子装配进入确认_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/ES-01_电子装配进入确认_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "ES-01",
+      "name": "电子装配进入确认",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "5dee31a80f6a42855f19c64d344ddca47bab47a11e759fb033ecd8d1e810023e",
+      "sha256": "f20e5f7f67ed10994a1ff5424c50e2da68b70e3b3b58799d53cf420bbdc8b0c4",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/ES-01_电子装配进入确认_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/ES-01_电子装配进入确认_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "ES-01",
+      "name": "电子装配进入确认",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "5dee31a80f6a42855f19c64d344ddca47bab47a11e759fb033ecd8d1e810023e",
+      "sha256": "3398eb3982b4133bc4df06998a66ddabc3adefe87d5947210823d70dbe60e1dd",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-01_电池暂存信息牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/BT-01_电池暂存信息牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "BT-01",
+      "name": "电池暂存信息牌",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "afd93b73f5564708f7aa204cae8f5e5d03d4c696be6f990674d965b1b04ea190",
+      "sha256": "c4d05e3f54d29b3c237c054a137f9dbe606e1a21b9f02168778f728e092c7522",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-01_电池暂存信息牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/BT-01_电池暂存信息牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "BT-01",
+      "name": "电池暂存信息牌",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "afd93b73f5564708f7aa204cae8f5e5d03d4c696be6f990674d965b1b04ea190",
+      "sha256": "be71a183fce66eb73bf0d9524821e538ec5dd8de073641c266de8b634e8ccdb6",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-01_电池暂存信息牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/BT-01_电池暂存信息牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "BT-01",
+      "name": "电池暂存信息牌",
+      "nominal_size_mm": [
+        594,
+        841
+      ],
+      "source_sha256": "afd93b73f5564708f7aa204cae8f5e5d03d4c696be6f990674d965b1b04ea190",
+      "sha256": "c34dec1d656367df8a37c98a6224be05e98982079549fdc9e8de7e73182b2b9e",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "QC-05",
+      "name": "样件验证队列",
+      "nominal_size_mm": [
+        1200,
+        900
+      ],
+      "source_sha256": "5e2e65785dfdf04a49f5e0b04e1134ac867645e24470324a750322d13d3e9cdb",
+      "sha256": "f7527c1673ab59f17438972413e7a814b938b2a793e99f112339c71976af024a",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "QC-05",
+      "name": "样件验证队列",
+      "nominal_size_mm": [
+        1200,
+        900
+      ],
+      "source_sha256": "5e2e65785dfdf04a49f5e0b04e1134ac867645e24470324a750322d13d3e9cdb",
+      "sha256": "4708650baef68cd700a11a972cb97dfddd92da15f29770d1dce52ad8cd10665e",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "QC-05",
+      "name": "样件验证队列",
+      "nominal_size_mm": [
+        1200,
+        900
+      ],
+      "source_sha256": "5e2e65785dfdf04a49f5e0b04e1134ac867645e24470324a750322d13d3e9cdb",
+      "sha256": "2e7b602ebe6943478aa726b56f712b4d9610c9fca037842ac960663119d245f8",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "A",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/A/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-A_V2.8-DRAFT.svg",
+      "code": "EQ-02",
+      "name": "工装量具牌",
+      "nominal_size_mm": [
+        160,
+        100
+      ],
+      "source_sha256": "ae13c3daf39801ef2b14d63321853a85b6cf0bad458721b96387f40eff94e9db",
+      "sha256": "412b290e60a9ba96f4baa28358e977957b13cf56180b86d5781f936916e3a61f",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "B",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/B/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-B_V2.8-DRAFT.svg",
+      "code": "EQ-02",
+      "name": "工装量具牌",
+      "nominal_size_mm": [
+        160,
+        100
+      ],
+      "source_sha256": "ae13c3daf39801ef2b14d63321853a85b6cf0bad458721b96387f40eff94e9db",
+      "sha256": "7d4442b42a14d453674aabf56ce2aa04f6186c590aa58f1d4aa501be6b74691d",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    },
+    {
+      "style_id": "C",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "path": "design/v2/options_v2.8/styles/C/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT_STYLE-C_V2.8-DRAFT.svg",
+      "code": "EQ-02",
+      "name": "工装量具牌",
+      "nominal_size_mm": [
+        160,
+        100
+      ],
+      "source_sha256": "ae13c3daf39801ef2b14d63321853a85b6cf0bad458721b96387f40eff94e9db",
+      "sha256": "4ad8a465234f46cbcd75dd1a0a5b67af6e5e8baad4b0024a585e5e489771307e",
+      "text_preserved": true,
+      "text_geometry_preserved": true,
+      "quality_header_preserved": true,
+      "production_release": false
+    }
+  ],
+  "audit": [
+    {
+      "code": "BE-02",
+      "name": "电梯厅形象墙",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BE-02_电梯厅形象墙_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "046ece8f365b87460deff23e54db0735bdf20c439aa2a8f4c7974fd315f5d1fc",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D01.png",
+        "reports/options_v2.8/source_render/BE-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "WF-01",
+      "name": "楼层导览",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-01-8F_楼层导览_V2.4-8F-DRAFT.svg",
+      "source_sha256": "e2e6efdf5e9cb6fbfecbdd05d07dbfb5272b179bb5d71f2ad74058ec5a460a8a",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D01.png",
+        "reports/options_v2.8/source_render/WF-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "WF-02",
+      "name": "区域吊牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-02-8F_区域吊牌_V2.4-8F-DRAFT.svg",
+      "source_sha256": "49eda9896ce81a45ce9c8138c8a801acdbd596bf9f5a969e3d0b45487888e0d3",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D02.png",
+        "reports/options_v2.8/source_render/WF-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "WF-04",
+      "name": "柱牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "source_sha256": "9bf7066d84d687d75c67c46aba8ed5313d46b83947ba7150538422521529bcb4",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D03.png",
+        "reports/options_v2.8/source_render/WF-04.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "PM-01",
+      "name": "生产运行看板",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-01_生产运行看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "source_sha256": "14d9c7e931b35e349d4b9f437bb88e1b938787328f8f09ea138ff0997d63af20",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D04.png",
+        "reports/options_v2.8/source_render/PM-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "PM-02",
+      "name": "SQDCP班组看板",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/PM-02_SQDCP班组看板_V2.4-8F-SPLIT-DRAFT.svg",
+      "source_sha256": "d006d15568f5d204ad30affe475381cf7a187c36f9e163581608654fe1974085",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D05.png",
+        "reports/options_v2.8/source_render/PM-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "WH-01",
+      "name": "库位标签",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-01_库位标签_V2.4-8F-SPLIT-DRAFT.svg",
+      "source_sha256": "6d70f8d6d5f296f96954104d460f45cecc83d611f4b2f92b2fc63224c1e32e76",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D06.png",
+        "reports/options_v2.8/source_render/WH-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "FL-01",
+      "name": "WIP限量牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-01_WIP限量牌_V2.4-8F-SPLIT-DRAFT.svg",
+      "source_sha256": "51dd19de8fd65fa6bbd14c43fb2a3b3a95b85c85ad2470389dfa642c04cf6004",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D07.png",
+        "reports/options_v2.8/source_render/FL-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "FL-02",
+      "name": "FIFO车位逻辑图",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/FL-02_FIFO车位逻辑图_V2.3-FLOW-DRAFT.svg",
+      "source_sha256": "a83c588702181d7221f6490417a711f39a50fe3916faa088e6a669b0fca820fa",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D07.png",
+        "reports/options_v2.8/source_render/FL-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "SW-01",
+      "name": "SOP作业框架",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-01_SOP作业框架_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "abdf0d0528b96f12091f8486f0ee9bbee210cf1c64fb91e7a0953ef90df14484",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D08.png",
+        "reports/options_v2.8/source_render/SW-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "EQ-01",
+      "name": "设备身份牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-01_设备身份牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "ef1d9d5f4571a92318c10fd581d56366f8a77b94e35d2dd03d026835b3e12b49",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D09.png",
+        "reports/options_v2.8/source_render/EQ-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "EQ-03",
+      "name": "设备状态卡",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-03_设备状态卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "9fb5303d64fff26e52e25f80aafc44cb71053c3880b5f6eb2cc26852f909b55c",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D09.png",
+        "reports/options_v2.8/source_render/EQ-03.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "QC-01",
+      "name": "状态卡_PENDING",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-01_状态卡_PENDING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "a6dd9730491c69f410f5a50df773b62d931aff224667872e3510b3ebe8bd895e",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D10.png",
+        "reports/options_v2.8/source_render/QC-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "QC-02",
+      "name": "状态卡_RELEASED",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-02_状态卡_RELEASED_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "cb462119d7760f52489b603122ddaeeab5bca2491e457f5ecf9f8469e610f07f",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D10.png",
+        "reports/options_v2.8/source_render/QC-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "QC-03",
+      "name": "状态卡_NONCONFORMING",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-03_状态卡_NONCONFORMING_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "2b25fd0b9e6c3ce279d3732ca00398898e41fb159e192f722f613e236ed608d8",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D10.png",
+        "reports/options_v2.8/source_render/QC-03.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "QC-04",
+      "name": "状态卡_HOLD",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-04_状态卡_HOLD_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "5a7b9010ffbb3da51f045612fc41265d925b3f8badda32e23b4e07984791c125",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D10.png",
+        "reports/options_v2.8/source_render/QC-04.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "BT-02",
+      "name": "老化格位卡",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "eccb076bc5475946be21a9f6497703436c4abf129d7602ab4833c2eacf85bfe0",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D11.png",
+        "reports/options_v2.8/source_render/BT-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "SW-02",
+      "name": "换型包装核对板",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/SW-02_换型包装核对板_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "ea7f90f10b37eb3cea999a156b453647c7067f50da563ff8812367dd0ed4c5ed",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D12.png",
+        "reports/options_v2.8/source_render/SW-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "WH-03",
+      "name": "工序流转卡",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-03_工序流转卡_V2.3-FLOW-DRAFT.svg",
+      "source_sha256": "4d50bdd3773c28a7db3d8583d2a4ecf9bc52624a89eed7867e7291839d49320b",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D13.png",
+        "reports/options_v2.8/source_render/WH-03.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "WH-05",
+      "name": "跨楼层交接牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WH-05_跨楼层交接牌_V2.3-FLOW-DRAFT.svg",
+      "source_sha256": "3b6fe38cb56b63a6f24ae6dda45e34ce3be72042e53003fd55dcf8a4f9d80d78",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D13.png",
+        "reports/options_v2.8/source_render/WH-05.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "VT-01",
+      "name": "客户参观节点",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/VT-01_客户参观节点_V2.3-FLOW-DRAFT.svg",
+      "source_sha256": "21954db07166f6dfa587821171b4f44cbc7a18c73fc1d948e49f61c9c587a2b2",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D15.png",
+        "reports/options_v2.8/source_render/VT-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "WF-03",
+      "name": "分岔导向牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/WF-03_分岔导向牌_V2.3-FLOW-DRAFT.svg",
+      "source_sha256": "50994db3e8085c7d85ed7639fe25ae7f2bb6053f4b87df6b219e0742a4c5cab2",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D16.png",
+        "reports/options_v2.8/source_render/WF-03.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "ES-01",
+      "name": "电子装配进入确认",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/ES-01_电子装配进入确认_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "5dee31a80f6a42855f19c64d344ddca47bab47a11e759fb033ecd8d1e810023e",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D17.png",
+        "reports/options_v2.8/source_render/ES-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "BT-01",
+      "name": "电池暂存信息牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-01_电池暂存信息牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "afd93b73f5564708f7aa204cae8f5e5d03d4c696be6f990674d965b1b04ea190",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D18.png",
+        "reports/options_v2.8/source_render/BT-01.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "QC-05",
+      "name": "样件验证队列",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "5e2e65785dfdf04a49f5e0b04e1134ac867645e24470324a750322d13d3e9cdb",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D20.png",
+        "reports/options_v2.8/source_render/QC-05.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    },
+    {
+      "code": "EQ-02",
+      "name": "工装量具牌",
+      "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/EQ-02_工装量具牌_V2.4-IMPLEMENTATION-DRAFT.svg",
+      "source_sha256": "ae13c3daf39801ef2b14d63321853a85b6cf0bad458721b96387f40eff94e9db",
+      "review": "Preserve source / Refine visual grouping",
+      "preserve": "全部源文字、字段、文字坐标、字号、名义整版宽高、模板代码、品质状态与动作",
+      "refine_B": "品牌标题白底黑字与橙细线，表格开放分隔；品质状态标题带冻结。",
+      "refine_C": "固定标签与填写区分开，使用黑底索引、步骤标题和白底更新格；品质状态标题带冻结。",
+      "source_render_evidence": [
+        "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项详图/D21.png",
+        "reports/options_v2.8/source_render/EQ-02.png"
+      ],
+      "required_follow_up": "逐份渲染对比；现场字高、固定面、实际尺寸、数量和安装仍需联合复核"
+    }
+  ],
+  "render_validation": "Pending main review renderer; XML/text/dimensions/quality contracts passed.",
+  "source_index": "交付_8楼/逐项样式尺寸_参观预览_V2.6/逐项样式与尺寸清单.csv"
+}

@@ -1,0 +1,47 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.env
+.env.*
+!example.env
+.codex-log/
+node_modules/
+# 默认保护厂房图纸与客户资料：远程同步前必须获明确批准。
+inputs/
+outputs/drawings/
+*.[dD][wW][gG]
+*.[dD][xX][fF]
+*.[zZ][iI][pP]
+*.ttf
+*.otf
+*.ttc
+*.woff
+*.woff2
+*.shx
+/source_archives/
+
+# 楼层交付包、带底图的评审件及渲染证据依赖本机资料。
+/交付_1楼/
+/交付_8楼/
+/output/
+/outputs/*
+!/outputs/planning/
+!/outputs/quantities/
+/reports/*
+!/reports/cad_intake.json
+/review/
+/*.html
+/design/v2/8f_reference_supplement_v3.2/
+/design/v2/entry_v2.7/
+/design/v2/ground_logistics_v*/
+/design/v2/options_v2.8/contexts/
+/design/v2/options_v2.8/placement_options.json
+
+# 本地保存生成的高分辨率概念图；仓库保留设计源稿和版本记录。
+/design/v2/effect_previews_2026-10-26/*.png
+/design/v2/point_effects_2026-10-26/*.png
+
+# 本地生成的预览含原始输入的副本。
+preview/data.js
+preview/single_file_review.html

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "code": "FM-01",
+  "name": "地面定置图例",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "created_date": "2026-10-07",
+  "drawing_status": "template_only",
+  "approval_status": "not_for_production",
+  "production_release": false,
+  "source_path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/FM-01_地面定置图例.svg",
+  "source_sha256": "a2447c9e81077acf9b084583a6b5af8d45a65d1eb22fe2535eab042b90dba8c7",
+  "original_text_preserved_in_metadata": [
+    "地面定置：企业管理提案",
+    "FLOOR MANAGEMENT / NOT A SAFETY STANDARD",
+    "FM-01",
+    "通道边界",
+    "移动物定位",
+    "固定设备定位",
+    "待检区",
+    "合格放行区",
+    "不合格隔离区",
+    "线宽由批准图确定；通道净宽、疏散和防护设施另经专业复核；本项目品牌橙不上地面"
+  ],
+  "physical_size_mm": [
+    1200,
+    780
+  ],
+  "physical_size_source": "V1 nominal suggested template size; not an installation measurement",
+  "font_sizes_are_nominal_em_mm": true,
+  "printed_font_and_installation_height": "not verified; 1:1 print sample and site approval required",
+  "decision": "Refine",
+  "change_reasons": [
+    "保留通行、定位及质量语义评审，取消可被误当施工图的色线示例",
+    "增加黄色冻结词义，不让质量色指定行车优先",
+    "无橙色地面线、无新安全图形，无假路宽/线宽/放样坐标",
+    "施工颜色、材料及真实边界待现场专项批准图确定"
+  ],
+  "scope": "applicability subject to approved actual operational workflow",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "area_id": null,
+  "world_position": null,
+  "actual_coordinates": null,
+  "facing": null,
+  "installation_height_mm": null,
+  "installed_quantity": null,
+  "approved_quantity": null,
+  "content_approval": null,
+  "installation_approval": null,
+  "specialist_approval": null,
+  "source_render_png": "reports/implementation_operations_render/v1/FM-01.png",
+  "render_png": "reports/implementation_operations_render/FM-01.png"
+}

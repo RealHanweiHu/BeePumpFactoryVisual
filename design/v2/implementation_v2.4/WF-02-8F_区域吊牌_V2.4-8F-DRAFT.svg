@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200mm" height="400mm" viewBox="0 0 1200 400" role="img" aria-label="区域吊牌 / 锂电泵装配基线提案 / 草案">
+<title>区域吊牌 / V2.4-8F-DRAFT</title>
+<desc>可编辑实施评审草案。名义模板尺寸，不构成现场施工放行。源文件和原始文字在侧车保存；实际位置、数量、方向、安装及批准均未取得。</desc>
+<metadata>{&quot;template_code&quot;: &quot;WF-02&quot;, &quot;revision&quot;: &quot;V2.4-8F-DRAFT&quot;, &quot;variant_id&quot;: &quot;WF-02-8F&quot;, &quot;floor_proposal&quot;: &quot;8F&quot;, &quot;nominal_dimensions_mm&quot;: [1200, 400], &quot;actual_point_id&quot;: null, &quot;production_release&quot;: false, &quot;source_template&quot;: {&quot;path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-02_区域吊牌.svg&quot;, &quot;sha256&quot;: &quot;40d727ece2813f3e06a15281b0f2f3b0c9bb37739c62b7558c7669a92a8e82f8&quot;}}</metadata>
+<g font-family="Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif">
+<rect x="0" y="0" width="1200" height="400" fill="#000000"/>
+<rect x="0" y="0" width="14" height="400" fill="#FF6600"/>
+<line x1="270" y1="40" x2="270" y2="350" stroke="#FF6600" stroke-width="3"/>
+<text x="140" y="75" font-size="19" fill="#FFFFFF" font-weight="400" text-anchor="middle">楼层 / FLOOR</text>
+<text x="140" y="215" font-size="108" fill="#FF6600" font-weight="600" text-anchor="middle">8F</text>
+<text x="140" y="297" font-size="20" fill="#FFFFFF" font-weight="400" text-anchor="middle">区域ID待确认</text>
+<text x="330" y="169" font-size="80" fill="#FFFFFF" font-weight="600" text-anchor="start">锂电泵装配</text>
+<text x="335" y="228" font-size="26" fill="#FFFFFF" font-weight="400" text-anchor="start">ELECTRIC PUMP ASSEMBLY</text>
+<line x1="335" y1="263" x2="1150" y2="263" stroke="#FF6600" stroke-width="3"/>
+<text x="335" y="319" font-size="22" fill="#FFFFFF" font-weight="400" text-anchor="start">名称为基线提案；区域边界与安装面待核</text>
+<text x="42" y="378" font-size="13" fill="#FFFFFF" font-weight="400" text-anchor="start">WF-02 / V2.4-8F-DRAFT · 无实际指向 · 名义模块1200×400mm</text>
+</g>
+</svg>

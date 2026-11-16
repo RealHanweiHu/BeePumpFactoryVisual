@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600mm" height="900mm" viewBox="0 0 600 900" role="img" aria-labelledby="title desc">
+<title id="title">WH-02 货架端头牌 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<metadata>{&quot;schema_version&quot;: &quot;1.0&quot;, &quot;code&quot;: &quot;WH-02&quot;, &quot;name&quot;: &quot;货架端头牌&quot;, &quot;revision&quot;: &quot;V2.4-IMPLEMENTATION-DRAFT&quot;, &quot;created_date&quot;: &quot;2026-10-07&quot;, &quot;drawing_status&quot;: &quot;template_only&quot;, &quot;approval_status&quot;: &quot;not_for_production&quot;, &quot;production_release&quot;: false, &quot;source_path&quot;: &quot;inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-02_货架端头牌.svg&quot;, &quot;source_sha256&quot;: &quot;e36453a654faeb61c930d43f352e6ddd548238bd7f0f100b04404405fc536b52&quot;, &quot;original_text_preserved_in_metadata&quot;: [&quot;5F&quot;, &quot;B-03&quot;, &quot;半成品货架&quot;, &quot;COMPONENT RACK&quot;, &quot;01-04 列&quot;, &quot;库位方向按现场校核&quot;], &quot;physical_size_mm&quot;: [600, 900], &quot;physical_size_source&quot;: &quot;V1 nominal suggested template size; not an installation measurement&quot;, &quot;font_sizes_are_nominal_em_mm&quot;: true, &quot;printed_font_and_installation_height&quot;: &quot;not verified; 1:1 print sample and site approval required&quot;, &quot;decision&quot;: &quot;Refine&quot;, &quot;change_reasons&quot;: [&quot;移除5F、B-03、01-04列和未核方向箭头&quot;, &quot;排号远读，精确库位转查WH-01，保留端头查找层级&quot;, &quot;货架用途、范围和方向记录依现场台账填写&quot;], &quot;scope&quot;: &quot;applicability subject to approved actual operational workflow&quot;, &quot;actual_point_id&quot;: null, &quot;actual_floor_id&quot;: null, &quot;area_id&quot;: null, &quot;world_position&quot;: null, &quot;actual_coordinates&quot;: null, &quot;facing&quot;: null, &quot;installation_height_mm&quot;: null, &quot;installed_quantity&quot;: null, &quot;approved_quantity&quot;: null, &quot;content_approval&quot;: null, &quot;installation_approval&quot;: null, &quot;specialist_approval&quot;: null, &quot;source_render_png&quot;: &quot;reports/implementation_operations_render/v1/WH-02.png&quot;, &quot;render_png&quot;: &quot;reports/implementation_operations_render/WH-02.png&quot;}</metadata>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="600" height="900" fill="#FFFFFF"/>
+<rect x="0" y="0" width="600" height="900" fill="#000000"/>
+<text x="42" y="78" font-size="35" fill="#FF6600" font-weight="700" text-anchor="start">楼层 / 区域待核</text>
+<text x="42" y="205" font-size="105" fill="#FFFFFF" font-weight="700" text-anchor="start">排号待填</text>
+<line x1="42" y1="251" x2="558" y2="251" stroke="#FF6600" stroke-width="4"/>
+<text x="42" y="325" font-size="57" fill="#FFFFFF" font-weight="700" text-anchor="start">货架用途待填</text>
+<text x="42" y="373" font-size="20" fill="#FFFFFF" font-weight="400" text-anchor="start">RACK IDENTITY / PENDING</text>
+<text x="42" y="475" font-size="38" fill="#FFFFFF" font-weight="700" text-anchor="start">列 / 层范围：待填</text>
+<text x="42" y="558" font-size="28" fill="#FFFFFF" font-weight="400" text-anchor="start">精确库位：查 WH-01</text>
+<text x="42" y="690" font-size="44" fill="#FFFFFF" font-weight="700" text-anchor="start">方向待现场核验</text>
+<text x="42" y="758" font-size="23" fill="#FFFFFF" font-weight="400" text-anchor="start">方向核验记录 / 责任人：待填</text>
+<text x="42" y="848" font-size="18" fill="#FFFFFF" font-weight="400" text-anchor="start">评审稿 · 未核方向不得制作安装</text>
+</g>
+</svg>

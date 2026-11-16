@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "revision": "V2.8-CHOICE-DRAFT",
+  "style_id": "A",
+  "style_label": "原版黑橙",
+  "code": "QC-05",
+  "template_code": "QC-05",
+  "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/QC-05_样件验证队列_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "source_sha256": "5e2e65785dfdf04a49f5e0b04e1134ac867645e24470324a750322d13d3e9cdb",
+  "nominal_size_mm": [
+    1200,
+    900
+  ],
+  "status": "style_option_pending_review",
+  "production_release": false,
+  "actual_point_id": null,
+  "actual_dimensions_mm": null,
+  "installation_height_mm": null,
+  "world_coordinates": null,
+  "quantity": null,
+  "text_preserved": true,
+  "text_geometry_preserved": true,
+  "quality_header_preserved": true,
+  "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.",
+  "source_metadata": [
+    "{\"template_code\": \"QC-05\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"variant_id\": \"QC-05\", \"floor_proposal\": null, \"nominal_dimensions_mm\": [1200, 900], \"actual_point_id\": null, \"production_release\": false, \"source_template\": {\"path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/QC-05_样件验证队列.svg\", \"sha256\": \"59b50f0d429f38451e5f86b9f868b3bd299d64cd1c4719d450827f1bcf31ef84\"}}"
+  ]
+}

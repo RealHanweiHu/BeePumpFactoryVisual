@@ -1,0 +1,46 @@
+const fs=require('fs'),path=require('path');
+const {chromium}=require('/Users/huhanwei/.npm/_npx/31e32ef8478fbf80/node_modules/playwright');
+const root=path.resolve(__dirname,'..'),out=path.join(root,'reports/flow_render');
+(async()=>{
+ fs.mkdirSync(out,{recursive:true});fs.mkdirSync(path.join(root,'output/pdf'),{recursive:true});
+ const r={externalRequests:[],pageErrors:[],diagrams:[],preview:{},pdf:{}};
+ const b=await chromium.launch({headless:true,executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',args:['--disable-background-networking']});
+ const p=await b.newPage({viewport:{width:1440,height:1050}});
+ p.on('pageerror',e=>r.pageErrors.push(String(e)));
+ await p.route(/^https?:/,route=>{r.externalRequests.push(route.request().url());route.abort()});
+ const manifest=JSON.parse(fs.readFileSync(path.join(root,'outputs/flow_review/review_manifest.json')));
+ for(const file of manifest.diagrams){
+  await p.goto('file://'+path.join(root,file));
+  await p.evaluate(()=>{const s=document.documentElement;s.style.width='1400px';s.style.height='auto';s.style.display='block'});await p.evaluate(()=>document.fonts.ready);
+  const textChecks=await p.evaluate(()=>{const s=document.documentElement,v=s.viewBox.baseVal;return [...s.querySelectorAll('text')].map(t=>{const z=t.getBBox();return {text:t.textContent,box:{x:z.x,y:z.y,w:z.width,h:z.height},inside:z.x>=0&&z.y>=0&&z.x+z.width<=v.width&&z.y+z.height<=v.height}})});
+  await p.locator('svg').first().screenshot({path:path.join(out,path.basename(file,'.svg')+'.png')});r.diagrams.push({file,textChecks});
+ }
+ await p.goto('file://'+path.join(root,'FLOW_REVIEW.html'));await p.evaluate(()=>document.fonts.ready);
+ await p.addStyleTag({content:'html{scroll-behavior:auto !important}'});
+ r.preview.images=await p.evaluate(async()=>Promise.all([...document.images].filter(x=>x.hasAttribute('src')).map(async x=>{try{await x.decode();return {ok:true}}catch(e){return {ok:false,error:String(e)}}})));
+ r.preview.defaultInputsBlank=await p.locator('input').evaluateAll(xs=>xs.every(x=>x.value===''));
+ await p.locator('#calculate').click();r.preview.blankRejected=(await p.locator('#calc-result').innerText()).includes('请填齐');
+ for(const [k,v] of Object.entries({rate:2,lead:10,interval:20,delay:3,buffer:4,available:5,transit:7,backlog:1,pack:6}))await p.locator('#'+k).fill(String(v));
+ await p.locator('#calculate').click();r.preview.caseA=await p.locator('#calc-result').innerText();
+ r.preview.caseAPassed=r.preview.caseA.includes('IP：11')&&r.preview.caseA.includes('补量Q 54')&&r.preview.caseA.includes('需要量B：66')&&r.preview.caseA.includes('再订点R 30');
+ for(const [k,v] of Object.entries({rate:0.5,lead:4,interval:6,delay:0,buffer:0,available:50,transit:0,backlog:0,pack:5}))await p.locator('#'+k).fill(String(v));
+ await p.locator('#calculate').click();r.preview.caseB=await p.locator('#calc-result').innerText();r.preview.caseBPassed=r.preview.caseB.includes('补量Q 0')&&r.preview.caseB.includes('需要量B：5')&&r.preview.caseB.includes('尚未达到');
+ await p.locator('#pack').fill('0');await p.locator('#calculate').click();r.preview.zeroPackRejected=(await p.locator('#calc-result').innerText()).includes('大于0');
+ await p.locator('#clear').click();r.preview.resetBlank=await p.locator('input').evaluateAll(xs=>xs.every(x=>x.value===''));
+ const img=p.locator('main img').first();await img.focus();await p.keyboard.press('Enter');r.preview.keyboardZoom=await p.locator('#zoom').evaluate(e=>e.open);await p.keyboard.press('Escape');r.preview.escapeClosed=!(await p.locator('#zoom').evaluate(e=>e.open));
+ await p.locator('summary').first().click();r.preview.detailsWorks=await p.locator('details').first().evaluate(e=>e.open);await p.locator('summary').first().click();
+ await p.evaluate(()=>window.scrollTo(0,0));await p.screenshot({path:path.join(out,'desktop.png')});r.preview.desktopOverflow=await p.evaluate(()=>document.documentElement.scrollWidth>innerWidth);
+ r.preview.localLinks=await p.locator('a[href]').evaluateAll(xs=>xs.map(x=>x.getAttribute('href')).filter(x=>!x.startsWith('#')&&!x.startsWith('http')));
+ r.preview.missingLinks=r.preview.localLinks.filter(x=>!fs.existsSync(path.resolve(root,x)));
+ await p.setViewportSize({width:390,height:844});await p.evaluate(()=>window.scrollTo(0,0));await p.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));await p.waitForTimeout(250);await p.screenshot({path:path.join(out,'mobile.png')});r.preview.mobileOverflow=await p.evaluate(()=>document.documentElement.scrollWidth>innerWidth);
+ await p.setViewportSize({width:1588,height:1123});await p.goto('file://'+path.join(root,'outputs/flow_review/flow_print.html'));await p.evaluate(()=>document.fonts.ready);
+ r.pdf.images=await p.evaluate(async()=>Promise.all([...document.images].map(async x=>{try{await x.decode();return {ok:true}}catch(e){return {ok:false,error:String(e)}}})));
+ r.pdf.pages=await p.locator('.page').count();
+ r.pdf.layout=await p.locator('.page').evaluateAll(xs=>xs.map((e,i)=>{const z=e.getBoundingClientRect(),body=e.querySelector('.body'),br=body.getBoundingClientRect(),f=e.querySelector('footer').getBoundingClientRect();const childBottom=Math.max(...[...body.querySelectorAll('*')].map(x=>x.getBoundingClientRect().bottom),br.bottom);return {page:i+1,bodyBottom:childBottom-z.top,footerTop:f.top-z.top,noFooterCollision:childBottom<f.top-4,horizontalOverflow:e.scrollWidth>e.clientWidth+1}}));
+ await p.pdf({path:path.join(root,'output/pdf/BeePump_Flow_People_Review_V2.3.pdf'),printBackground:true,preferCSSPageSize:true,displayHeaderFooter:false});
+ await b.close();
+ r.passed=r.pageErrors.length===0&&r.externalRequests.length===0&&r.diagrams.every(x=>x.textChecks.every(t=>t.inside))&&r.preview.images.every(x=>x.ok)&&r.pdf.images.every(x=>x.ok)&&r.pdf.layout.every(x=>x.noFooterCollision&&!x.horizontalOverflow)&&!r.preview.mobileOverflow&&!r.preview.desktopOverflow&&r.preview.defaultInputsBlank&&r.preview.blankRejected&&r.preview.caseAPassed&&r.preview.caseBPassed&&r.preview.zeroPackRejected&&r.preview.resetBlank&&r.preview.keyboardZoom&&r.preview.escapeClosed&&r.preview.detailsWorks;
+ fs.writeFileSync(path.join(root,'reports/flow_qa.json'),JSON.stringify(r,null,2));
+ console.log(JSON.stringify({passed:r.passed,pages:r.pdf.pages,layoutIssues:r.pdf.layout.filter(x=>!x.noFooterCollision||x.horizontalOverflow),diagramIssues:r.diagrams.flatMap(x=>x.textChecks.filter(t=>!t.inside).map(t=>({file:x.file,...t}))),preview:r.preview},null,2));
+ process.exit(r.passed?0:2);
+})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="148mm" viewBox="0 0 210 148" role="img" aria-labelledby="title desc">
+<metadata id="beepump-v28-style-draft">{"schema_version": "1.0", "revision": "V2.8-CHOICE-DRAFT", "style_id": "C", "style_label": "固定标签分区", "code": "BT-02", "template_code": "BT-02", "source_path": "交付_8楼/逐项样式尺寸_参观预览_V2.6/可编辑模板/BT-02_老化格位卡_V2.4-IMPLEMENTATION-DRAFT.svg", "source_sha256": "eccb076bc5475946be21a9f6497703436c4abf129d7602ab4833c2eacf85bfe0", "nominal_size_mm": [210, 148], "status": "style_option_pending_review", "production_release": false, "actual_point_id": null, "actual_dimensions_mm": null, "installation_height_mm": null, "world_coordinates": null, "quantity": null, "text_preserved": true, "text_geometry_preserved": true, "quality_header_preserved": true, "printed_source_revision_note": "Source wording, including printed source revision, is preserved verbatim; option edition appears in this metadata and review UI.", "source_metadata": ["{\"schema_version\": \"1.0\", \"code\": \"BT-02\", \"name\": \"老化格位卡\", \"revision\": \"V2.4-IMPLEMENTATION-DRAFT\", \"created_date\": \"2026-10-07\", \"drawing_status\": \"template_only\", \"approval_status\": \"not_for_production\", \"production_release\": false, \"source_path\": \"inputs/v1/BeePump_Design_Package/03_Templates_SVG/BT-02_老化格位卡.svg\", \"source_sha256\": \"ec3a6a67362f47fa59f5c88af00fb255e5209da3161680a70752a8d953a30da1\", \"original_text_preserved_in_metadata\": [\"老化格位卡\", \"AGING SLOT RECORD\", \"8F-C-R01-01\", \"产品 / 批次\", \"________________\", \"测试程序 / 版本\", \"________________\", \"开始 / 预计完成\", \"________________\", \"周期状态\", \"________________\", \"质量状态 / 放行\", \"________________\", \"周期完成≠质量合格 / 异常必须保留记录并转入批准处置流程\"], \"physical_size_mm\": [210, 148], \"physical_size_source\": \"V1 nominal suggested template size; not an installation measurement\", \"font_sizes_are_nominal_em_mm\": true, \"printed_font_and_installation_height\": \"not verified; 1:1 print sample and site approval required\", \"decision\": \"Refine\", \"change_reasons\": [\"移除8F-C-R01-01假格位及假测试时间\", \"适用工艺、设备与程序须先批准；格位为真实身份\", \"周期状态与质量结论分开，异常和复测保留完整记录\"], \"scope\": \"applicability subject to approved actual operational workflow\", \"actual_point_id\": null, \"actual_floor_id\": null, \"area_id\": null, \"world_position\": null, \"actual_coordinates\": null, \"facing\": null, \"installation_height_mm\": null, \"installed_quantity\": null, \"approved_quantity\": null, \"content_approval\": null, \"installation_approval\": null, \"specialist_approval\": null, \"source_render_png\": \"reports/implementation_operations_render/v1/BT-02.png\", \"render_png\": \"reports/implementation_operations_render/BT-02.png\"}"]}</metadata><title id="title">BT-02 老化格位卡 V2.4-IMPLEMENTATION-DRAFT</title>
+<desc id="desc">评审模板，未知资料待填，无安装点或批准；名义牌面尺寸复用V1。</desc>
+<g font-family="PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif">
+<rect x="0" y="0" width="210" height="148" fill="#FFFFFF" />
+<rect x="0" y="0" width="210" height="22.2" fill="#000000" />
+<rect x="0" y="0" width="2.31" height="22.2" fill="#FF6600" />
+<text x="9.45" y="10.434" font-size="5.994" fill="#FFFFFF" font-weight="700" text-anchor="start">老化格位卡</text>
+<text x="9.45" y="17.76" font-size="2.664" fill="#FFFFFF" font-weight="500" text-anchor="start">AGING SLOT RECORD</text>
+<text x="200.55" y="10.434" font-size="3.552" fill="#FF6600" font-weight="700" text-anchor="end">BT-02</text>
+<text x="9.45" y="33.2" font-size="3.8" fill="#000000" font-weight="700" text-anchor="start">仅适用已批准的真实老化工艺</text>
+<rect x="7.83" y="43.7" width="100.19" height="6.48" fill="#000000" data-option-panel="true" /><text x="9.45" y="48.2" font-size="3.6" fill="#FFFFFF" font-weight="400" text-anchor="start">实际格位 / 设备ID</text>
+<rect x="109.28" y="43.7" width="91.27" height="6.48" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="110" y="48.2" font-size="3.6" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="9.45" y1="51.148" x2="200.55" y2="51.148" stroke="#C9C9C9" stroke-width="0.25" />
+<rect x="7.83" y="57.1" width="100.19" height="6.48" fill="#000000" data-option-panel="true" /><text x="9.45" y="61.6" font-size="3.6" fill="#FFFFFF" font-weight="400" text-anchor="start">产品版本 / 容器批次</text>
+<rect x="109.28" y="57.1" width="91.27" height="6.48" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="110" y="61.6" font-size="3.6" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="9.45" y1="64.548" x2="200.55" y2="64.548" stroke="#C9C9C9" stroke-width="0.25" />
+<rect x="7.83" y="70.5" width="100.19" height="6.48" fill="#000000" data-option-panel="true" /><text x="9.45" y="75" font-size="3.6" fill="#FFFFFF" font-weight="400" text-anchor="start">批准程序 / 版本</text>
+<rect x="109.28" y="70.5" width="91.27" height="6.48" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="110" y="75" font-size="3.6" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="9.45" y1="77.948" x2="200.55" y2="77.948" stroke="#C9C9C9" stroke-width="0.25" />
+<rect x="7.83" y="83.9" width="100.19" height="6.48" fill="#000000" data-option-panel="true" /><text x="9.45" y="88.4" font-size="3.6" fill="#FFFFFF" font-weight="400" text-anchor="start">开始 / 预计完成</text>
+<rect x="109.28" y="83.9" width="91.27" height="6.48" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="110" y="88.4" font-size="3.6" fill="#000000" font-weight="400" text-anchor="start">按程序记录</text>
+<line x1="9.45" y1="91.348" x2="200.55" y2="91.348" stroke="#C9C9C9" stroke-width="0.25" />
+<rect x="7.83" y="97.3" width="100.19" height="6.48" fill="#000000" data-option-panel="true" /><text x="9.45" y="101.8" font-size="3.6" fill="#FFFFFF" font-weight="400" text-anchor="start">周期状态 / 异常记录</text>
+<rect x="109.28" y="97.3" width="91.27" height="6.48" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="110" y="101.8" font-size="3.6" fill="#000000" font-weight="400" text-anchor="start">待填</text>
+<line x1="9.45" y1="104.748" x2="200.55" y2="104.748" stroke="#C9C9C9" stroke-width="0.25" />
+<rect x="7.83" y="110.7" width="100.19" height="6.48" fill="#000000" data-option-panel="true" /><text x="9.45" y="115.2" font-size="3.6" fill="#FFFFFF" font-weight="400" text-anchor="start">质量结论 / 放行记录</text>
+<rect x="109.28" y="110.7" width="91.27" height="6.48" fill="#FFFFFF" data-option-panel="true" stroke="#3E3A39" stroke-width="0.2" /><text x="110" y="115.2" font-size="3.6" fill="#000000" font-weight="400" text-anchor="start">由授权品质填写</text>
+<line x1="9.45" y1="118.148" x2="200.55" y2="118.148" stroke="#C9C9C9" stroke-width="0.25" />
+<rect x="9.45" y="122" width="191.1" height="17" fill="#F2F2F2" />
+<text x="13.23" y="127.44" font-size="3.4" fill="#000000" font-weight="700" text-anchor="start">周期完成不等于质量放行。</text>
+<text x="13.23" y="132.71" font-size="3.4" fill="#000000" font-weight="400" text-anchor="start">暂停 / 断电 / 异常 / 复测保留原记录。</text>
+<text x="9.45" y="146.53" font-size="2.94" fill="#3E3A39" font-weight="400" text-anchor="start">评审稿 · 内容、适用范围与安装待批准</text>
+</g>
+</svg>

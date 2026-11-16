@@ -1,0 +1,52 @@
+{
+  "code": "WH-01",
+  "revision": "V2.1-DRAFT",
+  "status": "proposal_pending_review",
+  "physical_size_mm": [
+    200,
+    100
+  ],
+  "viewbox_units": "1 SVG user unit = 1 mm",
+  "source_path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WH-01_库位标签.svg",
+  "source_sha256": "b959e2ae41ff46627a5874c6d2614ac7d61c1d2d07a074598e124b9a2cbe3a59",
+  "original_text_preserved_in_metadata": [
+    "库位 / LOCATION",
+    "5F-B-03-04-02",
+    "楼层 / 区 / 排 / 列 / 层",
+    "QR",
+    "库位ID",
+    "容量 / 载荷：批准后填写",
+    "物料与批次采用可换卡，不印死在库位牌上"
+  ],
+  "changes": [
+    "替换5F示例为8F编码结构占位",
+    "库位码留完整白区；明确非扫码图，保留容量与可换卡边界"
+  ],
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "nominal_font_sizes_are_em_mm": true,
+  "printed_ink_height_and_reading_distance": "Verify at 1:1 under real lighting; not approved by web preview",
+  "area_ids": "8F-A and 8F-C are baseline mappings, not confirmed DWG placements",
+  "installation_height_mm": null,
+  "quantity_installed": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "qr_status": "not_generated",
+  "path": "design/v2/WH-01_库位标签_V2.1-DRAFT.svg",
+  "template_code": "WH-01",
+  "source_v1_sha256": "b959e2ae41ff46627a5874c6d2614ac7d61c1d2d07a074598e124b9a2cbe3a59",
+  "physical_width_mm": 200,
+  "physical_height_mm": 100,
+  "authoring_notes": [
+    "替换5F示例为8F编码结构占位",
+    "库位码留完整白区；明确非扫码图，保留容量与可换卡边界"
+  ],
+  "content_review": "pending_owner_and_department_review",
+  "render_evidence": [
+    "reports/v2_render/WH-01.png",
+    "reports/v2_render_qa.json"
+  ]
+}

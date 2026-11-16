@@ -1,0 +1,77 @@
+{
+  "template_code": "BE-01",
+  "template_name": "入口品牌墙",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "variant_id": "BE-01",
+  "content_variant": "入口接待与可见制造文案",
+  "floor_proposal": null,
+  "status": "implementation_review_proposal",
+  "source_template": {
+    "path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/BE-01_入口品牌墙.svg",
+    "sha256": "82c82c900e08f5453941d83a76d10ed6964b6e312ef8face32d32865cc4068bd"
+  },
+  "original_text_preserved": [
+    "BeePump",
+    "MANUFACTURING",
+    "让制造过程看得见",
+    "VISIBLE PROCESS. CONSISTENT QUALITY.",
+    "金工  /  注塑  /  装配  /  测试  /  仓储",
+    "SINCE 1994",
+    "文案提案 / 品牌字样为排版示意；生产须替换批准Logo源文件"
+  ],
+  "change_reasons": [
+    "保留品牌入口和可见制造目标；删除未获证实的SINCE 1994",
+    "字标明确为排版示意，正式Logo与主文案待批准",
+    "补齐接待、指定观察和证据核验的三层实际内容提案"
+  ],
+  "nominal_dimensions_mm": [
+    3600,
+    2200
+  ],
+  "viewbox_contract": "1 SVG user unit = 1 nominal mm",
+  "nominal_font_size_note": "font-size is nominal em in template units, not printed glyph height or site readability approval",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "actual_area_id": null,
+  "actual_direction_degrees": null,
+  "actual_installation_height_mm": null,
+  "actual_installed_quantity": null,
+  "actual_face_count": null,
+  "approved_capacity": null,
+  "production_release": false,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "operation": null,
+    "installation": null,
+    "safety_when_applicable": null
+  },
+  "orange_floor_markings": false,
+  "safety_graphics_changed": false,
+  "font_stack": "Noto Sans CJK SC, Source Han Sans SC, PingFang SC, Microsoft YaHei, sans-serif",
+  "font_files_distributed": false,
+  "template_slots_are_not_site_counts": true,
+  "read_update_hierarchy": [
+    "品牌与入口识别",
+    "来访下一步",
+    "陪同和授权边界"
+  ],
+  "render_review": {
+    "status": "digital_render_bounds_and_pixels_checked",
+    "png": "reports/implementation_template_render/BE-01.png",
+    "qa_record": "reports/implementation_template_render/render_qa.json",
+    "text_inside_artboard": true,
+    "text_overlap_candidates": 0,
+    "pixels_viewed_individually": true,
+    "chinese_display_checked": true,
+    "source_png_viewed_before_edit": true,
+    "font_used": "Installed PingFang SC fallback",
+    "physical_1_to_1_sample_tested": false,
+    "site_reading_distance_approved": false,
+    "installation_approved": false,
+    "thumbnail_note": "WF-01-8F header and WF-02-8F lower text were additionally checked by native-size PNG detail; their corresponding unchanged pixels equal 1F variants"
+  },
+  "path": "design/v2/implementation_v2.4/BE-01_入口品牌墙_V2.4-IMPLEMENTATION-DRAFT.svg",
+  "sidecar_path": "design/v2/implementation_v2.4/BE-01_入口品牌墙_V2.4-IMPLEMENTATION-DRAFT.sidecar.json",
+  "svg_sha256": "3e44492e6b512546bb31280faad684c4183da65ad56238fc45731d51921e3f55"
+}

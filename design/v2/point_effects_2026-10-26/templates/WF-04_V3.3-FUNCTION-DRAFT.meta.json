@@ -1,0 +1,42 @@
+{
+  "code": "WF-04",
+  "revision": "V3.3-FUNCTION-DRAFT",
+  "status": "proposal_pending_review",
+  "production_release": false,
+  "physical_size_mm": [
+    360,
+    1100
+  ],
+  "dimension_scope": "Existing nominal template size retained; site/installation dimensions unknown.",
+  "source_path": "交付_8楼/design/v2/split_v2.4/8F/WF-04_柱牌_V2.4-8F-SPLIT-DRAFT.svg",
+  "source_sha256": "9bf7066d84d687d75c67c46aba8ed5313d46b83947ba7150538422521529bcb4",
+  "original_text_preserved_in_metadata": [
+    "8F",
+    "区域待核",
+    "锂电泵装配",
+    "ELECTRIC PUMP ASSEMBLY",
+    "区域 / AREA",
+    "区域待核",
+    "柱号 / COLUMN",
+    "P-待填",
+    "朝向按图纸与现场确认",
+    "WF-04 / 位置识别草案",
+    "不以区域号替代永久柱号"
+  ],
+  "decision": "Refine",
+  "changes": [
+    "区域信息只出现一次，减少重复待核字样。",
+    "区域号、永久柱号各设独立可换填写区，保留原有身份与朝向约束。"
+  ],
+  "external_reference_status": "Initial layouts preceded Xiaohongshu login; subsequently reviewed against 3 observed Xiaohongshu posts and 4 supplementary primary sources. See reference ledger.",
+  "reference_ledger": "reports/point_effects_2026-10-26/reference_records.json",
+  "quantity_installed": null,
+  "installation_height_mm": null,
+  "approvals": {
+    "content": null,
+    "location": null,
+    "installation": null
+  },
+  "font_files_distributed": false,
+  "path": "design/v2/point_effects_2026-10-26/templates/WF-04_V3.3-FUNCTION-DRAFT.svg"
+}

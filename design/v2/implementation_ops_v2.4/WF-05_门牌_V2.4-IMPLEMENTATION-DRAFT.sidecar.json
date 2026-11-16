@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "code": "WF-05",
+  "name": "门牌",
+  "revision": "V2.4-IMPLEMENTATION-DRAFT",
+  "created_date": "2026-10-07",
+  "drawing_status": "template_only",
+  "approval_status": "not_for_production",
+  "production_release": false,
+  "source_path": "inputs/v1/BeePump_Design_Package/03_Templates_SVG/WF-05_门牌.svg",
+  "source_sha256": "5c56a54ee0ff3ac0ca01d46cb711c8c874fb4209b4f56cc0fae9cc8849da1f7a",
+  "original_text_preserved_in_metadata": [
+    "治具室",
+    "FIXTURE ROOM",
+    "8F",
+    "区域编号",
+    "8F-___",
+    "区域负责人",
+    "____________"
+  ],
+  "physical_size_mm": [
+    400,
+    180
+  ],
+  "physical_size_source": "V1 nominal suggested template size; not an installation measurement",
+  "font_sizes_are_nominal_em_mm": true,
+  "printed_font_and_installation_height": "not verified; 1:1 print sample and site approval required",
+  "decision": "Refine",
+  "change_reasons": [
+    "保留支持房间身份、区域与责任功能",
+    "移除未经确认的治具室、8F及示例区域码",
+    "房名、准入与联系方式按真实台账填写，无方向箭头"
+  ],
+  "scope": "applicability subject to approved actual operational workflow",
+  "actual_point_id": null,
+  "actual_floor_id": null,
+  "area_id": null,
+  "world_position": null,
+  "actual_coordinates": null,
+  "facing": null,
+  "installation_height_mm": null,
+  "installed_quantity": null,
+  "approved_quantity": null,
+  "content_approval": null,
+  "installation_approval": null,
+  "specialist_approval": null,
+  "source_render_png": "reports/implementation_operations_render/v1/WF-05.png",
+  "render_png": "reports/implementation_operations_render/WF-05.png"
+}

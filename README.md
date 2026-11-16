@@ -2,7 +2,7 @@
 
 ## GitHub 仓库
 
-私有仓库跟踪项目文档、脚本、测试、方案台账和可独立查看的设计稿。可直接查看 [V3.4 围板 SVG](design/v2/8f_partition_v3.4)、[V3.3 功能牌面 SVG](design/v2/point_effects_2026-10-26/templates)、[V2.8 样式方案](design/v2/options_v2.8/styles)及 [21 项方案清单](outputs/planning/8F_方案收口清单.csv)。
+仓库跟踪项目文档、脚本、测试、方案台账和可独立查看的设计稿。可直接查看 [V3.4 围板 SVG](design/v2/8f_partition_v3.4)、[V3.3 功能牌面 SVG](design/v2/point_effects_2026-10-26/templates)、[V2.8 样式方案](design/v2/options_v2.8/styles)及 [21 项方案清单](outputs/planning/8F_方案收口清单.csv)。
 
 原始资料、CAD 转换文件、含底图的交付件、归档包和高分辨率概念 PNG 保存在原工作目录。克隆后如需运行完整校验或生成预览，请从授权的本地副本按原相对路径补齐 `inputs/`。离线评审、CAD 和历史交付入口依赖原工作目录中的对应文件。
 
